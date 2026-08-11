@@ -1,0 +1,37 @@
+name: Taekwondodo Race Scraper Agent
+
+on:
+  schedule:
+    # Esegue lo script ogni giorno alle 08:00 UTC
+    - cron: '0 8 * * *'
+  # Permette anche di lanciare lo script manualmente dalla dashboard di GitHub
+  workflow_dispatch:
+
+jobs:
+  run-scraper:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout del codice
+        uses: actions/checkout@v4
+
+      - name: Configurazione Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Installazione Dipendenze
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 google-genai
+
+      - name: Esecuzione dell'Agente AI
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python scraper.py
+
+      - name: Salva l'output come Artefatto (Scaricabile da GitHub)
+        uses: actions/upload-artifact@v4
+        with:
+          name: risultati-gare
+          path: gare_trovate.json
