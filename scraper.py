@@ -1,6 +1,7 @@
 import json
 import os
 import requests
+from urllib.parse import urljoin
 from bs4 import BeautifulSoup
 
 # Lista dei target da scansionare
@@ -13,8 +14,9 @@ SITI_MONITORATI = [
 
 def estrai_gare():
     gare_trovate = []
+    
     headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
     }
 
     print("🥋 Avvio scansione siti Taekwondo...")
@@ -22,42 +24,47 @@ def estrai_gare():
     for url in SITI_MONITORATI:
         try:
             print(f"Scansione di: {url}")
-            response = requests.get(url, headers=headers, timeout=15)
+            response = requests.get(url, headers=headers, timeout=15, verify=True)
+            
             if response.status_code == 200:
                 soup = BeautifulSoup(response.text, 'html.parser')
                 
-                # Esempio di ricerca generica per tag e titoli gare
-                # (Questa logica verrà affinata via via in base ai selettori specifici)
                 for link in soup.find_all('a', href=True):
                     testo = link.get_text(strip=True)
-                    href = link['href']
+                    href = link['href'].strip()
+                    
+                    if not testo or not href or href.startswith("javascript:") or href.startswith("#"):
+                        continue
                     
                     # Filtra i link che contengono parole chiave legate a gare/campionati
-                    if any(kw in testo.lower() for kw in ["campionato", "trofeo", "open", "cup", "gara", "fita"]):
-                        if not href.startswith("http"):
-                            # Ricostruisce URL relativo
-                            base_url = "/".join(url.split("/")[:3])
-                            href = base_url + href if href.startswith("/") else url + "/" + href
-                            
+                    parole_chiave = ["campionato", "trofeo", "open", "cup", "gara", "fita", "taekwondo", "iscrizioni", "risultati"]
+                    
+                    if any(kw in testo.lower() for kw in parole_chiave) or any(kw in href.lower() for kw in parole_chiave):
+                        # Ricostruisce URL completo usando urljoin
+                        full_url = urljoin(url, href)
+                        
                         gare_trovate.append({
                             "titolo": testo,
-                            "link": href,
+                            "link": full_url,
                             "sorgente": url
                         })
+            else:
+                print(f"⚠️ Risposta {response.status_code} per URL: {url}")
+                
         except Exception as e:
             print(f"⚠️ Errore durante la scansione di {url}: {e}")
 
     # Rimuove eventuali duplicati basati sul link
-    gare_uniche = {g['link']: g for g in gare_trovate}.values()
-    return list(gare_uniche)
+    gare_uniche = list({g['link']: g for g in gare_trovate}.values())
+    return gare_uniche
 
 if __name__ == "__main__":
     risultati = estrai_gare()
     
-    # Salva SEMPRE il file gare_trovate.json per evitare il warning di GitHub Actions
+    # Salva il file gare_trovate.json
     nome_file = "gare_trovate.json"
     with open(nome_file, "w", encoding="utf-8") as f:
         json.dump(risultati, f, ensure_ascii=False, indent=4)
         
-    print(f" Trovate {len(risultati)} gare/eventi correlati.")
-    print(f" File '{nome_file}' salvato con successo.")
+    print(f"✅ Trovate {len(risultati)} gare/eventi correlati.")
+    print(f"💾 File '{nome_file}' salvato con successo.")
