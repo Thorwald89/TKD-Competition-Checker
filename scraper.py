@@ -1,76 +1,63 @@
-import os
 import json
+import os
 import requests
 from bs4 import BeautifulSoup
-from google import genai
-from google.genai import types
 
-# 1. Recupera la chiave API di Gemini dalle variabili d'ambiente
-GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
-if not GEMINI_API_KEY:
-    raise ValueError("GEMINI_API_KEY non trovata nelle variabili d'ambiente!")
+# Lista dei target da scansionare
+SITI_MONITORATI = [
+    "https://www.taekwondoitalia.it/calendario/calendario-eventi.html",
+    "https://www.taekwondoitalia.it/calendario/eventi-area-riservata.html",
+    "https://www.taekwondocampano.it/",
+    "https://www.tpss2021.eu/"
+]
 
-client = genai.Client(api_key=GEMINI_API_KEY)
-
-# 2. URL target (Esempio: pagina calendario o gare)
-# Sostituisci questo URL con la pagina specifica da monitorare
-URL_TARGET = "https://www.taekwondoitalia.it/gare.html" 
-
-def fetch_page_text(url):
+def estrai_gare():
+    gare_trovate = []
     headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     }
-    response = requests.get(url, headers=headers)
-    response.raise_for_status()
-    
-    # Puliamo l'HTML estraendo solo il testo visibile per risparmiare token
-    soup = BeautifulSoup(response.text, "html.parser")
-    # Rimuoviamo tag non utili come script e stili
-    for element in soup(["script", "style", "nav", "footer"]):
-        element.extract()
-        
-    return soup.get_text(separator=" ", strip=True)
 
-def parse_events_with_gemini(raw_text):
-    prompt = f"""
-    Analizza il seguente testo estratto da un sito web di Taekwondo ed estrai tutte le gare, tornei o eventi sportivi menzionati.
-    
-    Restituisci unicamente un array JSON di oggetti dove ogni oggetto ha questo schema:
-    - nome_evento: (stringa) Nome della gara
-    - data_inizio: (stringa, formato YYYY-MM-DD se disponibile o testo)
-    - data_fine: (stringa, formato YYYY-MM-DD o uguale a data_inizio)
-    - luogo: (stringa) Città/Palazzetto
-    - specialita: (stringa es. Combattimento, Forme, Parataekwondo, Tutti)
-    - link_bando: (stringa o null se presente)
+    print("🥋 Avvio scansione siti Taekwondo...")
 
-    Testo da analizzare:
-    {raw_text[:12000]} # Limitiamo i caratteri per sicurezza
-    """
-    
-    response = client.models.generate_content(
-        model="gemini-2.5-flash",
-        contents=prompt,
-        config=types.GenerateContentConfig(
-            response_mime_type="application/json",
-        )
-    )
-    return response.text
+    for url in SITI_MONITORATI:
+        try:
+            print(f"Scansione di: {url}")
+            response = requests.get(url, headers=headers, timeout=15)
+            if response.status_code == 200:
+                soup = BeautifulSoup(response.text, 'html.parser')
+                
+                # Esempio di ricerca generica per tag e titoli gare
+                # (Questa logica verrà affinata via via in base ai selettori specifici)
+                for link in soup.find_all('a', href=True):
+                    testo = link.get_text(strip=True)
+                    href = link['href']
+                    
+                    # Filtra i link che contengono parole chiave legate a gare/campionati
+                    if any(kw in testo.lower() for kw in ["campionato", "trofeo", "open", "cup", "gara", "fita"]):
+                        if not href.startswith("http"):
+                            # Ricostruisce URL relativo
+                            base_url = "/".join(url.split("/")[:3])
+                            href = base_url + href if href.startswith("/") else url + "/" + href
+                            
+                        gare_trovate.append({
+                            "titolo": testo,
+                            "link": href,
+                            "sorgente": url
+                        })
+        except Exception as e:
+            print(f"⚠️ Errore durante la scansione di {url}: {e}")
+
+    # Rimuove eventuali duplicati basati sul link
+    gare_uniche = {g['link']: g for g in gare_trovate}.values()
+    return list(gare_uniche)
 
 if __name__ == "__main__":
-    print("🤖 Avvio scraping della pagina...")
-    try:
-        text_content = fetch_page_text(URL_TARGET)
-        print("📄 Testo estratto con successo. Analisi AI in corso...")
+    risultati = estrai_gare()
+    
+    # Salva SEMPRE il file gare_trovate.json per evitare il warning di GitHub Actions
+    nome_file = "gare_trovate.json"
+    with open(nome_file, "w", encoding="utf-8") as f:
+        json.dump(risultati, f, ensure_ascii=False, indent=4)
         
-        events_json_str = parse_events_with_gemini(text_content)
-        events_data = json.loads(events_json_str)
-        
-        print("\n✅ Risultati estratti dall'Agente AI:")
-        print(json.dumps(events_data, indent=2, ensure_ascii=False))
-        
-        # Salviamo il risultato su file
-        with open("gare_trovate.json", "w", encoding="utf-8") as f:
-            json.dump(events_data, f, indent=2, ensure_ascii=False)
-            
-    except Exception as e:
-        print(f"❌ Errore durante l'esecuzione: {e}")
+    print(f" Trovate {len(risultati)} gare/eventi correlati.")
+    print(f" File '{nome_file}' salvato con successo.")
