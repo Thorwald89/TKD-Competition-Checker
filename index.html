@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Calendario Gare Taekwondo</title>
+  <style>
+    /* ==========================================
+       STILI CSS3 & RESPONSIVE DESIGN
+       ========================================== */
+    :root {
+      --primary-color: #1e3a8a; /* Blu Taekwondo */
+      --accent-color: #dc2626;  /* Rosso Taekwondo */
+      --bg-color: #f8fafc;
+      --card-bg: #ffffff;
+      --text-color: #1e293b;
+      --border-color: #e2e8f0;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: var(--bg-color);
+      color: var(--text-color);
+      line-height: 1.6;
+      padding: 20px;
+    }
+
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    h1 {
+      text-align: center;
+      margin-bottom: 20px;
+      color: var(--primary-color);
+      font-size: 2rem;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+    }
+
+    /* FILTRI D'INTESTAZIONE */
+    .filter-container {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      justify-content: center;
+      margin-bottom: 25px;
+    }
+
+    .filter-btn {
+      background-color: var(--card-bg);
+      border: 2px solid var(--primary-color);
+      color: var(--primary-color);
+      padding: 8px 18px;
+      border-radius: 20px;
+      cursor: pointer;
+      font-weight: 600;
+      transition: all 0.3s ease;
+    }
+
+    .filter-btn:hover, .filter-btn.active {
+      background-color: var(--primary-color);
+      color: #ffffff;
+    }
+
+    /* TABELLA RESPONSIVE */
+    .table-container {
+      background-color: var(--card-bg);
+      border-radius: 8px;
+      box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+      overflow-x: auto;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      text-align: left;
+    }
+
+    th, td {
+      padding: 14px 16px;
+      border-bottom: 1px solid var(--border-color);
+    }
+
+    th {
+      background-color: var(--primary-color);
+      color: #ffffff;
+      font-weight: 600;
+      text-transform: uppercase;
+      font-size: 0.85rem;
+    }
+
+    tr:hover {
+      background-color: #f1f5f9;
+    }
+
+    /* BADGES CATEGORIA */
+    .badge {
+      display: inline-block;
+      padding: 4px 10px;
+      border-radius: 12px;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      color: white;
+    }
+
+    .badge-kyorugi { background-color: #dc2626; } /* Rosso */
+    .badge-poomsae { background-color: #2563eb; } /* Blu */
+    .badge-italia  { background-color: #16a34a; } /* Verde */
+    .badge-estero  { background-color: #9333ea; } /* Viola */
+    .badge-regione { background-color: #d97706; } /* Arancione */
+    .badge-generico { background-color: #64748b; } /* Grigio */
+
+    /* LINK BOTTONE */
+    .btn-link {
+      display: inline-block;
+      background-color: var(--primary-color);
+      color: white;
+      padding: 6px 12px;
+      text-decoration: none;
+      border-radius: 4px;
+      font-size: 0.85rem;
+      transition: background 0.2s;
+    }
+
+    .btn-link:hover {
+      background-color: var(--accent-color);
+    }
+
+    /* CARD VIEW PER MOBILE (SCHERMI < 768px) */
+    @media (max-width: 768px) {
+      table, thead, tbody, th, td, tr {
+        display: block;
+      }
+
+      thead {
+        display: none; /* Nasconde l'intestazione della tabella */
+      }
+
+      tr {
+        margin-bottom: 15px;
+        border: 1px solid var(--border-color);
+        border-radius: 8px;
+        padding: 10px;
+        background-color: var(--card-bg);
+      }
+
+      td {
+        border-bottom: none;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 8px 5px;
+      }
+
+      td::before {
+        content: attr(data-label);
+        font-weight: bold;
+        color: var(--primary-color);
+        margin-right: 10px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <h1>🥋 Calendario Gare Taekwondo</h1>
+
+    <div class="filter-container">
+      <button class="filter-btn active" onclick="filterGare('all')">Tutte</button>
+      <button class="filter-btn" onclick="filterGare('kyorugi')">Kyorugi</button>
+      <button class="filter-btn" onclick="filterGare('poomsae')">Poomsae / Forme</button>
+      <button class="filter-btn" onclick="filterGare('italia')">Nazionale</button>
+      <button class="filter-btn" onclick="filterGare('regione')">Regionale</button>
+      <button class="filter-btn" onclick="filterGare('estero')">Estero / Open</button>
+    </div>
+
+    <div class="table-container">
+      <table>
+        <thead>
+          <tr>
+            <th>Evento / Gara</th>
+            <th>Categoria</th>
+            <th>Fonte</th>
+            <th>Azione</th>
+          </tr>
+        </thead>
+        <tbody id="gare-tbody">
+          </tbody>
+      </table>
+    </div>
+  </div>
+
+  <script>
+    let gareData = [];
+
+    // Classificazione automatica basata sul titolo del link
+    function classificaGara(titolo, sorgente) {
+      const t = titolo.toLowerCase();
+      const categories = [];
+
+      if (t.includes('poomsae') || t.includes('forme') || t.includes('freestyle')) {
+        categories.push({ name: 'Poomsae', class: 'badge-poomsae', code: 'poomsae' });
+      } else {
+        // Se non specificato diversamente, solitamente è Kyorugi/Combattimento
+        categories.push({ name: 'Kyorugi', class: 'badge-kyorugi', code: 'kyorugi' });
+      }
+
+      if (t.includes('campano') || t.includes('regionale') || sorgente.includes('taekwondocampano')) {
+        categories.push({ name: 'Regionale', class: 'badge-regione', code: 'regione' });
+      } else if (t.includes('open') || t.includes('world') || t.includes('europe') || sorgente.includes('tpss')) {
+        categories.push({ name: 'Estero', class: 'badge-estero', code: 'estero' });
+      } else {
+        categories.push({ name: 'Italia', class: 'badge-italia', code: 'italia' });
+      }
+
+      return categories;
+    }
+
+    // Carica il file JSON generato dallo scraper
+    async function fetchGare() {
+      try {
+        const response = await fetch('gare_trovate.json');
+        gareData = await response.json();
+        renderTable(gareData);
+      } catch (error) {
+        console.error("Errore nel caricamento dei dati:", error);
+        document.getElementById('gare-tbody').innerHTML = 
+          `<tr><td colspan="4" style="text-align:center;">Nessuna gara trovata o file JSON non disponibile.</td></tr>`;
+      }
+    }
+
+    // Genera l'HTML della tabella
+    function renderTable(data) {
+      const tbody = document.getElementById('gare-tbody');
+      tbody.innerHTML = '';
+
+      if (data.length === 0) {
+        tbody.innerHTML = `<tr><td colspan="4" style="text-align:center;">Nessuna gara disponibile per questa categoria.</td></tr>`;
+        return;
+      }
+
+      data.forEach(gara => {
+        const categories = classificaGara(gara.titolo, gara.sorgente);
+        const badgesHtml = categories.map(c => `<span class="badge ${c.class}">${c.name}</span>`).join(' ');
+
+        const row = document.createElement('tr');
+        row.setAttribute('data-categories', categories.map(c => c.code).join(' '));
+
+        row.innerHTML = `
+          <td data-label="Evento"><strong>${gara.titolo}</strong></td>
+          <td data-label="Categoria">${badgesHtml}</td>
+          <td data-label="Fonte"><small>${new URL(gara.sorgente).hostname}</small></td>
+          <td data-label="Azione"><a href="${gara.link}" target="_blank" class="btn-link">Dettagli / Iscrizione</a></td>
+        `;
+
+        tbody.appendChild(row);
+      });
+    }
+
+    // Filtra la tabella in base al bottone cliccato
+    function filterGare(filter) {
+      // Aggiorna classe attiva sui bottoni
+      document.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
+      event.target.classList.add('active');
+
+      if (filter === 'all') {
+        renderTable(gareData);
+      } else {
+        const filtered = gareData.filter(gara => {
+          const categories = classificaGara(gara.titolo, gara.sorgente);
+          return categories.some(c => c.code === filter);
+        });
+        renderTable(filtered);
+      }
+    }
+
+    // Inizializza il caricamento dati all'apertura
+    fetchGare();
+  </script>
+</body>
+</html>
