@@ -2,15 +2,16 @@ name: Run Scraper
 
 on:
   schedule:
+    # Esegue lo scraper ogni giorno alle 06:00 UTC (07:00 / 08:00 italiane)
     - cron: '0 6 * * *'
-  workflow_dispatch:
+  workflow_dispatch: # Ti permette anche di lanciarlo manualmente quando vuoi
 
 jobs:
   run-scraper:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write  # Permette a GitHub Actions di fare il commit del file aggiornato
+      contents: write # Permette a GitHub di salvare e fare il commit dei nuovi dati
 
     steps:
       - name: Checkout repository
@@ -39,18 +40,5 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add gare_trovate.json
-          git status
-          git commit -m "Automated update of scraped competition data" || echo "Nessuna modifica da committare"
+          git commit -m "Automated update of scraped competition data" || echo "Nessuna nuova gara trovata"
           git push
-
-      - name: Upload output artifact
-        uses: actions/upload-artifact@v4.6.1
-        if: always()
-        with:
-          name: scraper-results
-          path: |
-            *.json
-            *.csv
-            *.txt
-            output/
-          if-no-files-found: ignore
