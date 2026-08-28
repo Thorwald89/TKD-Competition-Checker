@@ -18,32 +18,60 @@ MESI = {
     "settembre": "09", "ottobre": "10", "novembre": "11", "dicembre": "12"
 }
 
-# Parole chiave che indicano una pagina di navigazione o istituzionale da ignorare
-URL_DA_ESCLUDERE = [
-    "organigramma", "contatti", "carte-federali", "comitati", "progetti", 
-    "area-riservata", "fita-hub", "privacy", "cookie", "login", "home",
-    "stampa", "federazione", "paratkd", "taekwondo-italia", "statuto",
-    "regolamenti", "storia", "societa", "quadri-federali", "verbali"
+PAROLE_OBBLIGATORIE_GARA = [
+    "campionato", "campionati", "trofeo", "open", "cup", "grand prix", 
+    "interregionale", "regionale", "nazionale", "gara", "torneo", "stage"
 ]
 
-def normalizza_data(testo_data):
-    if not testo_data:
-        return None
-    match_num = re.search(r'(\d{1,2})[/\.-](\d{1,2})[/\.-](\d{4})', testo_data)
-    if match_num:
-        g, m, a = match_num.groups()
-        return f"{a}-{int(m):02d}-{int(g):02d}"
+PAROLE_VIETATE = [
+    "organigramma", "contatti", "carte federali", "comitati", "progetti", 
+    "area riservata", "fita hub", "privacy", "cookie", "login", "home",
+    "stampa", "federazione", "atleti parataekwondo", "il taekwondo", "il paratkd"
+]
 
-    pattern_testo = r'(\d{1,2})\s+(' + '|'.join(MESI.keys()) + r')\s+(\d{4})'
-    match_txt = re.search(pattern_testo, testo_data, re.IGNORECASE)
-    if match_txt:
-        g, m_testo, a = match_txt.groups()
-        m = MESI[m_testo.lower()]
-        return f"{a}-{m}-{int(g):02d}"
+def estrai_date_da_testo(testo):
+    """
+    Gestisce date in formato italiano, inglese e gli intervalli tipici di TPSS
+    (es. '04-09 upto 05-09, 2026', '12-09-2026', '10-11 Ottobre 2026')
+    """
+    if not testo:
+        return None, None
 
-    return None
+    date_estratte = []
+
+    # 1. Formato specifico TPSS con 'upto': "04-09 upto 05-09, 2026"
+    match_tpss = re.search(r'(\d{1,2})[-/](\d{1,2})\s+upto\s+(\d{1,2})[-/](\d{1,2}),?\s*(\d{4})', testo, re.IGNORECASE)
+    if match_tpss:
+        g1, m1, g2, m2, a = match_tpss.groups()
+        return f"{a}-{int(m1):02d}-{int(g1):02d}", f"{a}-{int(m2):02d}-{int(g2):02d}"
+
+    # 2. Formati standard numerici (DD-MM-YYYY o DD/MM/YYYY)
+    matches_num = re.finditer(r'(\d{1,2})[/\.-](\d{1,2})[/\.-](\d{4})', testo)
+    for m in matches_num:
+        g, m_num, a = m.groups()
+        date_estratte.append(f"{a}-{int(m_num):02d}-{int(g):02d}")
+
+    # 3. Formati con mese testuale italiano (es. 10-11 Ottobre 2026)
+    pattern_mesi = '|'.join(MESI.keys())
+    regex_testo = r'(\d{1,2})(?:\s*[-–\sa]\s*(\d{1,2}))?\s+(' + pattern_mesi + r')\s+(\d{4})'
+    matches_txt = re.finditer(regex_testo, testo, re.IGNORECASE)
+
+    for m in matches_txt:
+        g1, g2, m_txt, a = m.groups()
+        m_num = MESI[m_txt.lower()]
+        date_estratte.append(f"{a}-{m_num}-{int(g1):02d}")
+        if g2:
+            date_estratte.append(f"{a}-{m_num}-{int(g2):02d}")
+
+    if not date_estratte:
+        return None, None
+
+    data_inizio = date_estratte[0]
+    data_fine = date_estratte[1] if len(date_estratte) > 1 else data_inizio
+    return data_inizio, data_fine
 
 def estrai_luogo(testo):
+    """Estrae città o impianti sportivi dal contesto"""
     match = re.search(r'-\s*([A-Z][a-zA-Z\s\'-]+?)(?:Palasport|PalaEvents|Via|Palazzetto|\(|$)', testo)
     if match and len(match.group(1).strip()) > 2:
         return match.group(1).strip()
@@ -60,7 +88,7 @@ def estrai_gare():
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/122.0.0.0 Safari/537.36"
     }
 
-    print("🥋 Avvio scansione mirata gare Taekwondo...")
+    print("🥋 Avvio scansione con parsing avanzato date e TPSS...")
 
     for sorgente in SITI_MONITORATI:
         url = sorgente["url"]
@@ -73,64 +101,59 @@ def estrai_gare():
 
             soup = BeautifulSoup(response.text, 'html.parser')
 
-            # --- ISOLAMENTO CONTENUTO PRINCIPALE ---
-            # Rimuove menu, footer, header e barre laterali dall'HTML prima dell'analisi
-            for elemento_inutile in soup.find_all(['nav', 'header', 'footer', 'aside', '.menu', '.nav', '.footer']):
-                elemento_inutile.decompose()
+            # Rimuove menu e footer
+            for el in soup.find_all(['nav', 'header', 'footer', 'aside']):
+                el.decompose()
 
-            # Cerca il blocco principale (main, content, article o body pulito)
-            main_content = soup.find('main') or soup.find('div', id=re.compile(r'content|main|articolo', re.I)) or soup.body
+            # Analizza ogni riga/scheda di evento (tr, div, li, article)
+            blocchi = soup.find_all(['tr', 'article', 'li', 'div'])
 
-            if not main_content:
-                continue
+            for blocco in blocchi:
+                link_tag = blocco.find('a', href=True)
+                if not link_tag:
+                    continue
 
-            for link_tag in main_content.find_all('a', href=True):
                 titolo = link_tag.get_text(" ", strip=True)
-                href = link_tag['href'].strip()
-                full_url = urljoin(url, href)
-
-                if not titolo or len(titolo) < 10:
+                if not titolo or len(titolo) < 6:
                     continue
 
                 titolo_lower = titolo.lower()
-                url_lower = full_url.lower()
 
-                # 1. Filtro URL: Se l'URL o il testo contiene parole di menu, salta subito
-                if any(esc in url_lower or esc in titolo_lower for esc in URL_DA_ESCLUDERE):
+                if any(v in titolo_lower for v in PAROLE_VIETATE):
                     continue
 
-                # 2. Requisito minimo: Il titolo o l'URL devono contenere parole chiave reali di gare
-                parole_evento = ["campionato", "trofeo", "open", "cup", "interregionale", "regionale", "nazionale", "grand prix", "gara", "torneo"]
-                if not any(pe in titolo_lower or pe in url_lower for pe in parole_evento):
+                if not any(o in titolo_lower for o in PAROLE_OBBLIGATORIE_GARA):
                     continue
 
-                # Inizializzazione dati
-                data_evento = None
-                data_scadenza = None
-                luogo = estrai_luogo(titolo)
+                # Prende tutto il testo dell'intera riga della tabella / contenitore per trovare le date adiacenti
+                testo_completo_blocco = blocco.get_text(" ", strip=True)
 
-                # Estrazione date dal testo del link o dagli elementi adiacenti (es. celle di tabella)
-                testo_contesto = link_tag.find_parent(['tr', 'li', 'article', 'div'])
-                testo_da_analizzare = testo_contesto.get_text(" ", strip=True) if testo_contesto else titolo
+                data_evento, data_scadenza = estrai_date_da_testo(testo_completo_blocco)
 
-                date_trovate = re.findall(
-                    r'\b\d{1,2}[/\.-]\d{1,2}[/\.-]\d{4}\b|\b\d{1,2}\s+(?:' + '|'.join(MESI.keys()) + r')\s+\d{4}\b', 
-                    testo_da_analizzare, 
-                    re.IGNORECASE
-                )
+                full_url = urljoin(url, link_tag['href'].strip())
 
-                if len(date_trovate) >= 1:
-                    data_evento = normalizza_data(date_trovate[0])
-                if len(date_trovate) >= 2:
-                    data_scadenza = normalizza_data(date_trovate[1])
+                # Se la data non c'è nella tabella esterna, apre la scheda dettaglio per trovarla
+                if not data_evento and full_url.startswith("http"):
+                    try:
+                        res_det = requests.get(full_url, headers=headers, timeout=4)
+                        if res_det.status_code == 200:
+                            soup_det = BeautifulSoup(res_det.text, 'html.parser')
+                            data_evento, data_scadenza = estrai_date_da_testo(soup_det.get_text(" ", strip=True))
+                    except Exception:
+                        pass
 
+                # Se non è stata estratta alcuna data valida, salta l'elemento
+                if not data_evento:
+                    continue
+
+                luogo = estrai_luogo(testo_completo_blocco)
                 disciplina = "Poomsae" if "poomsae" in titolo_lower or "forme" in titolo_lower else "Kyorugi"
 
                 gare_trovate.append({
                     "nome": titolo,
                     "tipo": "Gara",
                     "disciplina": disciplina,
-                    "data_evento": data_evento or datetime.now().strftime("%Y-%m-%d"),
+                    "data_evento": data_evento,
                     "data_scadenza": data_scadenza or data_evento,
                     "luogo": luogo,
                     "livello": livello_default,
@@ -141,8 +164,8 @@ def estrai_gare():
         except Exception as e:
             print(f"⚠️ Errore durante la scansione di {url}: {e}")
 
-    # Rimuove duplicati esatti basandosi sia sul nome della gara che sul link
-    gare_uniche = list({(g['nome'], g['link']): g for g in gare_trovate}.values())
+    # Rimuove duplicati esatti per nome gara
+    gare_uniche = list({g['nome']: g for g in gare_trovate}.values())
     return gare_uniche
 
 if __name__ == "__main__":
@@ -151,4 +174,4 @@ if __name__ == "__main__":
     with open(nome_file, "w", encoding="utf-8") as f:
         json.dump(risultati, f, ensure_ascii=False, indent=4)
         
-    print(f"✅ Trovate {len(risultati)} gare reali ed escluse le pagine di sistema.")
+    print(f"✅ Trovate {len(risultati)} gare con date ed estratti corretti.")
