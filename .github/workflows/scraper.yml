@@ -2,16 +2,14 @@ name: Run Scraper
 
 on:
   schedule:
-    # Esegue lo scraper ogni giorno alle 06:00 UTC (07:00 / 08:00 italiane)
     - cron: '0 6 * * *'
-  workflow_dispatch: # Ti permette anche di lanciarlo manualmente quando vuoi
+  workflow_dispatch:
 
 jobs:
   run-scraper:
     runs-on: ubuntu-latest
-
     permissions:
-      contents: write # Permette a GitHub di salvare e fare il commit dei nuovi dati
+      contents: write
 
     steps:
       - name: Checkout repository
@@ -25,11 +23,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          if [ -f requirements.txt ]; then
-            pip install -r requirements.txt
-          else
-            pip install requests beautifulsoup4
-          fi
+          pip install requests beautifulsoup4 lxml
 
       - name: Run Scraper Script
         run: |
