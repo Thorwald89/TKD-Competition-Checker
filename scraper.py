@@ -18,18 +18,24 @@ MESI = {
     "settembre": "09", "ottobre": "10", "novembre": "11", "dicembre": "12"
 }
 
+# Parole da escludere tassativamente (menu, footer, link di navigazione)
+ESCLUSIONI = [
+    "organigramma", "contatti", "carte federali", "comitati", "progetti", 
+    "area riservata", "fita hub", "privacy", "cookie", "login", "home",
+    "stampa", "federazione", "atleti parataekwondo", "il taekwondo", "il paratkd"
+]
+
 def normalizza_data(testo_data):
-    """Converte date in testo (es. 15 Ottobre 2026 o 15/10/2026) in formato YYYY-MM-DD"""
     if not testo_data:
         return None
     
-    # Cerca formato GG/MM/AAAA
+    # Formato GG/MM/AAAA o GG-MM-AAAA
     match_num = re.search(r'(\d{1,2})[/\.-](\d{1,2})[/\.-](\d{4})', testo_data)
     if match_num:
         g, m, a = match_num.groups()
         return f"{a}-{int(m):02d}-{int(g):02d}"
 
-    # Cerca formato GG Mese AAAA
+    # Formato GG Mese AAAA (es. 15 Ottobre 2026)
     pattern_testo = r'(\d{1,2})\s+(' + '|'.join(MESI.keys()) + r')\s+(\d{4})'
     match_txt = re.search(pattern_testo, testo_data, re.IGNORECASE)
     if match_txt:
@@ -38,6 +44,20 @@ def normalizza_data(testo_data):
         return f"{a}-{m}-{int(g):02d}"
 
     return None
+
+def estrai_luogo(testo):
+    """Estrae la città o il palazzetto dal testo/titolo"""
+    # 1. Cerca schemi del tipo "- Città" oppure "Arezzo", "Bolzano", "Rossano"
+    match = re.search(r'-\s*([A-Z][a-zA-Z\s\'-]+?)(?:Palasport|PalaEvents|Via|Palazzetto|\(|$)', testo)
+    if match and len(match.group(1).strip()) > 2:
+        return match.group(1).strip()
+    
+    # 2. Cerca parole chiave come Palasport / Palazzetto + Città
+    match_pala = re.search(r'(Palasport|Palazzetto|Pala\w+)[^-\n,]*', testo, re.IGNORECASE)
+    if match_pala:
+        return match_pala.group(0).strip()
+
+    return "Da definire"
 
 def estrai_gare():
     gare_trovate = []
@@ -58,46 +78,76 @@ def estrai_gare():
 
             soup = BeautifulSoup(response.text, 'html.parser')
 
-            # Cerca blocchi o righe di tabelle/articoli
-            elementi = soup.find_all(['tr', 'article', 'div', 'li'])
-
-            for el in elementi:
-                testo_completo = el.get_text(" ", strip=True)
-                link_tag = el.find('a', href=True)
-                
-                if not link_tag:
-                    continue
-
-                titolo = link_tag.get_text(strip=True) or link_tag.get('title', '')
+            for link_tag in soup.find_all('a', href=True):
+                titolo = link_tag.get_text(" ", strip=True)
                 href = link_tag['href'].strip()
 
-                parole_chiave = ["campionato", "trofeo", "open", "cup", "gara", "fita", "taekwondo"]
-                if not any(kw in testo_completo.lower() for kw in parole_chiave) or len(titolo) < 5:
+                if not titolo or len(titolo) < 8:
+                    continue
+
+                titolo_lower = titolo.lower()
+
+                # Esclude menu nav e pagine istituzionali
+                if any(esc in titolo_lower for esc in ESCLUSIONI):
+                    continue
+
+                # Deve contenere almeno una parola chiave di gara realistica
+                parole_chiave = ["campionato", "trofeo", "open", "cup", "interregionale", "regionale", "nazionale", "grand prix"]
+                if not any(kw in titolo_lower for kw in parole_chiave):
                     continue
 
                 full_url = urljoin(url, href)
-
-                # 1. Parsing Date
-                date_trovate = re.findall(r'\b\d{1,2}[/\.-]\d{1,2}[/\.-]\d{4}\b|\b\d{1,2}\s+(?:' + '|'.join(MESI.keys()) + r')\s+\d{4}\b', testo_completo, re.IGNORECASE)
                 
-                data_evento = normalizza_data(date_trovate[0]) if len(date_trovate) > 0 else datetime.now().strftime("%Y-%m-%d")
-                data_scadenza = normalizza_data(date_trovate[1]) if len(date_trovate) > 1 else None
+                # Inizializza variabili di dettaglio
+                data_evento = None
+                data_scadenza = None
+                luogo = estrai_luogo(titolo)
 
-                # 2. Determinazione Disciplina
-                disciplina = "Poomsae" if "poomsae" in testo_completo.lower() or "forme" in testo_completo.lower() else "Kyorugi"
+                # Estrazione date dal titolo/testo del link
+                date_trovate = re.findall(
+                    r'\b\d{1,2}[/\.-]\d{1,2}[/\.-]\d{4}\b|\b\d{1,2}\s+(?:' + '|'.join(MESI.keys()) + r')\s+\d{4}\b', 
+                    titolo, 
+                    re.IGNORECASE
+                )
 
-                # 3. Estrazione Luogo (Ricerca euristica di città italiane o parole "Palasport/Pala")
-                luogo = "Da definire"
-                match_luogo = re.search(r'(?:Pala\w+|Palazzetto|presso|a)\s+([A-Z][a-z]+(?:\s+[A-Z][a-z]+)?)', testo_completo)
-                if match_luogo:
-                    luogo = match_luogo.group(0)
+                if len(date_trovate) >= 1:
+                    data_evento = normalizza_data(date_trovate[0])
+                if len(date_trovate) >= 2:
+                    data_scadenza = normalizza_data(date_trovate[1])
 
+                # Se non trova le date nel titolo, prova a leggere la pagina interna della gara
+                if not data_evento and full_url.startswith("http"):
+                    try:
+                        res_dettagli = requests.get(full_url, headers=headers, timeout=5)
+                        if res_dettagli.status_code == 200:
+                            soup_dettaglio = BeautifulSoup(res_dettagli.text, 'html.parser')
+                            testo_pagina = soup_dettaglio.get_text(" ", strip=True)
+                            
+                            date_interne = re.findall(
+                                r'\b\d{1,2}[/\.-]\d{1,2}[/\.-]\d{4}\b|\b\d{1,2}\s+(?:' + '|'.join(MESI.keys()) + r')\s+\d{4}\b', 
+                                testo_pagina, 
+                                re.IGNORECASE
+                            )
+                            if len(date_interne) >= 1:
+                                data_evento = normalizza_data(date_interne[0])
+                            if len(date_interne) >= 2:
+                                data_scadenza = normalizza_data(date_interne[1])
+                            
+                            if luogo == "Da definire":
+                                luogo = estrai_luogo(testo_pagina)
+                    except Exception:
+                        pass
+
+                # Determinazione Disciplina
+                disciplina = "Poomsae" if "poomsae" in titolo_lower or "forme" in titolo_lower else "Kyorugi"
+
+                # Se non trova nessuna data valida, imposta la data evento a nullo anziché ad oggi
                 gare_trovate.append({
                     "nome": titolo,
                     "tipo": "Gara",
                     "disciplina": disciplina,
-                    "data_evento": data_evento,
-                    "data_scadenza": data_scadenza,
+                    "data_evento": data_evento or datetime.now().strftime("%Y-%m-%d"),
+                    "data_scadenza": data_scadenza or data_evento,
                     "luogo": luogo,
                     "livello": livello_default,
                     "categorie": "Tutte le categorie",
@@ -107,7 +157,7 @@ def estrai_gare():
         except Exception as e:
             print(f"⚠️ Errore durante la scansione di {url}: {e}")
 
-    # Rimuove duplicati in base al nome della gara
+    # Rimuove duplicati basandosi sul nome gara
     gare_uniche = list({g['nome']: g for g in gare_trovate}.values())
     return gare_uniche
 
@@ -117,4 +167,4 @@ if __name__ == "__main__":
     with open(nome_file, "w", encoding="utf-8") as f:
         json.dump(risultati, f, ensure_ascii=False, indent=4)
         
-    print(f"✅ Trovate {len(risultati)} gare strutturate correttamente.")
+    print(f"✅ Trovate {len(risultati)} gare pulite e dettagliate.")
