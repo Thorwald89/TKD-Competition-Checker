@@ -165,6 +165,17 @@
         "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=u38p8W%2bKO%2f%2fjE%2f2BV165wE1okg3NCsYQNFJi5iuTd1Y%3d"
     },
     {
+        "nome": "3RD MED SPITIR CUP 2026",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-11-14",
+        "data_scadenza": "2026-11-15",
+        "luogo": "Da definire",
+        "livello": "Internazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=uYCAwPzjLtCWGpmWbnxhRxrKSIRPilpl88IslHrvGTc%3d"
+    },
+    {
         "nome": "RIGA OPEN 2026",
         "tipo": "Gara",
         "disciplina": "Kyorugi",
@@ -202,7 +213,7 @@
         "tipo": "Gara",
         "disciplina": "Kyorugi",
         "data_evento": "2026-09-12",
-        "data_scadenza": "2026-09-04",
+        "data_scadenza": "2026-09-12",
         "luogo": "Da definire",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
