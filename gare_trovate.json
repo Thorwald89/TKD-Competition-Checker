@@ -165,6 +165,17 @@
         "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=u38p8W%2bKO%2f%2fjE%2f2BV165wE1okg3NCsYQNFJi5iuTd1Y%3d"
     },
     {
+        "nome": "DTU FINAL 7 HESSEN OPEN 2026",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-10-31",
+        "data_scadenza": "2026-10-24",
+        "luogo": "Da definire",
+        "livello": "Internazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=aza6Zt8bGinKGJfZ%2bHvCoXPoqtX600GOtnqkBWfgsCI%3d"
+    },
+    {
         "nome": "3RD MED SPITIR CUP 2026",
         "tipo": "Gara",
         "disciplina": "Kyorugi",
@@ -174,6 +185,17 @@
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
         "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=uYCAwPzjLtCWGpmWbnxhRxrKSIRPilpl88IslHrvGTc%3d"
+    },
+    {
+        "nome": "CZECH OPEN POOMSAE 2026",
+        "tipo": "Gara",
+        "disciplina": "Poomsae",
+        "data_evento": "2026-08-31",
+        "data_scadenza": "2026-11-18",
+        "luogo": "Da definire",
+        "livello": "Internazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://tkdregistrace.cz/"
     },
     {
         "nome": "RIGA OPEN 2026",
@@ -440,7 +462,7 @@
         "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=1noypYF5YJefFjZnxSiMGj7L3uoDpG%2bmVWoN02n7Y1g%3d"
     },
     {
-        "nome": "5TH INT. EUREGIO OPEN 2025",
+        "nome": "5TH INT. EUREGIO OPEN 2026",
         "tipo": "Gara",
         "disciplina": "Kyorugi",
         "data_evento": "2026-10-17",
