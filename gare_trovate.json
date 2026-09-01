@@ -66,17 +66,6 @@
         "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=881"
     },
     {
-        "nome": "INTERREGIONALE Tuscany Open 2026 - Kids, Children e Beginners Palasport Estra \"Mario d'Agata\" - Arezzo",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-10-04",
-        "data_scadenza": "2026-10-04",
-        "luogo": "Arezzo",
-        "livello": "Nazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=830"
-    },
-    {
         "nome": "REGIONALE Campania Campionato regionale combattimento Junio - Senior (solo maschile - solo cinture rosse) Palazzetto dello sport di Giugliano in Campania\r\nVia Campopannone\r\n80014 Giugliano in Campania (NA) - Giugliano in Campania",
         "tipo": "Gara",
         "disciplina": "Kyorugi",
@@ -176,6 +165,17 @@
         "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=aza6Zt8bGinKGJfZ%2bHvCoXPoqtX600GOtnqkBWfgsCI%3d"
     },
     {
+        "nome": "SVENSKA CUPEN 2 2026 POOMSAE",
+        "tipo": "Gara",
+        "disciplina": "Poomsae",
+        "data_evento": "2026-10-31",
+        "data_scadenza": "2026-10-09",
+        "luogo": "Da definire",
+        "livello": "Internazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=rlA3n3OTi1MaZDnd4e4seW%2b6bwDXJBipGZamAwAFgMc%3d"
+    },
+    {
         "nome": "3RD MED SPITIR CUP 2026",
         "tipo": "Gara",
         "disciplina": "Kyorugi",
@@ -190,7 +190,7 @@
         "nome": "CZECH OPEN POOMSAE 2026",
         "tipo": "Gara",
         "disciplina": "Poomsae",
-        "data_evento": "2026-08-31",
+        "data_evento": "2026-11-21",
         "data_scadenza": "2026-11-18",
         "luogo": "Da definire",
         "livello": "Internazionale",
