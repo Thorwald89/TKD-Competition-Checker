@@ -143,6 +143,28 @@
         "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=888"
     },
     {
+        "nome": "DEUTSCHER JUGENDCUP POOMSAE 2026",
+        "tipo": "Gara",
+        "disciplina": "Poomsae",
+        "data_evento": "2026-10-11",
+        "data_scadenza": "2026-09-27",
+        "luogo": "Da definire",
+        "livello": "Internazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=A8fSVeScZMhOHlItYqQ4AJxwOtjHs7DQuMZxsQrXbK0%3d"
+    },
+    {
+        "nome": "POLISH CUP BYDGOSZCZ OPEN 2026/PUCHAR POLSKI BYDGOSZCZ 2026",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-10-24",
+        "data_scadenza": "2026-10-18",
+        "luogo": "Da definire",
+        "livello": "Internazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=vsxfDXhNhYuvRydbglITFrt%2b2ooPT8k5kim5MRBCpM8%3d"
+    },
+    {
         "nome": "CZECH OPEN POOMSAE 2026",
         "tipo": "Gara",
         "disciplina": "Poomsae",
@@ -191,7 +213,7 @@
         "tipo": "Gara",
         "disciplina": "Kyorugi",
         "data_evento": "2026-09-12",
-        "data_scadenza": "2026-09-12",
+        "data_scadenza": "2026-09-04",
         "luogo": "Da definire",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
@@ -229,28 +251,6 @@
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
         "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=2YPYDFm8aENe5Vck6Oqw8OEMBBPahgnRxJOCuAual94%3d"
-    },
-    {
-        "nome": "2. INTERNATIONAL GRANIT OPEN 2026 + TEAM MATCHES",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-09-26",
-        "data_scadenza": "2026-09-19",
-        "luogo": "Da definire",
-        "livello": "Internazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=hbtAx5I4PBO9xa%2fj23ZuAxElCTSvBOGzdygtW8N%2fKRc%3d"
-    },
-    {
-        "nome": "2. INTERNATIONAL GRANIT OPEN 2026 POOMSAE",
-        "tipo": "Gara",
-        "disciplina": "Poomsae",
-        "data_evento": "2026-09-26",
-        "data_scadenza": "2026-09-19",
-        "luogo": "Da definire",
-        "livello": "Internazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=RVn5okIjemwKy8ZKCyNkmHOHxAkotbYpeyJ91EtSm6Y%3d"
     },
     {
         "nome": "DUPNITSA OPEN 2026 (E2)",
