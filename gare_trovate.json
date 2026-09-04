@@ -143,6 +143,28 @@
         "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=888"
     },
     {
+        "nome": "BLACK TIGER  CUP POOMSAE & PARA POOMSAE 2026",
+        "tipo": "Gara",
+        "disciplina": "Poomsae",
+        "data_evento": "2026-09-19",
+        "data_scadenza": "2026-09-16",
+        "luogo": "Da definire",
+        "livello": "Internazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=RofCrDHZlcmmTPcRmD6DHC5MM6s7sToCKnYHPVkJ1nY%3d"
+    },
+    {
+        "nome": "BLACK TIGER CUP KYORUGI 2026",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-09-19",
+        "data_scadenza": "2026-09-16",
+        "luogo": "Da definire",
+        "livello": "Internazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=55eAQ0FBDH0K%2f4c%2b31c8Xm8zsPt1u23G9lrIJhwZASQ%3d"
+    },
+    {
         "nome": "DEUTSCHER JUGENDCUP POOMSAE 2026",
         "tipo": "Gara",
         "disciplina": "Poomsae",
