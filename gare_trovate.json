@@ -143,54 +143,10 @@
         "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=888"
     },
     {
-        "nome": "BLACK TIGER  CUP POOMSAE & PARA POOMSAE 2026",
-        "tipo": "Gara",
-        "disciplina": "Poomsae",
-        "data_evento": "2026-09-19",
-        "data_scadenza": "2026-09-16",
-        "luogo": "Da definire",
-        "livello": "Internazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=RofCrDHZlcmmTPcRmD6DHC5MM6s7sToCKnYHPVkJ1nY%3d"
-    },
-    {
-        "nome": "BLACK TIGER CUP KYORUGI 2026",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-09-19",
-        "data_scadenza": "2026-09-16",
-        "luogo": "Da definire",
-        "livello": "Internazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=55eAQ0FBDH0K%2f4c%2b31c8Xm8zsPt1u23G9lrIJhwZASQ%3d"
-    },
-    {
-        "nome": "DEUTSCHER JUGENDCUP POOMSAE 2026",
-        "tipo": "Gara",
-        "disciplina": "Poomsae",
-        "data_evento": "2026-10-11",
-        "data_scadenza": "2026-09-27",
-        "luogo": "Da definire",
-        "livello": "Internazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=A8fSVeScZMhOHlItYqQ4AJxwOtjHs7DQuMZxsQrXbK0%3d"
-    },
-    {
-        "nome": "POLISH CUP BYDGOSZCZ OPEN 2026/PUCHAR POLSKI BYDGOSZCZ 2026",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-10-24",
-        "data_scadenza": "2026-10-18",
-        "luogo": "Da definire",
-        "livello": "Internazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=vsxfDXhNhYuvRydbglITFrt%2b2ooPT8k5kim5MRBCpM8%3d"
-    },
-    {
         "nome": "CZECH OPEN POOMSAE 2026",
         "tipo": "Gara",
         "disciplina": "Poomsae",
-        "data_evento": "2026-11-21",
+        "data_evento": "2026-08-31",
         "data_scadenza": "2026-11-18",
         "luogo": "Da definire",
         "livello": "Internazionale",
@@ -262,6 +218,28 @@
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
         "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=ynmyMxuHudCH5AtT0MFeQCKKuiMSbImrG1lCQtn3nVQ%3d"
+    },
+    {
+        "nome": "BLACK TIGER  CUP POOMSAE & PARA POOMSAE 2026",
+        "tipo": "Gara",
+        "disciplina": "Poomsae",
+        "data_evento": "2026-09-19",
+        "data_scadenza": "2026-09-16",
+        "luogo": "Da definire",
+        "livello": "Internazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=RofCrDHZlcmmTPcRmD6DHC5MM6s7sToCKnYHPVkJ1nY%3d"
+    },
+    {
+        "nome": "BLACK TIGER CUP KYORUGI 2026",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-09-19",
+        "data_scadenza": "2026-09-16",
+        "luogo": "Da definire",
+        "livello": "Internazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=55eAQ0FBDH0K%2f4c%2b31c8Xm8zsPt1u23G9lrIJhwZASQ%3d"
     },
     {
         "nome": "KOREAN AMBASSADOR'S CUP 2026",
@@ -440,6 +418,28 @@
         "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=xKahlO73mWzljvDFhpM%2fp9MSE%2bwc1EO7E%2bgLIqaAPzY%3d"
     },
     {
+        "nome": "SVENSKA CUPEN 1 2026 POOMSAE",
+        "tipo": "Gara",
+        "disciplina": "Poomsae",
+        "data_evento": "2026-10-10",
+        "data_scadenza": "2026-09-30",
+        "luogo": "Da definire",
+        "livello": "Internazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=DQ3TQ5LXcnOZogleRnWhptpwzITM7EInJ81TXjEWlUs%3d"
+    },
+    {
+        "nome": "DEUTSCHER JUGENDCUP POOMSAE 2026",
+        "tipo": "Gara",
+        "disciplina": "Poomsae",
+        "data_evento": "2026-10-11",
+        "data_scadenza": "2026-09-27",
+        "luogo": "Da definire",
+        "livello": "Internazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=A8fSVeScZMhOHlItYqQ4AJxwOtjHs7DQuMZxsQrXbK0%3d"
+    },
+    {
         "nome": "WARSAW CUP 2026",
         "tipo": "Gara",
         "disciplina": "Kyorugi",
@@ -515,6 +515,17 @@
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
         "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=Lx%2bl1imfCvc%2fiw2tyL4JbZehm%2bsEcpdtAE79Ke8OGvs%3d"
+    },
+    {
+        "nome": "POLISH CUP BYDGOSZCZ OPEN 2026/PUCHAR POLSKI BYDGOSZCZ 2026",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-10-24",
+        "data_scadenza": "2026-10-18",
+        "luogo": "Da definire",
+        "livello": "Internazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=vsxfDXhNhYuvRydbglITFrt%2b2ooPT8k5kim5MRBCpM8%3d"
     },
     {
         "nome": "DTU FINAL 7 HESSEN OPEN 2026",
