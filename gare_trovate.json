@@ -33,17 +33,6 @@
         "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=829"
     },
     {
-        "nome": "INTERREGIONALE Torneo autorizzato - South Tyrol Taekwondo Open - Beginners/Children/Kids/Cadets Palasport Bolzano (PalaResia) Via Resia, 39 – 39100 Bolzano (BZ) - Bolzano/Bozen",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-10-04",
-        "data_scadenza": "2026-10-04",
-        "luogo": "Palasport Bolzano (PalaResia) Via Resia",
-        "livello": "Nazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=880"
-    },
-    {
         "nome": "INTERREGIONALE Torneo autorizzato - South Tyrol Taekwondo Open - Junior e Senior Palasport Bolzano (PalaResia) Via Resia, 39 – 39100 Bolzano (BZ) - Bolzano/Bozen",
         "tipo": "Gara",
         "disciplina": "Kyorugi",
@@ -154,17 +143,6 @@
         "link": "https://tkdregistrace.cz/"
     },
     {
-        "nome": "RIGA OPEN 2026",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-08-29",
-        "data_scadenza": "2026-08-30",
-        "luogo": "Da definire",
-        "livello": "Internazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://worldtkd.simplycompete.com/eventDetails/11f14ed2-e212-6143-94e9-063334a1275b/1"
-    },
-    {
         "nome": "4TH IMPACT OPEN TAEKWONDO CHAMPIONSHIPS",
         "tipo": "Gara",
         "disciplina": "Kyorugi",
@@ -228,7 +206,7 @@
         "luogo": "Da definire",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
-        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=RofCrDHZlcmmTPcRmD6DHC5MM6s7sToCKnYHPVkJ1nY%3d"
+        "link": "https://fitofan.com/blacktigercup2026poomsaepara?p=participants"
     },
     {
         "nome": "BLACK TIGER CUP KYORUGI 2026",
@@ -239,7 +217,7 @@
         "luogo": "Da definire",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
-        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=55eAQ0FBDH0K%2f4c%2b31c8Xm8zsPt1u23G9lrIJhwZASQ%3d"
+        "link": "https://truevar.eu/"
     },
     {
         "nome": "KOREAN AMBASSADOR'S CUP 2026",
@@ -345,7 +323,7 @@
         "tipo": "Gara",
         "disciplina": "Kyorugi",
         "data_evento": "2026-10-03",
-        "data_scadenza": "2026-09-25",
+        "data_scadenza": "2026-10-03",
         "luogo": "Da definire",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
@@ -647,5 +625,16 @@
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
         "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=0V1CaMTKCj3nexaynOXyX4eGXksldIn%2bcShfhqOTS7k%3d"
+    },
+    {
+        "nome": "OPEN POOMSAE 2027",
+        "tipo": "Gara",
+        "disciplina": "Poomsae",
+        "data_evento": "2027-01-31",
+        "data_scadenza": "2027-01-23",
+        "luogo": "Da definire",
+        "livello": "Internazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=1b4f14uVZTpZS6v1ofX3amQwdP8V5TaVzjrwPmdp1Xs%3d"
     }
 ]
