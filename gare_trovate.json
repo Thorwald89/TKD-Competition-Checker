@@ -33,6 +33,17 @@
         "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=829"
     },
     {
+        "nome": "INTERREGIONALE Torneo autorizzato - South Tyrol Taekwondo Open - Beginners/Children/Kids/Cadets Palasport Bolzano (PalaResia) Via Resia, 39 – 39100 Bolzano (BZ) - Bolzano/Bozen",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-10-04",
+        "data_scadenza": "2026-10-04",
+        "luogo": "Palasport Bolzano (PalaResia) Via Resia",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=880"
+    },
+    {
         "nome": "INTERREGIONALE Torneo autorizzato - South Tyrol Taekwondo Open - Junior e Senior Palasport Bolzano (PalaResia) Via Resia, 39 – 39100 Bolzano (BZ) - Bolzano/Bozen",
         "tipo": "Gara",
         "disciplina": "Kyorugi",
@@ -53,6 +64,39 @@
         "livello": "Nazionale",
         "categorie": "Tutte le categorie",
         "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=830"
+    },
+    {
+        "nome": "INTERREGIONALE Abruzzo - CAMPIONATO INTERREGIONALE - Beginners , Kids , Children PALASPORT CELANO  - Celano",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-10-10",
+        "data_scadenza": "2026-10-11",
+        "luogo": "Celano",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=894"
+    },
+    {
+        "nome": "INTERREGIONALE Abruzzo - CAMPIONATO INTERREGIONALE - Cadetti PALASPORT CELANO , via della Torre  - Celano",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-10-10",
+        "data_scadenza": "2026-10-11",
+        "luogo": "Celano",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=895"
+    },
+    {
+        "nome": "INTERREGIONALE Abruzzo - CAMPIONATO INTERREGIONALE - Junior PALASPORT CELANO , VIA DELLA TORRE  - Celano",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-10-10",
+        "data_scadenza": "2026-10-11",
+        "luogo": "Celano",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=896"
     },
     {
         "nome": "REGIONALE Campania Campionato regionale combattimento Junio - Senior (solo maschile - solo cinture rosse) Palazzetto dello sport di Giugliano in Campania\r\nVia Campopannone\r\n80014 Giugliano in Campania (NA) - Giugliano in Campania",
@@ -99,37 +143,26 @@
         "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=853"
     },
     {
-        "nome": "INTERREGIONALE Campania interregionali Combattimento Beginners - Children - Kids M/F Palazzetto dello sport di Giugliano in Campania\r\nVia Campopannone\r\n80014 Giugliano in Campania (NA) - Giugliano in Campania",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-10-11",
-        "data_scadenza": "2026-10-11",
-        "luogo": "Giugliano in Campania",
-        "livello": "Nazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=893"
-    },
-    {
-        "nome": "INTERREGIONALE Friuli Venezia Giulia - Eagle Cup 2026  - Poomsae e Freestyle Taekwondo e Parataekwondo Palazzetto dello Sport di Fontanafredda - via Giacomo Leopardi 58 - Fontanafredda",
+        "nome": "PORVOO OPEN 2026 POOMSAE",
         "tipo": "Gara",
         "disciplina": "Poomsae",
-        "data_evento": "2026-10-11",
-        "data_scadenza": "2026-10-11",
-        "luogo": "Poomsae e Freestyle Taekwondo e Parataekwondo",
-        "livello": "Nazionale",
+        "data_evento": "2026-10-17",
+        "data_scadenza": "2026-10-08",
+        "luogo": "Da definire",
+        "livello": "Internazionale",
         "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=854"
+        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=jwlrFrWxwLSQ1vvjnhiLi%2b%2byRh0DbyvPckG110F0vLc%3d"
     },
     {
-        "nome": "FITA Campionati Italiani Junior Cinture Rosse 2026 PalaEventi Rossano Via Carmine Gaetano Candiano (Rossano Stazione, 87067 Corigliano-Rossano)  - Corigliano-Rossano",
+        "nome": "NURTZI OPEN 2026 POOMSAE",
         "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-10-16",
-        "data_scadenza": "2026-10-16",
-        "luogo": "Corigliano-Rossano",
-        "livello": "Nazionale",
+        "disciplina": "Poomsae",
+        "data_evento": "2026-10-31",
+        "data_scadenza": "2026-10-24",
+        "luogo": "Da definire",
+        "livello": "Internazionale",
         "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=888"
+        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=TyiNigqnKVMY5l65rsJx03x8jYIRrLiUWdnHJXhRwQc%3d"
     },
     {
         "nome": "CZECH OPEN POOMSAE 2026",
@@ -350,17 +383,6 @@
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
         "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=c2AJJTn8PmRKbPXENICadgxv3vziQv%2bZ8sm8c%2bKyusc%3d"
-    },
-    {
-        "nome": "CZECH OPEN 2026",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-10-10",
-        "data_scadenza": "2026-10-10",
-        "luogo": "Da definire",
-        "livello": "Internazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=4vDT94N%2fS4FH6poPLcJU2HSNF%2bfUIrQar9Ys5Wdcz0w%3d"
     },
     {
         "nome": "DTU FINAL 7 SAARLAND OPEN 2026",
