@@ -1,5 +1,16 @@
 [
     {
+        "nome": "Internazionale World Taekwondo Poomsae Championships Chuncheon Air Dome",
+        "tipo": "Gara",
+        "disciplina": "Poomsae",
+        "data_evento": "2026-09-16",
+        "data_scadenza": "2026-09-20",
+        "luogo": "Da definire",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/calendario-eventi/event/782-world-taekwondo-poomsae-championships.html"
+    },
+    {
         "nome": "FITA Campionati Italiani Taekwondo - Rossano 2026 PalaEventi Rossano — Via Carmine Gaetano Candiano, Rossano Stazione, Corigliano-Rossano (CS)",
         "tipo": "Gara",
         "disciplina": "Kyorugi",
@@ -141,28 +152,6 @@
         "livello": "Nazionale",
         "categorie": "Tutte le categorie",
         "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=853"
-    },
-    {
-        "nome": "PORVOO OPEN 2026 POOMSAE",
-        "tipo": "Gara",
-        "disciplina": "Poomsae",
-        "data_evento": "2026-10-17",
-        "data_scadenza": "2026-10-08",
-        "luogo": "Da definire",
-        "livello": "Internazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=jwlrFrWxwLSQ1vvjnhiLi%2b%2byRh0DbyvPckG110F0vLc%3d"
-    },
-    {
-        "nome": "NURTZI OPEN 2026 POOMSAE",
-        "tipo": "Gara",
-        "disciplina": "Poomsae",
-        "data_evento": "2026-10-31",
-        "data_scadenza": "2026-10-24",
-        "luogo": "Da definire",
-        "livello": "Internazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=TyiNigqnKVMY5l65rsJx03x8jYIRrLiUWdnHJXhRwQc%3d"
     },
     {
         "nome": "CZECH OPEN POOMSAE 2026",
@@ -473,6 +462,28 @@
         "link": "https://worldtkd.simplycompete.com/eventDetails/11f19b21-4dc1-5d24-bafc-06be3f44746f/1"
     },
     {
+        "nome": "PORVOO OPEN 2026 KYORUGI",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-10-17",
+        "data_scadenza": "2026-10-08",
+        "luogo": "Da definire",
+        "livello": "Internazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=dg3trA77gODRjKnP2BlVOrs71qjlVscoFRBRyUJM3V8%3d"
+    },
+    {
+        "nome": "PORVOO OPEN 2026 POOMSAE",
+        "tipo": "Gara",
+        "disciplina": "Poomsae",
+        "data_evento": "2026-10-17",
+        "data_scadenza": "2026-10-08",
+        "luogo": "Da definire",
+        "livello": "Internazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=jwlrFrWxwLSQ1vvjnhiLi%2b%2byRh0DbyvPckG110F0vLc%3d"
+    },
+    {
         "nome": "SVENSKA CUPEN 2 2026",
         "tipo": "Gara",
         "disciplina": "Kyorugi",
@@ -537,6 +548,28 @@
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
         "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=aza6Zt8bGinKGJfZ%2bHvCoXPoqtX600GOtnqkBWfgsCI%3d"
+    },
+    {
+        "nome": "NURTZI OPEN 2026 KYORUGI",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-10-31",
+        "data_scadenza": "2026-10-24",
+        "luogo": "Da definire",
+        "livello": "Internazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=xIuViRIDFOkiV5J3oklr6EmjLAEJPuzeKvkIigqXwOk%3d"
+    },
+    {
+        "nome": "NURTZI OPEN 2026 POOMSAE",
+        "tipo": "Gara",
+        "disciplina": "Poomsae",
+        "data_evento": "2026-10-31",
+        "data_scadenza": "2026-10-24",
+        "luogo": "Da definire",
+        "livello": "Internazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=TyiNigqnKVMY5l65rsJx03x8jYIRrLiUWdnHJXhRwQc%3d"
     },
     {
         "nome": "SVENSKA CUPEN 2 2026 POOMSAE",
