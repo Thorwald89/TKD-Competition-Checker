@@ -77,6 +77,17 @@
         "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=830"
     },
     {
+        "nome": "INTERREGIONALE Abruzzo - CAMPIONATO INTERREGIONALE - Beginners , Kids , Children PALASPORT CELANO  - Celano",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-10-10",
+        "data_scadenza": "2026-10-11",
+        "luogo": "Celano",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=894"
+    },
+    {
         "nome": "INTERREGIONALE Abruzzo - CAMPIONATO INTERREGIONALE - Cadetti PALASPORT CELANO , via della Torre  - Celano",
         "tipo": "Gara",
         "disciplina": "Kyorugi",
@@ -290,7 +301,7 @@
         "tipo": "Gara",
         "disciplina": "Kyorugi",
         "data_evento": "2026-09-27",
-        "data_scadenza": "2026-09-20",
+        "data_scadenza": "2026-09-27",
         "luogo": "Da definire",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
