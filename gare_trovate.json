@@ -1,16 +1,5 @@
 [
     {
-        "nome": "Internazionale World Taekwondo Poomsae Championships Chuncheon Air Dome",
-        "tipo": "Gara",
-        "disciplina": "Poomsae",
-        "data_evento": "2026-09-16",
-        "data_scadenza": "2026-09-20",
-        "luogo": "Da definire",
-        "livello": "Nazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/calendario-eventi/event/782-world-taekwondo-poomsae-championships.html"
-    },
-    {
         "nome": "FITA Campionati Italiani Taekwondo - Rossano 2026 PalaEventi Rossano — Via Carmine Gaetano Candiano, Rossano Stazione, Corigliano-Rossano (CS)",
         "tipo": "Gara",
         "disciplina": "Kyorugi",
@@ -22,6 +11,138 @@
         "link": "https://www.taekwondoitalia.it/calendario/calendario-eventi/event/781-campionati-italiani-taekwondo-rossano-2026.html"
     },
     {
+        "nome": "INTERREGIONALE LIGURIA - STAGE COMBATTIMENTO CHILDREN TUTTI, KIDS TUTTI E CADETTI FINO A BLU PALA LINO MARAGLIANO\r\nPIAZZA GIULIANO SUPPINI 2\r\n16165 GENOVA STRUPPA - Genova",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-09-19",
+        "data_scadenza": "2026-09-19",
+        "luogo": "Genova",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=903"
+    },
+    {
+        "nome": "INTERREGIONALE LIGURIA - STAGE PER CADETTI ROSSE E POOM PALA LINO MARAGLIANO \r\nPIAZZA GIULIANO SUPPINI 2\r\n16165 GENOVA STRUPPA - Genova",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-09-19",
+        "data_scadenza": "2026-09-19",
+        "luogo": "Genova",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=904"
+    },
+    {
+        "nome": "INTERREGIONALE LIGURIA - STAGE PER JUNIOR TUTTI E SENIOR TUTTI PALA LINO MARAGLIANO \r\nPIAZZA GIULIANO SUPPINI 2\r\n16165 GENOVA STRUPPA - Genova",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-09-19",
+        "data_scadenza": "2026-09-19",
+        "luogo": "Genova",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=905"
+    },
+    {
+        "nome": "REGIONALE Emilia Romagna - Raduno Regionale - 1° selezione Coppa Italia Palestra Don Bosco\r\nvia Bismantova 23, 42123 \r\nREGGIO NELL'EMILIA (RE) - Reggio nell'Emilia",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-09-20",
+        "data_scadenza": "2026-09-20",
+        "luogo": "Reggio nell'Emilia",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=902"
+    },
+    {
+        "nome": "INTERREGIONALE Tuscany Open 2026 - Cadetti Gruppo D e Rosse/Poom Palasport Estra \"Mario d'Agata\" - Arezzo",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-10-03",
+        "data_scadenza": "2026-10-03",
+        "luogo": "Arezzo",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=828"
+    },
+    {
+        "nome": "INTERREGIONALE Tuscany Open 2026 - Junior e Senior Palasport Estra \"Mario d'Agata\" - Arezzo",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-10-03",
+        "data_scadenza": "2026-10-03",
+        "luogo": "Junior e Senior",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=829"
+    },
+    {
+        "nome": "INTERREGIONALE Torneo autorizzato - South Tyrol Taekwondo Open - Beginners/Children/Kids/Cadets Palasport Bolzano (PalaResia) Via Resia, 39 – 39100 Bolzano (BZ) - Bolzano/Bozen",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-10-04",
+        "data_scadenza": "2026-10-04",
+        "luogo": "Palasport Bolzano (PalaResia) Via Resia",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=880"
+    },
+    {
+        "nome": "INTERREGIONALE Torneo autorizzato - South Tyrol Taekwondo Open - Junior e Senior Palasport Bolzano (PalaResia) Via Resia, 39 – 39100 Bolzano (BZ) - Bolzano/Bozen",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-10-04",
+        "data_scadenza": "2026-10-04",
+        "luogo": "South Tyrol Taekwondo Open - Junior e Senior",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=881"
+    },
+    {
+        "nome": "INTERREGIONALE Tuscany Open 2026 - Kids, Children e Beginners Palasport Estra \"Mario d'Agata\" - Arezzo",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-10-04",
+        "data_scadenza": "2026-10-04",
+        "luogo": "Arezzo",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=830"
+    },
+    {
+        "nome": "INTERREGIONALE Abruzzo - CAMPIONATO INTERREGIONALE - Beginners , Kids , Children PALASPORT CELANO  - Celano",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-10-10",
+        "data_scadenza": "2026-10-11",
+        "luogo": "Celano",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=894"
+    },
+    {
+        "nome": "INTERREGIONALE Abruzzo - CAMPIONATO INTERREGIONALE - Cadetti PALASPORT CELANO , via della Torre  - Celano",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-10-10",
+        "data_scadenza": "2026-10-11",
+        "luogo": "Celano",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=895"
+    },
+    {
+        "nome": "INTERREGIONALE Abruzzo - CAMPIONATO INTERREGIONALE - Junior PALASPORT CELANO , VIA DELLA TORRE  - Celano",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-10-10",
+        "data_scadenza": "2026-10-11",
+        "luogo": "Celano",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=896"
+    },
+    {
         "nome": "CZECH OPEN POOMSAE 2026",
         "tipo": "Gara",
         "disciplina": "Poomsae",
@@ -31,17 +152,6 @@
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
         "link": "https://tkdregistrace.cz/"
-    },
-    {
-        "nome": "INTERNATIONAL CRETÌ CUP 2027",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2027-01-23",
-        "data_scadenza": "2027-01-16",
-        "luogo": "Rommelsbach",
-        "livello": "Internazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=h0scMDilCicjEbYk6W5nT6CsTsjjjp2fiNDKr9mD7fE%3d"
     },
     {
         "nome": "7. WATTWIL OPEN",
@@ -202,7 +312,7 @@
         "tipo": "Gara",
         "disciplina": "Kyorugi",
         "data_evento": "2026-10-03",
-        "data_scadenza": "2026-09-15",
+        "data_scadenza": "2026-10-03",
         "luogo": "Da definire",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
@@ -537,6 +647,17 @@
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
         "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=0V1CaMTKCj3nexaynOXyX4eGXksldIn%2bcShfhqOTS7k%3d"
+    },
+    {
+        "nome": "INTERNATIONAL CRETÌ CUP 2027",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2027-01-23",
+        "data_scadenza": "2027-01-16",
+        "luogo": "Rommelsbach",
+        "livello": "Internazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=h0scMDilCicjEbYk6W5nT6CsTsjjjp2fiNDKr9mD7fE%3d"
     },
     {
         "nome": "OPEN POOMSAE 2027",
