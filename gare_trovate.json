@@ -55,6 +55,17 @@
         "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=902"
     },
     {
+        "nome": "INTERREGIONALE Vento: STAGE CON TECNICO NAZIONALE LEONARDO BASILE IMPIANTO POLIFUNZIONALE FILIPPO RACITI - Padova",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-09-27",
+        "data_scadenza": "2026-09-27",
+        "luogo": "Padova",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=907"
+    },
+    {
         "nome": "INTERREGIONALE Tuscany Open 2026 - Cadetti Gruppo D e Rosse/Poom Palasport Estra \"Mario d'Agata\" - Arezzo",
         "tipo": "Gara",
         "disciplina": "Kyorugi",
@@ -132,17 +143,6 @@
         "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=895"
     },
     {
-        "nome": "INTERREGIONALE Abruzzo - CAMPIONATO INTERREGIONALE - Junior PALASPORT CELANO , VIA DELLA TORRE  - Celano",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-10-10",
-        "data_scadenza": "2026-10-11",
-        "luogo": "Celano",
-        "livello": "Nazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=896"
-    },
-    {
         "nome": "13TH RAMUS SOFIA CUP 2026 (POOMSAE)",
         "tipo": "Gara",
         "disciplina": "Poomsae",
@@ -152,6 +152,28 @@
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
         "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=iVAwEnwSXXeyC81Mq8hGY7gQmcgAYI6I5cZSOeTk4H4%3d"
+    },
+    {
+        "nome": "PLOVDIV OPEN 2026",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-11-14",
+        "data_scadenza": "2026-11-08",
+        "luogo": "Da definire",
+        "livello": "Internazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=KjlrZiS%2bB37m7nSPkIlQuGJJAI8dXNC22%2bQJSoC7IQc%3d"
+    },
+    {
+        "nome": "POLISH CUP TORUŃ OPEN 2026/PUCHAR POLSKI TORUŃ 2026",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-11-20",
+        "data_scadenza": "2026-11-22",
+        "luogo": "Da definire",
+        "livello": "Internazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=cBILunTCbttkBSf87BbXAJ4UcZos9t6kcL2%2fcMUa0YY%3d"
     },
     {
         "nome": "CZECH OPEN POOMSAE 2026",
@@ -323,7 +345,7 @@
         "tipo": "Gara",
         "disciplina": "Kyorugi",
         "data_evento": "2026-10-03",
-        "data_scadenza": "2026-09-17",
+        "data_scadenza": "2026-10-03",
         "luogo": "Da definire",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
