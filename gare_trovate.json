@@ -143,39 +143,6 @@
         "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=895"
     },
     {
-        "nome": "13TH RAMUS SOFIA CUP 2026 (POOMSAE)",
-        "tipo": "Gara",
-        "disciplina": "Poomsae",
-        "data_evento": "2026-10-24",
-        "data_scadenza": "2026-10-16",
-        "luogo": "Da definire",
-        "livello": "Internazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=iVAwEnwSXXeyC81Mq8hGY7gQmcgAYI6I5cZSOeTk4H4%3d"
-    },
-    {
-        "nome": "PLOVDIV OPEN 2026",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-11-14",
-        "data_scadenza": "2026-11-08",
-        "luogo": "Da definire",
-        "livello": "Internazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=KjlrZiS%2bB37m7nSPkIlQuGJJAI8dXNC22%2bQJSoC7IQc%3d"
-    },
-    {
-        "nome": "POLISH CUP TORUŃ OPEN 2026/PUCHAR POLSKI TORUŃ 2026",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-11-20",
-        "data_scadenza": "2026-11-22",
-        "luogo": "Da definire",
-        "livello": "Internazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=cBILunTCbttkBSf87BbXAJ4UcZos9t6kcL2%2fcMUa0YY%3d"
-    },
-    {
         "nome": "CZECH OPEN POOMSAE 2026",
         "tipo": "Gara",
         "disciplina": "Poomsae",
@@ -185,6 +152,17 @@
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
         "link": "https://tkdregistrace.cz/"
+    },
+    {
+        "nome": "GOLDEN ROOF OPEN KYORUGI 2027",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2027-02-13",
+        "data_scadenza": "2027-02-06",
+        "luogo": "Da definire",
+        "livello": "Internazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=jT6GD1emhuIZpzePiZuY3bu1D30DPuxDSD9%2fysq1q9k%3d"
     },
     {
         "nome": "7. WATTWIL OPEN",
@@ -345,7 +323,7 @@
         "tipo": "Gara",
         "disciplina": "Kyorugi",
         "data_evento": "2026-10-03",
-        "data_scadenza": "2026-10-03",
+        "data_scadenza": "2026-09-19",
         "luogo": "Da definire",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
@@ -383,6 +361,17 @@
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
         "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=kLeZ2r%2bc0qPCCO%2b7E4Zdx519BukI%2bbCBiRgZtECrvkM%3d"
+    },
+    {
+        "nome": "ISM OPEN TAEKWONDO CHAMPIONSHIP 2026",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-10-10",
+        "data_scadenza": "2026-10-11",
+        "luogo": "Da definire",
+        "livello": "Internazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=bAGk6kdYtz0sg9%2bpdUUcJkiLINQrOVVYptjBbDKIDOo%3d"
     },
     {
         "nome": "MONTENEGRO PODGORICA OPEN 2026 (G1-E1)",
@@ -517,6 +506,17 @@
         "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=YjUNPzzFe%2fXyuo7wCXd99b7V1pPqkXAfsVKXOvXH%2fh4%3d"
     },
     {
+        "nome": "13TH RAMUS SOFIA CUP 2026 (POOMSAE)",
+        "tipo": "Gara",
+        "disciplina": "Poomsae",
+        "data_evento": "2026-10-24",
+        "data_scadenza": "2026-10-16",
+        "luogo": "Da definire",
+        "livello": "Internazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=iVAwEnwSXXeyC81Mq8hGY7gQmcgAYI6I5cZSOeTk4H4%3d"
+    },
+    {
         "nome": "JELGAVA OPEN 2026",
         "tipo": "Gara",
         "disciplina": "Kyorugi",
@@ -636,6 +636,28 @@
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
         "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=uYCAwPzjLtCWGpmWbnxhRxrKSIRPilpl88IslHrvGTc%3d"
+    },
+    {
+        "nome": "PLOVDIV OPEN 2026",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-11-14",
+        "data_scadenza": "2026-11-08",
+        "luogo": "Da definire",
+        "livello": "Internazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=KjlrZiS%2bB37m7nSPkIlQuGJJAI8dXNC22%2bQJSoC7IQc%3d"
+    },
+    {
+        "nome": "POLISH CUP TORUŃ OPEN 2026/PUCHAR POLSKI TORUŃ 2026",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-11-20",
+        "data_scadenza": "2026-11-22",
+        "luogo": "Da definire",
+        "livello": "Internazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=cBILunTCbttkBSf87BbXAJ4UcZos9t6kcL2%2fcMUa0YY%3d"
     },
     {
         "nome": "DTU FINAL 7  INT. SACHSEN-ANHALT CUP",
