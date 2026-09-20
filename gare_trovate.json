@@ -11,39 +11,6 @@
         "link": "https://www.taekwondoitalia.it/calendario/calendario-eventi/event/781-campionati-italiani-taekwondo-rossano-2026.html"
     },
     {
-        "nome": "INTERREGIONALE LIGURIA - STAGE COMBATTIMENTO CHILDREN TUTTI, KIDS TUTTI E CADETTI FINO A BLU PALA LINO MARAGLIANO\r\nPIAZZA GIULIANO SUPPINI 2\r\n16165 GENOVA STRUPPA - Genova",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-09-19",
-        "data_scadenza": "2026-09-19",
-        "luogo": "Genova",
-        "livello": "Nazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=903"
-    },
-    {
-        "nome": "INTERREGIONALE LIGURIA - STAGE PER CADETTI ROSSE E POOM PALA LINO MARAGLIANO \r\nPIAZZA GIULIANO SUPPINI 2\r\n16165 GENOVA STRUPPA - Genova",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-09-19",
-        "data_scadenza": "2026-09-19",
-        "luogo": "Genova",
-        "livello": "Nazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=904"
-    },
-    {
-        "nome": "INTERREGIONALE LIGURIA - STAGE PER JUNIOR TUTTI E SENIOR TUTTI PALA LINO MARAGLIANO \r\nPIAZZA GIULIANO SUPPINI 2\r\n16165 GENOVA STRUPPA - Genova",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-09-19",
-        "data_scadenza": "2026-09-19",
-        "luogo": "Genova",
-        "livello": "Nazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=905"
-    },
-    {
         "nome": "REGIONALE Emilia Romagna - Raduno Regionale - 1° selezione Coppa Italia Palestra Don Bosco\r\nvia Bismantova 23, 42123 \r\nREGGIO NELL'EMILIA (RE) - Reggio nell'Emilia",
         "tipo": "Gara",
         "disciplina": "Kyorugi",
@@ -143,6 +110,50 @@
         "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=895"
     },
     {
+        "nome": "INTERREGIONALE Abruzzo - CAMPIONATO INTERREGIONALE - Junior PALASPORT CELANO , VIA DELLA TORRE  - Celano",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-10-10",
+        "data_scadenza": "2026-10-11",
+        "luogo": "Celano",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=896"
+    },
+    {
+        "nome": "REGIONALE Campania Campionato regionale combattimento Junio - Senior (solo maschile - solo cinture rosse) Palazzetto dello sport di Giugliano in Campania\r\nVia Campopannone\r\n80014 Giugliano in Campania (NA) - Giugliano in Campania",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-10-10",
+        "data_scadenza": "2026-10-10",
+        "luogo": "Senior",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=892"
+    },
+    {
+        "nome": "REGIONALE Campania Selezione regionale per Dream Cup 2026 Palazzetto dello sport di Giugliano in Campania\r\nVia Campopannone\r\n80014 Giugliano in Campania (NA) - Giugliano in Campania",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-10-10",
+        "data_scadenza": "2026-10-10",
+        "luogo": "Giugliano in Campania",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=891"
+    },
+    {
+        "nome": "POLISH OPEN 2026",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-09-26",
+        "data_scadenza": "2026-09-27",
+        "luogo": "Da definire",
+        "livello": "Internazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=Ur2Rfzlznk0b%2fCMBP%2fPvDX0z3jaekUIXv5Zmdm%2bMIe4%3d"
+    },
+    {
         "nome": "CZECH OPEN POOMSAE 2026",
         "tipo": "Gara",
         "disciplina": "Poomsae",
@@ -152,50 +163,6 @@
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
         "link": "https://tkdregistrace.cz/"
-    },
-    {
-        "nome": "GOLDEN ROOF OPEN KYORUGI 2027",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2027-02-13",
-        "data_scadenza": "2027-02-06",
-        "luogo": "Da definire",
-        "livello": "Internazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=jT6GD1emhuIZpzePiZuY3bu1D30DPuxDSD9%2fysq1q9k%3d"
-    },
-    {
-        "nome": "7. WATTWIL OPEN",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-09-12",
-        "data_scadenza": "2026-09-12",
-        "luogo": "Da definire",
-        "livello": "Internazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=hfbTRm3BsdoUXnFrQHHnc1FWIv0sUz6dg8t%2bS6bI%2f4Q%3d"
-    },
-    {
-        "nome": "7. WATWILL OPEN POOMSAE",
-        "tipo": "Gara",
-        "disciplina": "Poomsae",
-        "data_evento": "2026-09-12",
-        "data_scadenza": "2026-09-12",
-        "luogo": "Da definire",
-        "livello": "Internazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.martial.events/en"
-    },
-    {
-        "nome": "NEWCOMER CUP TECHNIK 2026",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-09-12",
-        "data_scadenza": "2026-09-12",
-        "luogo": "Da definire",
-        "livello": "Internazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=ynmyMxuHudCH5AtT0MFeQCKKuiMSbImrG1lCQtn3nVQ%3d"
     },
     {
         "nome": "BLACK TIGER  CUP POOMSAE & PARA POOMSAE 2026",
@@ -323,7 +290,7 @@
         "tipo": "Gara",
         "disciplina": "Kyorugi",
         "data_evento": "2026-10-03",
-        "data_scadenza": "2026-09-19",
+        "data_scadenza": "2026-10-03",
         "luogo": "Da definire",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
@@ -724,5 +691,16 @@
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
         "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=1b4f14uVZTpZS6v1ofX3amQwdP8V5TaVzjrwPmdp1Xs%3d"
+    },
+    {
+        "nome": "GOLDEN ROOF OPEN KYORUGI 2027",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2027-02-13",
+        "data_scadenza": "2027-02-06",
+        "luogo": "Da definire",
+        "livello": "Internazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=jT6GD1emhuIZpzePiZuY3bu1D30DPuxDSD9%2fysq1q9k%3d"
     }
 ]
