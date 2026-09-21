@@ -1,5 +1,16 @@
 [
     {
+        "nome": "Tornei autorizzati Trofeo CONI 2026 CUS BARI",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-10-07",
+        "data_scadenza": "2026-10-07",
+        "luogo": "Da definire",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/calendario-eventi/event/786-trofeo-coni-2026.html"
+    },
+    {
         "nome": "FITA Campionati Italiani Taekwondo - Rossano 2026 PalaEventi Rossano — Via Carmine Gaetano Candiano, Rossano Stazione, Corigliano-Rossano (CS)",
         "tipo": "Gara",
         "disciplina": "Kyorugi",
@@ -9,17 +20,6 @@
         "livello": "Nazionale",
         "categorie": "Tutte le categorie",
         "link": "https://www.taekwondoitalia.it/calendario/calendario-eventi/event/781-campionati-italiani-taekwondo-rossano-2026.html"
-    },
-    {
-        "nome": "REGIONALE Emilia Romagna - Raduno Regionale - 1° selezione Coppa Italia Palestra Don Bosco\r\nvia Bismantova 23, 42123 \r\nREGGIO NELL'EMILIA (RE) - Reggio nell'Emilia",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-09-20",
-        "data_scadenza": "2026-09-20",
-        "luogo": "Reggio nell'Emilia",
-        "livello": "Nazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=902"
     },
     {
         "nome": "INTERREGIONALE Vento: STAGE CON TECNICO NAZIONALE LEONARDO BASILE IMPIANTO POLIFUNZIONALE FILIPPO RACITI - Padova",
@@ -143,6 +143,17 @@
         "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=891"
     },
     {
+        "nome": "INTERREGIONALE Friuli Venezia Giulia - Eagle Cup Combat Young 2026 - (Beginners- Children - Kids e Cadetti) Palazzetto dello sport di Fontanafredda - via Giacomo Leopardi 58 - Fontanafredda",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-10-10",
+        "data_scadenza": "2026-10-10",
+        "luogo": "Fontanafredda",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=852"
+    },
+    {
         "nome": "POLISH OPEN 2026",
         "tipo": "Gara",
         "disciplina": "Kyorugi",
@@ -202,7 +213,7 @@
         "tipo": "Gara",
         "disciplina": "Kyorugi",
         "data_evento": "2026-09-26",
-        "data_scadenza": "2026-09-20",
+        "data_scadenza": "2026-09-26",
         "luogo": "Da definire",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
@@ -246,7 +257,7 @@
         "tipo": "Gara",
         "disciplina": "Kyorugi",
         "data_evento": "2026-09-27",
-        "data_scadenza": "2026-09-20",
+        "data_scadenza": "2026-09-27",
         "luogo": "Da definire",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
@@ -400,7 +411,7 @@
         "tipo": "Gara",
         "disciplina": "Kyorugi",
         "data_evento": "2026-10-17",
-        "data_scadenza": "2026-10-04",
+        "data_scadenza": "2026-10-17",
         "luogo": "Da definire",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
@@ -675,7 +686,7 @@
         "tipo": "Gara",
         "disciplina": "Kyorugi",
         "data_evento": "2027-01-23",
-        "data_scadenza": "2027-01-16",
+        "data_scadenza": "2027-01-17",
         "luogo": "Rommelsbach",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
