@@ -22,17 +22,6 @@
         "link": "https://www.taekwondoitalia.it/calendario/calendario-eventi/event/781-campionati-italiani-taekwondo-rossano-2026.html"
     },
     {
-        "nome": "INTERREGIONALE Vento: STAGE CON TECNICO NAZIONALE LEONARDO BASILE IMPIANTO POLIFUNZIONALE FILIPPO RACITI - Padova",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-09-27",
-        "data_scadenza": "2026-09-27",
-        "luogo": "Padova",
-        "livello": "Nazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=907"
-    },
-    {
         "nome": "INTERREGIONALE Tuscany Open 2026 - Cadetti Gruppo D e Rosse/Poom Palasport Estra \"Mario d'Agata\" - Arezzo",
         "tipo": "Gara",
         "disciplina": "Kyorugi",
@@ -152,6 +141,17 @@
         "livello": "Nazionale",
         "categorie": "Tutte le categorie",
         "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=852"
+    },
+    {
+        "nome": "INTERREGIONALE Friuli Venezia Giulia - Stage Maestro Notaro Andrea 2026 Palazzetto dello sport di Fontanafredda - via Giacomo Leopardi 58 - Fontanafredda",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-10-10",
+        "data_scadenza": "2026-10-04",
+        "luogo": "Fontanafredda",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=853"
     },
     {
         "nome": "POLISH OPEN 2026",
@@ -411,7 +411,7 @@
         "tipo": "Gara",
         "disciplina": "Kyorugi",
         "data_evento": "2026-10-17",
-        "data_scadenza": "2026-10-17",
+        "data_scadenza": "2026-10-01",
         "luogo": "Da definire",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
