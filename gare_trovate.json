@@ -110,7 +110,7 @@
         "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=896"
     },
     {
-        "nome": "REGIONALE Campania Campionato regionale combattimento Junio - Senior (solo maschile - solo cinture rosse) Palazzetto dello sport di Giugliano in Campania\r\nVia Campopannone\r\n80014 Giugliano in Campania (NA) - Giugliano in Campania",
+        "nome": "REGIONALE Campania Campionato regionale combattimento Junior - Senior (solo maschile - solo cinture rosse) Palazzetto dello sport di Giugliano in Campania\r\nVia Campopannone\r\n80014 Giugliano in Campania (NA) - Giugliano in Campania",
         "tipo": "Gara",
         "disciplina": "Kyorugi",
         "data_evento": "2026-10-10",
@@ -174,6 +174,17 @@
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
         "link": "https://tkdregistrace.cz/"
+    },
+    {
+        "nome": "GOLDEN ROOF OPEN POOMSAE 2027",
+        "tipo": "Gara",
+        "disciplina": "Poomsae",
+        "data_evento": "2027-02-13",
+        "data_scadenza": "2027-02-13",
+        "luogo": "Da definire",
+        "livello": "Internazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=0AnhkvxXixZDC2RYJGRcfiodU6zBP9Pv9pJc1fVXnRI%3d"
     },
     {
         "nome": "BLACK TIGER  CUP POOMSAE & PARA POOMSAE 2026",
@@ -301,7 +312,7 @@
         "tipo": "Gara",
         "disciplina": "Kyorugi",
         "data_evento": "2026-10-03",
-        "data_scadenza": "2026-10-03",
+        "data_scadenza": "2026-09-23",
         "luogo": "Da definire",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
