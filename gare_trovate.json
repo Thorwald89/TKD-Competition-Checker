@@ -187,39 +187,6 @@
         "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=0AnhkvxXixZDC2RYJGRcfiodU6zBP9Pv9pJc1fVXnRI%3d"
     },
     {
-        "nome": "BLACK TIGER  CUP POOMSAE & PARA POOMSAE 2026",
-        "tipo": "Gara",
-        "disciplina": "Poomsae",
-        "data_evento": "2026-09-19",
-        "data_scadenza": "2026-09-19",
-        "luogo": "Da definire",
-        "livello": "Internazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://fitofan.com/blacktigercup2026poomsaepara?p=participants"
-    },
-    {
-        "nome": "BLACK TIGER CUP KYORUGI 2026",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-09-19",
-        "data_scadenza": "2026-09-19",
-        "luogo": "Da definire",
-        "livello": "Internazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://truevar.eu/"
-    },
-    {
-        "nome": "KOREAN AMBASSADOR'S CUP 2026",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-09-19",
-        "data_scadenza": "2026-09-19",
-        "luogo": "Da definire",
-        "livello": "Internazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=2YPYDFm8aENe5Vck6Oqw8OEMBBPahgnRxJOCuAual94%3d"
-    },
-    {
         "nome": "DUPNITSA OPEN 2026 (E2)",
         "tipo": "Gara",
         "disciplina": "Kyorugi",
@@ -345,7 +312,7 @@
         "tipo": "Gara",
         "disciplina": "Kyorugi",
         "data_evento": "2026-10-10",
-        "data_scadenza": "2026-09-27",
+        "data_scadenza": "2026-10-10",
         "luogo": "Da definire",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
@@ -422,7 +389,7 @@
         "tipo": "Gara",
         "disciplina": "Kyorugi",
         "data_evento": "2026-10-17",
-        "data_scadenza": "2026-10-01",
+        "data_scadenza": "2026-10-17",
         "luogo": "Da definire",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
