@@ -176,6 +176,17 @@
         "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=oRpdfycIHvp%2fzzMu1C2VbKbgW1jKOmLsnBUmQMqou9c%3d"
     },
     {
+        "nome": "GREECE OPEN 2026 G1-E1",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-11-06",
+        "data_scadenza": "2026-11-08",
+        "luogo": "Da definire",
+        "livello": "Internazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://worldtkd.simplycompete.com/eventDetails/11f1bcbe-1d58-c1ca-b354-023d1c5009dd/1"
+    },
+    {
         "nome": "PRAGUE OPEN 2026",
         "tipo": "Gara",
         "disciplina": "Kyorugi",
@@ -466,7 +477,7 @@
         "tipo": "Gara",
         "disciplina": "Kyorugi",
         "data_evento": "2026-10-17",
-        "data_scadenza": "2026-10-01",
+        "data_scadenza": "2026-10-17",
         "luogo": "Da definire",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
@@ -477,7 +488,7 @@
         "tipo": "Gara",
         "disciplina": "Kyorugi",
         "data_evento": "2026-10-18",
-        "data_scadenza": "2026-10-01",
+        "data_scadenza": "2026-10-18",
         "luogo": "Da definire",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
