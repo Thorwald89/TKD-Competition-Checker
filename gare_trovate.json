@@ -190,12 +190,12 @@
         "nome": "PRAGUE OPEN 2026",
         "tipo": "Gara",
         "disciplina": "Kyorugi",
-        "data_evento": "2026-08-31",
-        "data_scadenza": "2026-11-16",
+        "data_evento": "2026-11-07",
+        "data_scadenza": "2026-11-04",
         "luogo": "Da definire",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
-        "link": "https://tkdregistrace.cz/"
+        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=2FMp3xX7Y4BoEeCYy4BKRNbj8Pks2OhgVStwaMCSyL4%3d"
     },
     {
         "nome": "(YOUTH) 30TH ZAGREB CROATIA OPEN 2026 (E1)",
@@ -229,6 +229,17 @@
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
         "link": "https://tkdregistrace.cz/"
+    },
+    {
+        "nome": "41ST TAEKWONDO CHANG MOO KWAN OPEN 2027",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2027-03-20",
+        "data_scadenza": "2027-03-13",
+        "luogo": "Da definire",
+        "livello": "Internazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=3BBy1TwGrQVZC1ix16YC35WDZ7P%2fyBgPXlLJKF5saEA%3d"
     },
     {
         "nome": "DUPNITSA OPEN 2026 (E2)",
