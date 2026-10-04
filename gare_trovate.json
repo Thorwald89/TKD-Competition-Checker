@@ -22,28 +22,6 @@
         "link": "https://www.taekwondoitalia.it/calendario/calendario-eventi/event/781-campionati-italiani-taekwondo-rossano-2026.html"
     },
     {
-        "nome": "INTERREGIONALE Tuscany Open 2026 - Cadetti Gruppo D e Rosse/Poom Palasport Estra \"Mario d'Agata\" - Arezzo",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-10-03",
-        "data_scadenza": "2026-10-03",
-        "luogo": "Arezzo",
-        "livello": "Nazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=828"
-    },
-    {
-        "nome": "INTERREGIONALE Tuscany Open 2026 - Junior e Senior Palasport Estra \"Mario d'Agata\" - Arezzo",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-10-03",
-        "data_scadenza": "2026-10-03",
-        "luogo": "Junior e Senior",
-        "livello": "Nazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=829"
-    },
-    {
         "nome": "INTERREGIONALE Torneo autorizzato - South Tyrol Taekwondo Open - Beginners/Children/Kids/Cadets Palasport Bolzano (PalaResia) Via Resia, 39 – 39100 Bolzano (BZ) - Bolzano/Bozen",
         "tipo": "Gara",
         "disciplina": "Kyorugi",
@@ -121,17 +99,6 @@
         "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=891"
     },
     {
-        "nome": "INTERREGIONALE Friuli Venezia Giulia - Eagle Cup Combat Young 2026 - (Beginners- Children - Kids e Cadetti) Palazzetto dello sport di Fontanafredda - via Giacomo Leopardi 58 - Fontanafredda",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-10-10",
-        "data_scadenza": "2026-10-10",
-        "luogo": "Fontanafredda",
-        "livello": "Nazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=852"
-    },
-    {
         "nome": "REGIONALE LIGURIA - RADUNO DI COMBATTIMENTO DEL 10 OTTOBRE 2026 LICEO KING \r\nVIA STURLA 63 - GENOVA - Genova",
         "tipo": "Gara",
         "disciplina": "Kyorugi",
@@ -152,6 +119,39 @@
         "livello": "Nazionale",
         "categorie": "Tutte le categorie",
         "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=894"
+    },
+    {
+        "nome": "INTERREGIONALE Campania interregionali Combattimento Beginners - Children - Kids M/F Palazzetto dello sport di Giugliano in Campania\r\nVia Campopannone\r\n80014 Giugliano in Campania (NA) - Giugliano in Campania",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-10-11",
+        "data_scadenza": "2026-10-11",
+        "luogo": "Giugliano in Campania",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=893"
+    },
+    {
+        "nome": "REGIONALE LOMBARDIA - KIDS GAME Palestra Oratorio via Paolo VI - Bovezzo",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-10-11",
+        "data_scadenza": "2026-10-11",
+        "luogo": "KIDS GAME Palestra Oratorio via Paolo VI - Bovezzo",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=913"
+    },
+    {
+        "nome": "FITA Campionati Italiani Junior Cinture Rosse 2026 PalaEventi Rossano Via Carmine Gaetano Candiano (Rossano Stazione, 87067 Corigliano-Rossano)  - Corigliano-Rossano",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-10-16",
+        "data_scadenza": "2026-10-16",
+        "luogo": "Corigliano-Rossano",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=888"
     },
     {
         "nome": "POLISH OPEN 2026",
@@ -229,61 +229,6 @@
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
         "link": "https://tkdregistrace.cz/"
-    },
-    {
-        "nome": "41ST TAEKWONDO CHANG MOO KWAN OPEN 2027",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2027-03-20",
-        "data_scadenza": "2027-03-13",
-        "luogo": "Da definire",
-        "livello": "Internazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=3BBy1TwGrQVZC1ix16YC35WDZ7P%2fyBgPXlLJKF5saEA%3d"
-    },
-    {
-        "nome": "DUPNITSA OPEN 2026 (E2)",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-09-26",
-        "data_scadenza": "2026-09-26",
-        "luogo": "Da definire",
-        "livello": "Internazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://worldtkd.simplycompete.com/eventDetails/11f14235-5344-e544-adfa-06155f16eed1/1"
-    },
-    {
-        "nome": "KOREAN AMBASSADOR'S CUP 2026 KYORUGI",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-09-26",
-        "data_scadenza": "2026-09-26",
-        "luogo": "Da definire",
-        "livello": "Internazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=AniWvuqS%2fgxYvxCHDS6mu1xINCaXQe7VszhmQvNwpxA%3d"
-    },
-    {
-        "nome": "KOREAN AMBASSADOR'S CUP 2026 POOMSAE",
-        "tipo": "Gara",
-        "disciplina": "Poomsae",
-        "data_evento": "2026-09-26",
-        "data_scadenza": "2026-09-26",
-        "luogo": "Da definire",
-        "livello": "Internazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=QhsvPVwrqOdxN64ntcD0P53BEMrTnZMkZ%2baFJCgPakc%3d"
-    },
-    {
-        "nome": "SVENSKA CUPEN 1 2026",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-09-26",
-        "data_scadenza": "2026-09-26",
-        "luogo": "Da definire",
-        "livello": "Internazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=iCqVn3lCWTCssgrM9FKsGCuZpno96hCVBoAXUDjGVYc%3d"
     },
     {
         "nome": "DUPNITSA OPEN 2026",
@@ -367,7 +312,7 @@
         "tipo": "Gara",
         "disciplina": "Kyorugi",
         "data_evento": "2026-10-10",
-        "data_scadenza": "2026-10-03",
+        "data_scadenza": "2026-10-10",
         "luogo": "Da definire",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
@@ -768,5 +713,16 @@
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
         "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=0AnhkvxXixZDC2RYJGRcfiodU6zBP9Pv9pJc1fVXnRI%3d"
+    },
+    {
+        "nome": "41ST TAEKWONDO CHANG MOO KWAN OPEN 2027",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2027-03-20",
+        "data_scadenza": "2027-03-13",
+        "luogo": "Da definire",
+        "livello": "Internazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=3BBy1TwGrQVZC1ix16YC35WDZ7P%2fyBgPXlLJKF5saEA%3d"
     }
 ]
