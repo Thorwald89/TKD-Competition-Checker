@@ -22,39 +22,6 @@
         "link": "https://www.taekwondoitalia.it/calendario/calendario-eventi/event/781-campionati-italiani-taekwondo-rossano-2026.html"
     },
     {
-        "nome": "INTERREGIONALE Torneo autorizzato - South Tyrol Taekwondo Open - Beginners/Children/Kids/Cadets Palasport Bolzano (PalaResia) Via Resia, 39 – 39100 Bolzano (BZ) - Bolzano/Bozen",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-10-04",
-        "data_scadenza": "2026-10-04",
-        "luogo": "Palasport Bolzano (PalaResia) Via Resia",
-        "livello": "Nazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=880"
-    },
-    {
-        "nome": "INTERREGIONALE Torneo autorizzato - South Tyrol Taekwondo Open - Junior e Senior Palasport Bolzano (PalaResia) Via Resia, 39 – 39100 Bolzano (BZ) - Bolzano/Bozen",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-10-04",
-        "data_scadenza": "2026-10-04",
-        "luogo": "South Tyrol Taekwondo Open - Junior e Senior",
-        "livello": "Nazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=881"
-    },
-    {
-        "nome": "INTERREGIONALE Tuscany Open 2026 - Kids, Children e Beginners Palasport Estra \"Mario d'Agata\" - Arezzo",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-10-04",
-        "data_scadenza": "2026-10-04",
-        "luogo": "Arezzo",
-        "livello": "Nazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=830"
-    },
-    {
         "nome": "INTERREGIONALE Abruzzo - CAMPIONATO INTERREGIONALE - Cadetti PALASPORT CELANO , via della Torre  - Celano",
         "tipo": "Gara",
         "disciplina": "Kyorugi",
@@ -154,15 +121,37 @@
         "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=888"
     },
     {
-        "nome": "POLISH OPEN 2026",
+        "nome": "FITA Campionati Italiani Under 21 2026 PalaEventi Rossano Via Carmine Gaetano Candiano (Rossano Stazione, 87067 Corigliano-Rossano)  - Corigliano-Rossano",
         "tipo": "Gara",
         "disciplina": "Kyorugi",
-        "data_evento": "2026-09-26",
-        "data_scadenza": "2026-09-27",
-        "luogo": "Da definire",
-        "livello": "Internazionale",
+        "data_evento": "2026-10-17",
+        "data_scadenza": "2026-10-17",
+        "luogo": "Corigliano-Rossano",
+        "livello": "Nazionale",
         "categorie": "Tutte le categorie",
-        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=Ur2Rfzlznk0b%2fCMBP%2fPvDX0z3jaekUIXv5Zmdm%2bMIe4%3d"
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=889"
+    },
+    {
+        "nome": "FITA Campionati Italiani Senior Cinture Rosse e Campionati Italiani Master Rosse e Nere 2026 PalaEventi Rossano Via Carmine Gaetano Candiano (Rossano Stazione, 87067 Corigliano-Rossano)  - Corigliano-Rossano",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-10-18",
+        "data_scadenza": "2026-10-18",
+        "luogo": "Corigliano-Rossano",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=890"
+    },
+    {
+        "nome": "INTERREGIONALE Veneto - DOLOMITI TAEKWONDO OPEN 2026 - Cadets fino a cintura blu Palasport ‘Livio Romare’ Viale Dell’ Industria, 96 Schio (VI) - Schio",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-11-07",
+        "data_scadenza": "2026-11-07",
+        "luogo": "Cadets fino a cintura blu",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=909"
     },
     {
         "nome": "23RD GALEB BELGRADE TROPHY - SERBIA OPEN 2026",
@@ -229,28 +218,6 @@
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
         "link": "https://tkdregistrace.cz/"
-    },
-    {
-        "nome": "DUPNITSA OPEN 2026",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-09-27",
-        "data_scadenza": "2026-09-27",
-        "luogo": "Da definire",
-        "livello": "Internazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=r3f9uscMCLeGkViCt7hVnEPF9rqsW43wZDgS%2fYqfoNc%3d"
-    },
-    {
-        "nome": "SHARKS OPEN 2026",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-09-27",
-        "data_scadenza": "2026-09-27",
-        "luogo": "Da definire",
-        "livello": "Internazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=jk63XNpvLDkRf60ZK7uZ9rCcZrwA0jrKlR%2bSjx5P8Bs%3d"
     },
     {
         "nome": "(YOUTH) ALBANIA OPEN 2026 (E1)",
@@ -389,7 +356,7 @@
         "tipo": "Gara",
         "disciplina": "Kyorugi",
         "data_evento": "2026-10-17",
-        "data_scadenza": "2026-10-04",
+        "data_scadenza": "2026-10-07",
         "luogo": "Da definire",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
