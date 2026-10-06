@@ -198,6 +198,17 @@
         "link": "https://worldtkd.simplycompete.com/eventDetails/11f1b99a-b62a-3ef5-b354-023d1c5009dd/1"
     },
     {
+        "nome": "RADVILISKIS CUP 2026",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-11-14",
+        "data_scadenza": "2026-11-09",
+        "luogo": "Da definire",
+        "livello": "Internazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=71wckHcDm%2b2WaXKY3BAaflT6k%2bm2qZ6TKQqpCi1WSHE%3d"
+    },
+    {
         "nome": "(SENIORS) 30TH ZAGREB CROATIA OPEN 2026 (G1)",
         "tipo": "Gara",
         "disciplina": "Kyorugi",
@@ -218,6 +229,28 @@
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
         "link": "https://tkdregistrace.cz/"
+    },
+    {
+        "nome": "SILBERBERG OPEN 2026 KYORUGI",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-11-21",
+        "data_scadenza": "2026-11-13",
+        "luogo": "Da definire",
+        "livello": "Internazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=nblACoFNpFaN2YXGOvhKml2rjrMPce2sX85bmci6khU%3d"
+    },
+    {
+        "nome": "SILBERBERG OPEN 2026 POOMSAE",
+        "tipo": "Gara",
+        "disciplina": "Poomsae",
+        "data_evento": "2026-11-21",
+        "data_scadenza": "2026-11-13",
+        "luogo": "Da definire",
+        "livello": "Internazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=seUxntqlovU3e590sKvXK%2f0RlNFFmkHSnc6qE04qGFg%3d"
     },
     {
         "nome": "(YOUTH) ALBANIA OPEN 2026 (E1)",
@@ -510,7 +543,7 @@
         "tipo": "Gara",
         "disciplina": "Kyorugi",
         "data_evento": "2026-11-07",
-        "data_scadenza": "2026-11-07",
+        "data_scadenza": "2026-10-18",
         "luogo": "Da definire",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
@@ -521,7 +554,7 @@
         "tipo": "Gara",
         "disciplina": "Kyorugi",
         "data_evento": "2026-11-07",
-        "data_scadenza": "2026-10-05",
+        "data_scadenza": "2026-11-04",
         "luogo": "Da definire",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
