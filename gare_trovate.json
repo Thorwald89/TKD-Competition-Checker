@@ -1,16 +1,5 @@
 [
     {
-        "nome": "Tornei autorizzati Trofeo CONI 2026 CUS BARI",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-10-07",
-        "data_scadenza": "2026-10-07",
-        "luogo": "Da definire",
-        "livello": "Nazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/calendario-eventi/event/786-trofeo-coni-2026.html"
-    },
-    {
         "nome": "FITA Campionati Italiani Taekwondo - Rossano 2026 PalaEventi Rossano — Via Carmine Gaetano Candiano, Rossano Stazione, Corigliano-Rossano (CS)",
         "tipo": "Gara",
         "disciplina": "Kyorugi",
@@ -42,6 +31,17 @@
         "livello": "Nazionale",
         "categorie": "Tutte le categorie",
         "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=896"
+    },
+    {
+        "nome": "REGIONALE Abruzzo- RADUNO REGIONALE DREAM CUP PALASPORT CELANO - Celano",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-10-10",
+        "data_scadenza": "2026-10-10",
+        "luogo": "RADUNO REGIONALE DREAM CUP PALASPORT CELANO - Celano",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=917"
     },
     {
         "nome": "REGIONALE Campania Campionato regionale combattimento Junior - Senior (solo maschile - solo cinture rosse) Palazzetto dello sport di Giugliano in Campania\r\nVia Campopannone\r\n80014 Giugliano in Campania (NA) - Giugliano in Campania",
@@ -141,17 +141,6 @@
         "livello": "Nazionale",
         "categorie": "Tutte le categorie",
         "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=890"
-    },
-    {
-        "nome": "INTERREGIONALE Veneto - DOLOMITI TAEKWONDO OPEN 2026 - Cadets fino a cintura blu Palasport ‘Livio Romare’ Viale Dell’ Industria, 96 Schio (VI) - Schio",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-11-07",
-        "data_scadenza": "2026-11-07",
-        "luogo": "Cadets fino a cintura blu",
-        "livello": "Nazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=909"
     },
     {
         "nome": "23RD GALEB BELGRADE TROPHY - SERBIA OPEN 2026",
@@ -345,7 +334,7 @@
         "tipo": "Gara",
         "disciplina": "Kyorugi",
         "data_evento": "2026-10-10",
-        "data_scadenza": "2026-10-07",
+        "data_scadenza": "2026-10-08",
         "luogo": "Da definire",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
@@ -378,7 +367,7 @@
         "tipo": "Gara",
         "disciplina": "Kyorugi",
         "data_evento": "2026-10-11",
-        "data_scadenza": "2026-10-11",
+        "data_scadenza": "2026-10-07",
         "luogo": "Da definire",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
@@ -389,7 +378,7 @@
         "tipo": "Gara",
         "disciplina": "Kyorugi",
         "data_evento": "2026-10-17",
-        "data_scadenza": "2026-10-07",
+        "data_scadenza": "2026-10-17",
         "luogo": "Da definire",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
@@ -675,7 +664,7 @@
         "tipo": "Gara",
         "disciplina": "Kyorugi",
         "data_evento": "2027-01-23",
-        "data_scadenza": "2027-01-16",
+        "data_scadenza": "2027-01-17",
         "luogo": "Rommelsbach",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
