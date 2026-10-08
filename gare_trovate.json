@@ -187,17 +187,6 @@
         "link": "https://worldtkd.simplycompete.com/eventDetails/11f1b99a-b62a-3ef5-b354-023d1c5009dd/1"
     },
     {
-        "nome": "RADVILISKIS CUP 2026",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-11-14",
-        "data_scadenza": "2026-11-09",
-        "luogo": "Da definire",
-        "livello": "Internazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=71wckHcDm%2b2WaXKY3BAaflT6k%2bm2qZ6TKQqpCi1WSHE%3d"
-    },
-    {
         "nome": "(SENIORS) 30TH ZAGREB CROATIA OPEN 2026 (G1)",
         "tipo": "Gara",
         "disciplina": "Kyorugi",
@@ -220,26 +209,15 @@
         "link": "https://tkdregistrace.cz/"
     },
     {
-        "nome": "SILBERBERG OPEN 2026 KYORUGI",
+        "nome": "KLAIPEDA OPEN 2026",
         "tipo": "Gara",
         "disciplina": "Kyorugi",
         "data_evento": "2026-11-21",
-        "data_scadenza": "2026-11-13",
+        "data_scadenza": "2026-11-18",
         "luogo": "Da definire",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
-        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=nblACoFNpFaN2YXGOvhKml2rjrMPce2sX85bmci6khU%3d"
-    },
-    {
-        "nome": "SILBERBERG OPEN 2026 POOMSAE",
-        "tipo": "Gara",
-        "disciplina": "Poomsae",
-        "data_evento": "2026-11-21",
-        "data_scadenza": "2026-11-13",
-        "luogo": "Da definire",
-        "livello": "Internazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=seUxntqlovU3e590sKvXK%2f0RlNFFmkHSnc6qE04qGFg%3d"
+        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=ppAG4qpPQ5Da%2fzyhLAJSizpq7NqCSODiU0mN10G7lRs%3d"
     },
     {
         "nome": "(YOUTH) ALBANIA OPEN 2026 (E1)",
@@ -312,7 +290,7 @@
         "tipo": "Gara",
         "disciplina": "Kyorugi",
         "data_evento": "2026-10-10",
-        "data_scadenza": "2026-10-11",
+        "data_scadenza": "2026-10-08",
         "luogo": "Da definire",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
@@ -334,7 +312,7 @@
         "tipo": "Gara",
         "disciplina": "Kyorugi",
         "data_evento": "2026-10-10",
-        "data_scadenza": "2026-10-08",
+        "data_scadenza": "2026-10-10",
         "luogo": "Da definire",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
@@ -367,7 +345,7 @@
         "tipo": "Gara",
         "disciplina": "Kyorugi",
         "data_evento": "2026-10-11",
-        "data_scadenza": "2026-10-07",
+        "data_scadenza": "2026-10-11",
         "luogo": "Da definire",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
@@ -499,7 +477,7 @@
         "tipo": "Gara",
         "disciplina": "Kyorugi",
         "data_evento": "2026-10-31",
-        "data_scadenza": "2026-10-24",
+        "data_scadenza": "2026-10-21",
         "luogo": "Da definire",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
@@ -510,7 +488,7 @@
         "tipo": "Gara",
         "disciplina": "Poomsae",
         "data_evento": "2026-10-31",
-        "data_scadenza": "2026-10-24",
+        "data_scadenza": "2026-10-21",
         "luogo": "Da definire",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
@@ -605,6 +583,17 @@
         "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=KjlrZiS%2bB37m7nSPkIlQuGJJAI8dXNC22%2bQJSoC7IQc%3d"
     },
     {
+        "nome": "RADVILISKIS CUP 2026",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-11-14",
+        "data_scadenza": "2026-11-09",
+        "luogo": "Da definire",
+        "livello": "Internazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=71wckHcDm%2b2WaXKY3BAaflT6k%2bm2qZ6TKQqpCi1WSHE%3d"
+    },
+    {
         "nome": "POLISH CUP TORUŃ OPEN 2026/PUCHAR POLSKI TORUŃ 2026",
         "tipo": "Gara",
         "disciplina": "Kyorugi",
@@ -625,6 +614,28 @@
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
         "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=sX6DjvVytEJNmXPcKuackXr5yUR2sMPITcCRXTj9qZg%3d"
+    },
+    {
+        "nome": "SILBERBERG OPEN 2026 KYORUGI",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-11-21",
+        "data_scadenza": "2026-11-13",
+        "luogo": "Da definire",
+        "livello": "Internazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=nblACoFNpFaN2YXGOvhKml2rjrMPce2sX85bmci6khU%3d"
+    },
+    {
+        "nome": "SILBERBERG OPEN 2026 POOMSAE",
+        "tipo": "Gara",
+        "disciplina": "Poomsae",
+        "data_evento": "2026-11-21",
+        "data_scadenza": "2026-11-13",
+        "luogo": "Da definire",
+        "livello": "Internazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=seUxntqlovU3e590sKvXK%2f0RlNFFmkHSnc6qE04qGFg%3d"
     },
     {
         "nome": "4. INT. ESCHWEILER JUGEND CUP",
