@@ -209,17 +209,6 @@
         "link": "https://tkdregistrace.cz/"
     },
     {
-        "nome": "KLAIPEDA OPEN 2026",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-11-21",
-        "data_scadenza": "2026-11-18",
-        "luogo": "Da definire",
-        "livello": "Internazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=ppAG4qpPQ5Da%2fzyhLAJSizpq7NqCSODiU0mN10G7lRs%3d"
-    },
-    {
         "nome": "(YOUTH) ALBANIA OPEN 2026 (E1)",
         "tipo": "Gara",
         "disciplina": "Kyorugi",
@@ -499,7 +488,7 @@
         "tipo": "Gara",
         "disciplina": "Poomsae",
         "data_evento": "2026-10-31",
-        "data_scadenza": "2026-10-09",
+        "data_scadenza": "2026-10-31",
         "luogo": "Da definire",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
@@ -614,6 +603,17 @@
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
         "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=sX6DjvVytEJNmXPcKuackXr5yUR2sMPITcCRXTj9qZg%3d"
+    },
+    {
+        "nome": "KLAIPEDA OPEN 2026",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-11-21",
+        "data_scadenza": "2026-11-18",
+        "luogo": "Da definire",
+        "livello": "Internazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=ppAG4qpPQ5Da%2fzyhLAJSizpq7NqCSODiU0mN10G7lRs%3d"
     },
     {
         "nome": "SILBERBERG OPEN 2026 KYORUGI",
