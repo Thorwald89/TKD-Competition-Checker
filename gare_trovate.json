@@ -11,72 +11,6 @@
         "link": "https://www.taekwondoitalia.it/calendario/calendario-eventi/event/781-campionati-italiani-taekwondo-rossano-2026.html"
     },
     {
-        "nome": "INTERREGIONALE Abruzzo - CAMPIONATO INTERREGIONALE - Cadetti PALASPORT CELANO , via della Torre  - Celano",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-10-10",
-        "data_scadenza": "2026-10-10",
-        "luogo": "Celano",
-        "livello": "Nazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=895"
-    },
-    {
-        "nome": "INTERREGIONALE Abruzzo - CAMPIONATO INTERREGIONALE - Junior PALASPORT CELANO , VIA DELLA TORRE  - Celano",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-10-10",
-        "data_scadenza": "2026-10-10",
-        "luogo": "Celano",
-        "livello": "Nazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=896"
-    },
-    {
-        "nome": "REGIONALE Abruzzo- RADUNO REGIONALE DREAM CUP PALASPORT CELANO - Celano",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-10-10",
-        "data_scadenza": "2026-10-10",
-        "luogo": "RADUNO REGIONALE DREAM CUP PALASPORT CELANO - Celano",
-        "livello": "Nazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=917"
-    },
-    {
-        "nome": "REGIONALE Campania Campionato regionale combattimento Junior - Senior (solo maschile - solo cinture rosse) Palazzetto dello sport di Giugliano in Campania\r\nVia Campopannone\r\n80014 Giugliano in Campania (NA) - Giugliano in Campania",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-10-10",
-        "data_scadenza": "2026-10-10",
-        "luogo": "Senior",
-        "livello": "Nazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=892"
-    },
-    {
-        "nome": "REGIONALE Campania Selezione regionale per Dream Cup 2026 Palazzetto dello sport di Giugliano in Campania\r\nVia Campopannone\r\n80014 Giugliano in Campania (NA) - Giugliano in Campania",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-10-10",
-        "data_scadenza": "2026-10-10",
-        "luogo": "Giugliano in Campania",
-        "livello": "Nazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=891"
-    },
-    {
-        "nome": "REGIONALE LIGURIA - RADUNO DI COMBATTIMENTO DEL 10 OTTOBRE 2026 LICEO KING \r\nVIA STURLA 63 - GENOVA - Genova",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-10-10",
-        "data_scadenza": "2026-10-10",
-        "luogo": "GENOVA - Genova",
-        "livello": "Nazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=912"
-    },
-    {
         "nome": "INTERREGIONALE Abruzzo - CAMPIONATO INTERREGIONALE - Beginners , Kids , Children PALASPORT CELANO  - Celano",
         "tipo": "Gara",
         "disciplina": "Kyorugi",
@@ -143,6 +77,72 @@
         "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=890"
     },
     {
+        "nome": "INTERREGIONALE Veneto - DOLOMITI TAEKWONDO OPEN 2026 - Cadets fino a cintura blu Palasport ‘Livio Romare’ Viale Dell’ Industria, 96 Schio (VI) - Schio",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-11-07",
+        "data_scadenza": "2026-11-07",
+        "luogo": "Cadets fino a cintura blu",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=909"
+    },
+    {
+        "nome": "INTERREGIONALE Veneto - DOLOMITI TAEKWONDO OPEN 2026 - Cadets solo ROSSE - POOM Palasport ‘Livio Romare’ Viale Dell’ Industria, 96 Schio (VI) - Schio",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-11-07",
+        "data_scadenza": "2026-11-07",
+        "luogo": "Cadets solo ROSSE - POOM",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=910"
+    },
+    {
+        "nome": "INTERREGIONALE Veneto - DOLOMITI TAEKWONDO OPEN 2026 - Junior Senior Master Palasport ‘Livio Romare’ Viale Dell’ Industria, 96 Schio (VI) - Schio",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-11-07",
+        "data_scadenza": "2026-11-07",
+        "luogo": "Junior Senior Master",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=908"
+    },
+    {
+        "nome": "INTERREGIONALE Sardegna - Autunno in Dobok 2026 - Torneo Interregionale Forme/Freestyle/Parataekwondo Palazzetto dello Sport \"Sa Rodia\" - Oristano",
+        "tipo": "Gara",
+        "disciplina": "Poomsae",
+        "data_evento": "2026-11-08",
+        "data_scadenza": "2026-11-08",
+        "luogo": "Oristano",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=918"
+    },
+    {
+        "nome": "INTERREGIONALE Veneto - DOLOMITI TAEKWONDO OPEN 2026 - Beginners Children Kids Palasport ‘Livio Romare’ Viale Dell’ Industria, 96 Schio (VI) - Schio",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-11-08",
+        "data_scadenza": "2026-11-08",
+        "luogo": "Beginners Children Kids",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=911"
+    },
+    {
+        "nome": "INTERREGIONALE Piemonte - 7° TORNEO TAEKWONDO TORINO ROYAL CUP 2026 (Beginners, Childrens, Kids, Cadets) Pala Gianni Asti -Torino\r\nViale Leonardo Bistolfi, 10, 10141 Torino (TO)\r\nGoogle Maps: https://maps.app.goo.gl/T95khJvxivbDwszZ8 - Torino",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-12-05",
+        "data_scadenza": "2026-12-05",
+        "luogo": "Torino",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=897"
+    },
+    {
         "nome": "23RD GALEB BELGRADE TROPHY - SERBIA OPEN 2026",
         "tipo": "Gara",
         "disciplina": "Kyorugi",
@@ -207,39 +207,6 @@
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
         "link": "https://tkdregistrace.cz/"
-    },
-    {
-        "nome": "(YOUTH) ALBANIA OPEN 2026 (E1)",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-10-02",
-        "data_scadenza": "2026-10-03",
-        "luogo": "Da definire",
-        "livello": "Internazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://worldtkd.simplycompete.com/eventDetails/11f15b59-26bf-8b32-94e9-063334a1275b/1"
-    },
-    {
-        "nome": "HUNGARIAN OPEN 2026 - KYORUGI",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-10-03",
-        "data_scadenza": "2026-10-03",
-        "luogo": "KYORUGI City Monor",
-        "livello": "Internazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=u38p8W%2bKO%2f%2fjE%2f2BV165wE1okg3NCsYQNFJi5iuTd1Y%3d"
-    },
-    {
-        "nome": "INT. LA OPEN 8.0",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-10-03",
-        "data_scadenza": "2026-10-03",
-        "luogo": "Da definire",
-        "livello": "Internazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=m7wGUX3KtUjm1jkryVr9r4fPZECdG%2bLEAHq8FTCnVhk%3d"
     },
     {
         "nome": "(SENIORS) ALBANIA OPEN 2026 (G1)",
@@ -488,7 +455,7 @@
         "tipo": "Gara",
         "disciplina": "Poomsae",
         "data_evento": "2026-10-31",
-        "data_scadenza": "2026-10-31",
+        "data_scadenza": "2026-10-15",
         "luogo": "Da definire",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
