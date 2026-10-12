@@ -11,39 +11,6 @@
         "link": "https://www.taekwondoitalia.it/calendario/calendario-eventi/event/781-campionati-italiani-taekwondo-rossano-2026.html"
     },
     {
-        "nome": "INTERREGIONALE Abruzzo - CAMPIONATO INTERREGIONALE - Beginners , Kids , Children PALASPORT CELANO  - Celano",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-10-11",
-        "data_scadenza": "2026-10-11",
-        "luogo": "Celano",
-        "livello": "Nazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=894"
-    },
-    {
-        "nome": "INTERREGIONALE Campania interregionali Combattimento Beginners - Children - Kids M/F Palazzetto dello sport di Giugliano in Campania\r\nVia Campopannone\r\n80014 Giugliano in Campania (NA) - Giugliano in Campania",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-10-11",
-        "data_scadenza": "2026-10-11",
-        "luogo": "Giugliano in Campania",
-        "livello": "Nazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=893"
-    },
-    {
-        "nome": "REGIONALE LOMBARDIA - KIDS GAME Palestra Oratorio via Paolo VI - Bovezzo",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-10-11",
-        "data_scadenza": "2026-10-11",
-        "luogo": "KIDS GAME Palestra Oratorio via Paolo VI - Bovezzo",
-        "livello": "Nazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=913"
-    },
-    {
         "nome": "FITA Campionati Italiani Junior Cinture Rosse 2026 PalaEventi Rossano Via Carmine Gaetano Candiano (Rossano Stazione, 87067 Corigliano-Rossano)  - Corigliano-Rossano",
         "tipo": "Gara",
         "disciplina": "Kyorugi",
@@ -75,6 +42,39 @@
         "livello": "Nazionale",
         "categorie": "Tutte le categorie",
         "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=890"
+    },
+    {
+        "nome": "INTERREGIONALE Campania Campionato interregionale combattimento JUNIORE-SENIOR cinture colorate M/F Palazzetto dello sport di Glugliano in Campania (NA)\r\nVia Campopannone - Giugliano in Campania",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-10-31",
+        "data_scadenza": "2026-10-31",
+        "luogo": "Giugliano in Campania",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=922"
+    },
+    {
+        "nome": "INTERREGIONALE Campania Campionato interregionale combattimento CADETS M/F Palazzetto dello sport di Giugliano in Campania\r\nVia Campopannone - Giugliano in Campania",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-11-07",
+        "data_scadenza": "2026-11-07",
+        "luogo": "Giugliano in Campania",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=923"
+    },
+    {
+        "nome": "INTERREGIONALE PUGLIA  -  FORME - BE - CH - OVER 60  - Camionato Interregionale 2026 Palazzetto dello Sport \"Karol Wojtyla\" - Martina Franca",
+        "tipo": "Gara",
+        "disciplina": "Poomsae",
+        "data_evento": "2026-11-07",
+        "data_scadenza": "2026-11-07",
+        "luogo": "Martina Franca",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=921"
     },
     {
         "nome": "INTERREGIONALE Veneto - DOLOMITI TAEKWONDO OPEN 2026 - Cadets fino a cintura blu Palasport ‘Livio Romare’ Viale Dell’ Industria, 96 Schio (VI) - Schio",
@@ -110,6 +110,17 @@
         "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=908"
     },
     {
+        "nome": "INTERREGIONALE PUGLIA  -  FORMULA  \"A\"  - Campionato Interregionale FORME  - KI-CA-JU-U30-U40-U50-U60 Palazzetto dello Sport \"Karol Wojtyla\" - Martina Franca",
+        "tipo": "Gara",
+        "disciplina": "Poomsae",
+        "data_evento": "2026-11-08",
+        "data_scadenza": "2026-11-08",
+        "luogo": "Martina Franca",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=920"
+    },
+    {
         "nome": "INTERREGIONALE Sardegna - Autunno in Dobok 2026 - Torneo Interregionale Forme/Freestyle/Parataekwondo Palazzetto dello Sport \"Sa Rodia\" - Oristano",
         "tipo": "Gara",
         "disciplina": "Poomsae",
@@ -130,17 +141,6 @@
         "livello": "Nazionale",
         "categorie": "Tutte le categorie",
         "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=911"
-    },
-    {
-        "nome": "INTERREGIONALE Piemonte - 7° TORNEO TAEKWONDO TORINO ROYAL CUP 2026 (Beginners, Childrens, Kids, Cadets) Pala Gianni Asti -Torino\r\nViale Leonardo Bistolfi, 10, 10141 Torino (TO)\r\nGoogle Maps: https://maps.app.goo.gl/T95khJvxivbDwszZ8 - Torino",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-12-05",
-        "data_scadenza": "2026-12-05",
-        "luogo": "Torino",
-        "livello": "Nazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=897"
     },
     {
         "nome": "23RD GALEB BELGRADE TROPHY - SERBIA OPEN 2026",
@@ -207,28 +207,6 @@
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
         "link": "https://tkdregistrace.cz/"
-    },
-    {
-        "nome": "(SENIORS) ALBANIA OPEN 2026 (G1)",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-10-04",
-        "data_scadenza": "2026-10-04",
-        "luogo": "Da definire",
-        "livello": "Internazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://worldtkd.simplycompete.com/eventDetails/11f15b53-ef3c-d352-94e9-063334a1275b/1"
-    },
-    {
-        "nome": "SOUTH TYROL TAEKWONDO OPEN 2026",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-10-04",
-        "data_scadenza": "2026-10-04",
-        "luogo": "Da definire",
-        "livello": "Internazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=c2AJJTn8PmRKbPXENICadgxv3vziQv%2bZ8sm8c%2bKyusc%3d"
     },
     {
         "nome": "DTU FINAL 7 SAARLAND OPEN 2026",
