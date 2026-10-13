@@ -66,7 +66,7 @@
         "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=923"
     },
     {
-        "nome": "INTERREGIONALE PUGLIA  -  FORME - BE - CH - OVER 60  - Camionato Interregionale 2026 Palazzetto dello Sport \"Karol Wojtyla\" - Martina Franca",
+        "nome": "INTERREGIONALE PUGLIA  -  FORME - BE - CH - OVER 60  - Campionato Interregionale 2026 Palazzetto dello Sport \"Karol Wojtyla\" - Martina Franca",
         "tipo": "Gara",
         "disciplina": "Poomsae",
         "data_evento": "2026-11-07",
@@ -75,6 +75,17 @@
         "livello": "Nazionale",
         "categorie": "Tutte le categorie",
         "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=921"
+    },
+    {
+        "nome": "INTERREGIONALE PUGLIA  -  FREESTYLE  - Campionato Interregionale - KI-CA-JU-U25-U30-U50 palazzetto dello Sport \"Karol Wojtyla\" - Martina Franca",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-11-07",
+        "data_scadenza": "2026-11-07",
+        "luogo": "Martina Franca",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=919"
     },
     {
         "nome": "INTERREGIONALE Veneto - DOLOMITI TAEKWONDO OPEN 2026 - Cadets fino a cintura blu Palasport ‘Livio Romare’ Viale Dell’ Industria, 96 Schio (VI) - Schio",
@@ -121,26 +132,15 @@
         "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=920"
     },
     {
-        "nome": "INTERREGIONALE Sardegna - Autunno in Dobok 2026 - Torneo Interregionale Forme/Freestyle/Parataekwondo Palazzetto dello Sport \"Sa Rodia\" - Oristano",
+        "nome": "INTERREGIONALE PUGLIA  -  FORMULA  \"B\"  - Campionato Interregionale FORME  - KI-CA-JU-U21-U25-30-U35-U40-U50-U60-OVER 60 Palazzetto dello Sport \"KAROL WOJTYLA\" - Martina Franca",
         "tipo": "Gara",
         "disciplina": "Poomsae",
         "data_evento": "2026-11-08",
         "data_scadenza": "2026-11-08",
-        "luogo": "Oristano",
+        "luogo": "Martina Franca",
         "livello": "Nazionale",
         "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=918"
-    },
-    {
-        "nome": "INTERREGIONALE Veneto - DOLOMITI TAEKWONDO OPEN 2026 - Beginners Children Kids Palasport ‘Livio Romare’ Viale Dell’ Industria, 96 Schio (VI) - Schio",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-11-08",
-        "data_scadenza": "2026-11-08",
-        "luogo": "Beginners Children Kids",
-        "livello": "Nazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=911"
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=924"
     },
     {
         "nome": "23RD GALEB BELGRADE TROPHY - SERBIA OPEN 2026",
@@ -207,6 +207,17 @@
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
         "link": "https://tkdregistrace.cz/"
+    },
+    {
+        "nome": "7TH TAEKWONDO TORINO ROYAL CUP 2026",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-12-05",
+        "data_scadenza": "2026-12-06",
+        "luogo": "Da definire",
+        "livello": "Internazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=OB3x9uQOtNMp6Rtj3%2bXwn4s6RQAHBnxulp1Z6SEFbEY%3d"
     },
     {
         "nome": "DTU FINAL 7 SAARLAND OPEN 2026",
@@ -466,7 +477,7 @@
         "tipo": "Gara",
         "disciplina": "Kyorugi",
         "data_evento": "2026-11-07",
-        "data_scadenza": "2026-10-24",
+        "data_scadenza": "2026-11-07",
         "luogo": "HOLSTEIN CUP City Kaltenkirchen",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
@@ -495,7 +506,7 @@
         "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=PGsxeLg8nHOjiqqzOwA1eVq8wlo1zJI4znm9wpFrlOc%3d"
     },
     {
-        "nome": "3RD MED SPITIR CUP 2026",
+        "nome": "3RD INTERNATIONAL CYPRUS MED SPIRIT CUP 2026",
         "tipo": "Gara",
         "disciplina": "Kyorugi",
         "data_evento": "2026-11-14",
