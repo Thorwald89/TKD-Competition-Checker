@@ -1,16 +1,5 @@
 [
     {
-        "nome": "FITA Campionati Italiani Taekwondo - Rossano 2026 PalaEventi Rossano — Via Carmine Gaetano Candiano, Rossano Stazione, Corigliano-Rossano (CS)",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-10-18",
-        "data_scadenza": "2026-10-18",
-        "luogo": "Rossano",
-        "livello": "Nazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/calendario-eventi/event/781-campionati-italiani-taekwondo-rossano-2026.html"
-    },
-    {
         "nome": "FITA Campionati Italiani Junior Cinture Rosse 2026 PalaEventi Rossano Via Carmine Gaetano Candiano (Rossano Stazione, 87067 Corigliano-Rossano)  - Corigliano-Rossano",
         "tipo": "Gara",
         "disciplina": "Kyorugi",
@@ -231,17 +220,6 @@
         "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=ZPev1xg8aqdUwx4a0YL5E3H5%2b0%2b8DxHtP0wXtvPbtag%3d"
     },
     {
-        "nome": "DTU FINAL 7 SAARLAND OPEN 2026",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-10-10",
-        "data_scadenza": "2026-10-10",
-        "luogo": "Da definire",
-        "livello": "Internazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=kLeZ2r%2bc0qPCCO%2b7E4Zdx519BukI%2bbCBiRgZtECrvkM%3d"
-    },
-    {
         "nome": "ISM OPEN TAEKWONDO CHAMPIONSHIP 2026",
         "tipo": "Gara",
         "disciplina": "Kyorugi",
@@ -455,18 +433,18 @@
         "tipo": "Gara",
         "disciplina": "Poomsae",
         "data_evento": "2026-10-31",
-        "data_scadenza": "2026-10-15",
+        "data_scadenza": "2026-10-31",
         "luogo": "Da definire",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
         "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=rlA3n3OTi1MaZDnd4e4seW%2b6bwDXJBipGZamAwAFgMc%3d"
     },
     {
-        "nome": "DTU FINAL 7 NWTU OPEN",
+        "nome": "DTU FINALS 7 INT. NRW OPEN",
         "tipo": "Gara",
         "disciplina": "Kyorugi",
         "data_evento": "2026-11-07",
-        "data_scadenza": "2026-10-18",
+        "data_scadenza": "2026-10-31",
         "luogo": "Da definire",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
@@ -625,6 +603,17 @@
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
         "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=S0ijPUCEAlbDfsxPUMQd9P5qB0QvlozAXyiHhfBRamg%3d"
+    },
+    {
+        "nome": "CHRISTMAS OPEN 2026",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-12-12",
+        "data_scadenza": "2026-12-07",
+        "luogo": "Da definire",
+        "livello": "Internazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=SkkkvO6gKDRHGGflQ5RE4a81N1XnstciIoQTBtyElI8%3d"
     },
     {
         "nome": "20TH HEREYA OPEN (POOMSAE)",
