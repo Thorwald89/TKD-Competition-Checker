@@ -1,16 +1,5 @@
 [
     {
-        "nome": "FITA Campionati Italiani Junior Cinture Rosse 2026 PalaEventi Rossano Via Carmine Gaetano Candiano (Rossano Stazione, 87067 Corigliano-Rossano)  - Corigliano-Rossano",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-10-16",
-        "data_scadenza": "2026-10-16",
-        "luogo": "Corigliano-Rossano",
-        "livello": "Nazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=888"
-    },
-    {
         "nome": "FITA Campionati Italiani Under 21 2026 PalaEventi Rossano Via Carmine Gaetano Candiano (Rossano Stazione, 87067 Corigliano-Rossano)  - Corigliano-Rossano",
         "tipo": "Gara",
         "disciplina": "Kyorugi",
@@ -132,6 +121,17 @@
         "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=924"
     },
     {
+        "nome": "INTERREGIONALE Sardegna - Autunno in Dobok 2026 - Torneo Interregionale Forme/Freestyle/Parataekwondo Palazzetto dello Sport \"Sa Rodia\" - Oristano",
+        "tipo": "Gara",
+        "disciplina": "Poomsae",
+        "data_evento": "2026-11-08",
+        "data_scadenza": "2026-11-08",
+        "luogo": "Oristano",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=918"
+    },
+    {
         "nome": "23RD GALEB BELGRADE TROPHY - SERBIA OPEN 2026",
         "tipo": "Gara",
         "disciplina": "Kyorugi",
@@ -196,28 +196,6 @@
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
         "link": "https://tkdregistrace.cz/"
-    },
-    {
-        "nome": "7TH TAEKWONDO TORINO ROYAL CUP 2026",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-12-05",
-        "data_scadenza": "2026-12-06",
-        "luogo": "Da definire",
-        "livello": "Internazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=OB3x9uQOtNMp6Rtj3%2bXwn4s6RQAHBnxulp1Z6SEFbEY%3d"
-    },
-    {
-        "nome": "KÄRNAN OPEN 2026",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-12-06",
-        "data_scadenza": "2026-11-16",
-        "luogo": "Da definire",
-        "livello": "Internazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=ZPev1xg8aqdUwx4a0YL5E3H5%2b0%2b8DxHtP0wXtvPbtag%3d"
     },
     {
         "nome": "ISM OPEN TAEKWONDO CHAMPIONSHIP 2026",
@@ -305,7 +283,7 @@
         "luogo": "Da definire",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
-        "link": "https://worldtkd.simplycompete.com/eventDetails/11f19b21-4dc1-5d24-bafc-06be3f44746f/1"
+        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=Jkeev62b0WnPBN3Dx06WUhQG0mD0S7jFxFih12o1AXo%3d"
     },
     {
         "nome": "PORVOO OPEN 2026 KYORUGI",
@@ -356,7 +334,7 @@
         "tipo": "Gara",
         "disciplina": "Kyorugi",
         "data_evento": "2026-10-24",
-        "data_scadenza": "2026-10-16",
+        "data_scadenza": "2026-10-24",
         "luogo": "Da definire",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
@@ -367,7 +345,7 @@
         "tipo": "Gara",
         "disciplina": "Poomsae",
         "data_evento": "2026-10-24",
-        "data_scadenza": "2026-10-16",
+        "data_scadenza": "2026-10-24",
         "luogo": "Da definire",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
@@ -378,7 +356,7 @@
         "tipo": "Gara",
         "disciplina": "Kyorugi",
         "data_evento": "2026-10-24",
-        "data_scadenza": "2026-10-17",
+        "data_scadenza": "2026-10-20",
         "luogo": "Da definire",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
@@ -543,7 +521,7 @@
         "tipo": "Gara",
         "disciplina": "Kyorugi",
         "data_evento": "2026-11-21",
-        "data_scadenza": "2026-11-21",
+        "data_scadenza": "2026-11-16",
         "luogo": "ANHALT CUP City TUSA",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
@@ -592,6 +570,28 @@
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
         "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=NTY8QgnrJwpkH%2bsSqO6KefOGUze1brKD9tBkfZPFdjc%3d"
+    },
+    {
+        "nome": "7TH TAEKWONDO TORINO ROYAL CUP 2026",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-12-05",
+        "data_scadenza": "2026-12-06",
+        "luogo": "Da definire",
+        "livello": "Internazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=OB3x9uQOtNMp6Rtj3%2bXwn4s6RQAHBnxulp1Z6SEFbEY%3d"
+    },
+    {
+        "nome": "KÄRNAN OPEN 2026",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-12-06",
+        "data_scadenza": "2026-11-16",
+        "luogo": "Da definire",
+        "livello": "Internazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=ZPev1xg8aqdUwx4a0YL5E3H5%2b0%2b8DxHtP0wXtvPbtag%3d"
     },
     {
         "nome": "20TH HEREYA OPEN (KYORUGI)",
