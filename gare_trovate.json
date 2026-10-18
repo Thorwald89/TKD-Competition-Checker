@@ -1,16 +1,5 @@
 [
     {
-        "nome": "FITA Campionati Italiani Under 21 2026 PalaEventi Rossano Via Carmine Gaetano Candiano (Rossano Stazione, 87067 Corigliano-Rossano)  - Corigliano-Rossano",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-10-17",
-        "data_scadenza": "2026-10-17",
-        "luogo": "Corigliano-Rossano",
-        "livello": "Nazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=889"
-    },
-    {
         "nome": "FITA Campionati Italiani Senior Cinture Rosse e Campionati Italiani Master Rosse e Nere 2026 PalaEventi Rossano Via Carmine Gaetano Candiano (Rossano Stazione, 87067 Corigliano-Rossano)  - Corigliano-Rossano",
         "tipo": "Gara",
         "disciplina": "Kyorugi",
@@ -132,6 +121,17 @@
         "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=918"
     },
     {
+        "nome": "INTERREGIONALE Veneto - DOLOMITI TAEKWONDO OPEN 2026 - Beginners Children Kids Palasport ‘Livio Romare’ Viale Dell’ Industria, 96 Schio (VI) - Schio",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-11-08",
+        "data_scadenza": "2026-11-08",
+        "luogo": "Beginners Children Kids",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=911"
+    },
+    {
         "nome": "23RD GALEB BELGRADE TROPHY - SERBIA OPEN 2026",
         "tipo": "Gara",
         "disciplina": "Kyorugi",
@@ -198,17 +198,6 @@
         "link": "https://tkdregistrace.cz/"
     },
     {
-        "nome": "ISM OPEN TAEKWONDO CHAMPIONSHIP 2026",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-10-10",
-        "data_scadenza": "2026-10-10",
-        "luogo": "Da definire",
-        "livello": "Internazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=bAGk6kdYtz0sg9%2bpdUUcJkiLINQrOVVYptjBbDKIDOo%3d"
-    },
-    {
         "nome": "MONTENEGRO PODGORICA OPEN 2026 (G1-E1)",
         "tipo": "Gara",
         "disciplina": "Kyorugi",
@@ -218,28 +207,6 @@
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
         "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=N9WV3B4KBidGnpIqABPZDm%2bVrhHda%2f1rd1iZAkUq2HA%3d"
-    },
-    {
-        "nome": "SOKOL CUP 2026",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-10-10",
-        "data_scadenza": "2026-10-10",
-        "luogo": "Da definire",
-        "livello": "Internazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=xKahlO73mWzljvDFhpM%2fp9MSE%2bwc1EO7E%2bgLIqaAPzY%3d"
-    },
-    {
-        "nome": "SVENSKA CUPEN 1 2026 POOMSAE",
-        "tipo": "Gara",
-        "disciplina": "Poomsae",
-        "data_evento": "2026-10-10",
-        "data_scadenza": "2026-10-10",
-        "luogo": "Da definire",
-        "livello": "Internazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=DQ3TQ5LXcnOZogleRnWhptpwzITM7EInJ81TXjEWlUs%3d"
     },
     {
         "nome": "DEUTSCHER JUGENDCUP POOMSAE 2026",
@@ -603,17 +570,6 @@
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
         "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=S0ijPUCEAlbDfsxPUMQd9P5qB0QvlozAXyiHhfBRamg%3d"
-    },
-    {
-        "nome": "CHRISTMAS OPEN 2026",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-12-12",
-        "data_scadenza": "2026-12-07",
-        "luogo": "Da definire",
-        "livello": "Internazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=SkkkvO6gKDRHGGflQ5RE4a81N1XnstciIoQTBtyElI8%3d"
     },
     {
         "nome": "20TH HEREYA OPEN (POOMSAE)",
