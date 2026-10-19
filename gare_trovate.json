@@ -1,16 +1,5 @@
 [
     {
-        "nome": "FITA Campionati Italiani Senior Cinture Rosse e Campionati Italiani Master Rosse e Nere 2026 PalaEventi Rossano Via Carmine Gaetano Candiano (Rossano Stazione, 87067 Corigliano-Rossano)  - Corigliano-Rossano",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-10-18",
-        "data_scadenza": "2026-10-18",
-        "luogo": "Corigliano-Rossano",
-        "livello": "Nazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=890"
-    },
-    {
         "nome": "INTERREGIONALE Campania Campionato interregionale combattimento JUNIORE-SENIOR cinture colorate M/F Palazzetto dello sport di Glugliano in Campania (NA)\r\nVia Campopannone - Giugliano in Campania",
         "tipo": "Gara",
         "disciplina": "Kyorugi",
@@ -132,6 +121,28 @@
         "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=911"
     },
     {
+        "nome": "INTERREGIONALE Piemonte - 7° TORNEO TAEKWONDO TORINO ROYAL CUP 2026 (Beginners, Childrens, Kids, Cadets) Pala Gianni Asti -Torino\r\nViale Leonardo Bistolfi, 10, 10141 Torino (TO)\r\nGoogle Maps: https://maps.app.goo.gl/T95khJvxivbDwszZ8 - Torino",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-12-05",
+        "data_scadenza": "2026-12-05",
+        "luogo": "Torino",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=897"
+    },
+    {
+        "nome": "6TH QATAR OPEN CHAMPIONSHIP 2026",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-10-18",
+        "data_scadenza": "2026-10-21",
+        "luogo": "Da definire",
+        "livello": "Internazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=RTPuT6y%2f3pyiplV8Q1iBpsprlSQtECeR29SvS7%2bk5sQ%3d"
+    },
+    {
         "nome": "23RD GALEB BELGRADE TROPHY - SERBIA OPEN 2026",
         "tipo": "Gara",
         "disciplina": "Kyorugi",
@@ -196,39 +207,6 @@
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
         "link": "https://tkdregistrace.cz/"
-    },
-    {
-        "nome": "MONTENEGRO PODGORICA OPEN 2026 (G1-E1)",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-10-10",
-        "data_scadenza": "2026-10-11",
-        "luogo": "Da definire",
-        "livello": "Internazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=N9WV3B4KBidGnpIqABPZDm%2bVrhHda%2f1rd1iZAkUq2HA%3d"
-    },
-    {
-        "nome": "DEUTSCHER JUGENDCUP POOMSAE 2026",
-        "tipo": "Gara",
-        "disciplina": "Poomsae",
-        "data_evento": "2026-10-11",
-        "data_scadenza": "2026-10-11",
-        "luogo": "Da definire",
-        "livello": "Internazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=A8fSVeScZMhOHlItYqQ4AJxwOtjHs7DQuMZxsQrXbK0%3d"
-    },
-    {
-        "nome": "WARSAW CUP 2026",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-10-11",
-        "data_scadenza": "2026-10-11",
-        "luogo": "Da definire",
-        "livello": "Internazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=1noypYF5YJefFjZnxSiMGj7L3uoDpG%2bmVWoN02n7Y1g%3d"
     },
     {
         "nome": "5TH INT. EUREGIO OPEN 2026",
@@ -334,7 +312,7 @@
         "tipo": "Gara",
         "disciplina": "Kyorugi",
         "data_evento": "2026-10-24",
-        "data_scadenza": "2026-10-18",
+        "data_scadenza": "2026-10-24",
         "luogo": "Da definire",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
