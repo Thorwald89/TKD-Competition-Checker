@@ -77,6 +77,17 @@
         "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=908"
     },
     {
+        "nome": "INTERREGIONALE PUGLIA  -  FORMULA Palazzetto dello Sport \"KAROL WOJTYLA\" - Martina Franca",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-11-08",
+        "data_scadenza": "2026-11-08",
+        "luogo": "FORMULA",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=924"
+    },
+    {
         "nome": "INTERREGIONALE PUGLIA  -  FORMULA  \"A\"  - Campionato Interregionale FORME  - KI-CA-JU-U30-U40-U50-U60 Palazzetto dello Sport \"Karol Wojtyla\" - Martina Franca",
         "tipo": "Gara",
         "disciplina": "Poomsae",
@@ -86,17 +97,6 @@
         "livello": "Nazionale",
         "categorie": "Tutte le categorie",
         "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=920"
-    },
-    {
-        "nome": "INTERREGIONALE PUGLIA  -  FORMULA  \"B\"  - Campionato Interregionale FORME  - KI-CA-JU-U21-U25-30-U35-U40-U50-U60-OVER 60 Palazzetto dello Sport \"KAROL WOJTYLA\" - Martina Franca",
-        "tipo": "Gara",
-        "disciplina": "Poomsae",
-        "data_evento": "2026-11-08",
-        "data_scadenza": "2026-11-08",
-        "luogo": "Martina Franca",
-        "livello": "Nazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=924"
     },
     {
         "nome": "INTERREGIONALE Sardegna - Autunno in Dobok 2026 - Torneo Interregionale Forme/Freestyle/Parataekwondo Palazzetto dello Sport \"Sa Rodia\" - Oristano",
@@ -121,15 +121,15 @@
         "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=911"
     },
     {
-        "nome": "INTERREGIONALE Piemonte - 7° TORNEO TAEKWONDO TORINO ROYAL CUP 2026 (Beginners, Childrens, Kids, Cadets) Pala Gianni Asti -Torino\r\nViale Leonardo Bistolfi, 10, 10141 Torino (TO)\r\nGoogle Maps: https://maps.app.goo.gl/T95khJvxivbDwszZ8 - Torino",
+        "nome": "INTERREGIONALE Veneto - SCALIGER CUP - Poomsae Formula A - Freestyle - Parataekwondo - Coppie Palazzetto dello Sport\r\nVia dello Sport - Valeggio sul Mincio",
         "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-12-05",
-        "data_scadenza": "2026-12-05",
-        "luogo": "Torino",
+        "disciplina": "Poomsae",
+        "data_evento": "2026-11-29",
+        "data_scadenza": "2026-11-29",
+        "luogo": "SCALIGER CUP - Poomsae Formula A - Freestyle - Parataekwondo - Coppie",
         "livello": "Nazionale",
         "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=897"
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=925"
     },
     {
         "nome": "6TH QATAR OPEN CHAMPIONSHIP 2026",
@@ -334,7 +334,7 @@
         "tipo": "Gara",
         "disciplina": "Kyorugi",
         "data_evento": "2026-10-31",
-        "data_scadenza": "2026-10-21",
+        "data_scadenza": "2026-10-24",
         "luogo": "Da definire",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
@@ -345,7 +345,7 @@
         "tipo": "Gara",
         "disciplina": "Poomsae",
         "data_evento": "2026-10-31",
-        "data_scadenza": "2026-10-21",
+        "data_scadenza": "2026-10-31",
         "luogo": "Da definire",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
@@ -466,7 +466,7 @@
         "tipo": "Gara",
         "disciplina": "Kyorugi",
         "data_evento": "2026-11-21",
-        "data_scadenza": "2026-11-16",
+        "data_scadenza": "2026-11-14",
         "luogo": "ANHALT CUP City TUSA",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
