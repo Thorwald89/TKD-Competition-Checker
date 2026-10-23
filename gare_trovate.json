@@ -77,17 +77,6 @@
         "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=908"
     },
     {
-        "nome": "INTERREGIONALE PUGLIA  -  FORMULA Palazzetto dello Sport \"KAROL WOJTYLA\" - Martina Franca",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-11-08",
-        "data_scadenza": "2026-11-08",
-        "luogo": "FORMULA",
-        "livello": "Nazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=924"
-    },
-    {
         "nome": "INTERREGIONALE PUGLIA  -  FORMULA  \"A\"  - Campionato Interregionale FORME  - KI-CA-JU-U30-U40-U50-U60 Palazzetto dello Sport \"Karol Wojtyla\" - Martina Franca",
         "tipo": "Gara",
         "disciplina": "Poomsae",
@@ -97,6 +86,17 @@
         "livello": "Nazionale",
         "categorie": "Tutte le categorie",
         "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=920"
+    },
+    {
+        "nome": "INTERREGIONALE PUGLIA  -  FORMULA  \"B\"  - Campionato Interregionale FORME  - KI-CA-JU-U21-U25-U30-U35-U40-U50-U60-OVER 60 Palazzetto dello Sport \"KAROL WOJTYLA\" - Martina Franca",
+        "tipo": "Gara",
+        "disciplina": "Poomsae",
+        "data_evento": "2026-11-08",
+        "data_scadenza": "2026-11-08",
+        "luogo": "Martina Franca",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=924"
     },
     {
         "nome": "INTERREGIONALE Sardegna - Autunno in Dobok 2026 - Torneo Interregionale Forme/Freestyle/Parataekwondo Palazzetto dello Sport \"Sa Rodia\" - Oristano",
@@ -400,7 +400,7 @@
         "tipo": "Gara",
         "disciplina": "Kyorugi",
         "data_evento": "2026-11-07",
-        "data_scadenza": "2026-10-22",
+        "data_scadenza": "2026-11-07",
         "luogo": "Da definire",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
@@ -411,7 +411,7 @@
         "tipo": "Gara",
         "disciplina": "Kyorugi",
         "data_evento": "2026-11-08",
-        "data_scadenza": "2026-10-22",
+        "data_scadenza": "2026-11-08",
         "luogo": "Da definire",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
