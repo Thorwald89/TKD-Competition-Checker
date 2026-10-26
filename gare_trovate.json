@@ -66,26 +66,15 @@
         "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=910"
     },
     {
-        "nome": "INTERREGIONALE Veneto - DOLOMITI TAEKWONDO OPEN 2026 - Junior Senior Master Palasport ‘Livio Romare’ Viale Dell’ Industria, 96 Schio (VI) - Schio",
+        "nome": "INTERREGIONALE Veneto - DOLOMITI TAEKWONDO OPEN 2026 - Beginners Children Kids Palasport ‘Livio Romare’ Viale Dell’ Industria, 96 Schio (VI) - Schio",
         "tipo": "Gara",
         "disciplina": "Kyorugi",
-        "data_evento": "2026-11-07",
-        "data_scadenza": "2026-11-07",
-        "luogo": "Junior Senior Master",
-        "livello": "Nazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=908"
-    },
-    {
-        "nome": "INTERREGIONALE PUGLIA  -  FORMULA  \"B\"  - Campionato Interregionale FORME  - KI-CA-JU-U21-U25-U30-U35-U40-U50-U60-OVER 60 Palazzetto dello Sport \"KAROL WOJTYLA\" - Martina Franca",
-        "tipo": "Gara",
-        "disciplina": "Poomsae",
         "data_evento": "2026-11-08",
         "data_scadenza": "2026-11-08",
-        "luogo": "Martina Franca",
+        "luogo": "Beginners Children Kids",
         "livello": "Nazionale",
         "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=924"
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=911"
     },
     {
         "nome": "6TH QATAR OPEN CHAMPIONSHIP 2026",
@@ -130,28 +119,6 @@
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
         "link": "https://tkdregistrace.cz/"
-    },
-    {
-        "nome": "EUROPEAN GRAND PRIX OPEN 2026 (E6)",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-10-17",
-        "data_scadenza": "2026-10-18",
-        "luogo": "Da definire",
-        "livello": "Internazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=Jkeev62b0WnPBN3Dx06WUhQG0mD0S7jFxFih12o1AXo%3d"
-    },
-    {
-        "nome": "KRISTIANSTAD OPEN 2026",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-10-18",
-        "data_scadenza": "2026-10-18",
-        "luogo": "Da definire",
-        "livello": "Internazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=VYwtk2CL8AKhIQFvouD3Bf8BKmO47HBgJAlLok3olaY%3d"
     },
     {
         "nome": "13TH RAMUS SOFIA CUP 2026 (KYORUGI)",
@@ -202,7 +169,7 @@
         "tipo": "Gara",
         "disciplina": "Kyorugi",
         "data_evento": "2026-10-31",
-        "data_scadenza": "2026-10-25",
+        "data_scadenza": "2026-10-31",
         "luogo": "Da definire",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
