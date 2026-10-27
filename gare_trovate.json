@@ -1,16 +1,5 @@
 [
     {
-        "nome": "INTERREGIONALE Campania Campionato interregionale combattimento CADETS M/F Palazzetto dello sport di Giugliano in Campania\r\nVia Campopannone - Giugliano in Campania",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-11-07",
-        "data_scadenza": "2026-11-07",
-        "luogo": "Giugliano in Campania",
-        "livello": "Nazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=923"
-    },
-    {
         "nome": "INTERREGIONALE Campania Campionato interregionale combattimento JUNIORE-SENIOR cinture colorate M/F Palazzetto dello sport di Glugliano in Campania (NA)\r\nVia Campopannone - Giugliano in Campania",
         "tipo": "Gara",
         "disciplina": "Kyorugi",
@@ -66,6 +55,28 @@
         "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=910"
     },
     {
+        "nome": "INTERREGIONALE Veneto - DOLOMITI TAEKWONDO OPEN 2026 - Junior Senior Master Palasport ‘Livio Romare’ Viale Dell’ Industria, 96 Schio (VI) - Schio",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-11-07",
+        "data_scadenza": "2026-11-07",
+        "luogo": "Junior Senior Master",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=908"
+    },
+    {
+        "nome": "INTERREGIONALE PUGLIA  -  FORMULA  \"B\"  - Campionato Interregionale FORME  - KI-CA-JU-U21-U25-U30-U35-U40-U50-U60-OVER 60 Palazzetto dello Sport \"KAROL WOJTYLA\" - Martina Franca",
+        "tipo": "Gara",
+        "disciplina": "Poomsae",
+        "data_evento": "2026-11-08",
+        "data_scadenza": "2026-11-08",
+        "luogo": "Martina Franca",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=924"
+    },
+    {
         "nome": "INTERREGIONALE Veneto - DOLOMITI TAEKWONDO OPEN 2026 - Beginners Children Kids Palasport ‘Livio Romare’ Viale Dell’ Industria, 96 Schio (VI) - Schio",
         "tipo": "Gara",
         "disciplina": "Kyorugi",
@@ -75,6 +86,17 @@
         "livello": "Nazionale",
         "categorie": "Tutte le categorie",
         "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=911"
+    },
+    {
+        "nome": "INTERREGIONALE Veneto - SCALIGER CUP - Poomsae Formula A - Freestyle - Parataekwondo - Coppie Palazzetto dello Sport\r\nVia dello Sport - Valeggio sul Mincio",
+        "tipo": "Gara",
+        "disciplina": "Poomsae",
+        "data_evento": "2026-11-29",
+        "data_scadenza": "2026-11-29",
+        "luogo": "SCALIGER CUP - Poomsae Formula A - Freestyle - Parataekwondo - Coppie",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=925"
     },
     {
         "nome": "6TH QATAR OPEN CHAMPIONSHIP 2026",
@@ -235,7 +257,7 @@
         "tipo": "Gara",
         "disciplina": "Kyorugi",
         "data_evento": "2026-11-07",
-        "data_scadenza": "2026-11-04",
+        "data_scadenza": "2026-11-05",
         "luogo": "Da definire",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
