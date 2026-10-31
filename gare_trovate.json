@@ -1,5 +1,16 @@
 [
     {
+        "nome": "INTERREGIONALE Campania Campionato interregionale combattimento CADETS M/F Palazzetto dello sport di Giugliano in Campania\r\nVia Campopannone - Giugliano in Campania",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-11-07",
+        "data_scadenza": "2026-11-07",
+        "luogo": "Giugliano in Campania",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=923"
+    },
+    {
         "nome": "INTERREGIONALE Campania Campionato interregionale combattimento JUNIORE-SENIOR cinture colorate M/F Palazzetto dello sport di Glugliano in Campania (NA)\r\nVia Campopannone - Giugliano in Campania",
         "tipo": "Gara",
         "disciplina": "Kyorugi",
@@ -22,15 +33,15 @@
         "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=921"
     },
     {
-        "nome": "INTERREGIONALE Veneto - DOLOMITI TAEKWONDO OPEN 2026 - Cadets fino a cintura blu Palasport ‘Livio Romare’ Viale Dell’ Industria, 96 Schio (VI) - Schio",
+        "nome": "INTERREGIONALE PUGLIA  -  FREESTYLE  - Campionato Interregionale - KI-CA-JU-U25-U30-U50 palazzetto dello Sport \"Karol Wojtyla\" - Martina Franca",
         "tipo": "Gara",
         "disciplina": "Kyorugi",
         "data_evento": "2026-11-07",
         "data_scadenza": "2026-11-07",
-        "luogo": "Cadets fino a cintura blu",
+        "luogo": "Martina Franca",
         "livello": "Nazionale",
         "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=909"
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=919"
     },
     {
         "nome": "INTERREGIONALE Veneto - DOLOMITI TAEKWONDO OPEN 2026 - Cadets solo ROSSE - POOM Palasport ‘Livio Romare’ Viale Dell’ Industria, 96 Schio (VI) - Schio",
@@ -42,39 +53,6 @@
         "livello": "Nazionale",
         "categorie": "Tutte le categorie",
         "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=910"
-    },
-    {
-        "nome": "INTERREGIONALE Veneto - DOLOMITI TAEKWONDO OPEN 2026 - Junior Senior Master Palasport ‘Livio Romare’ Viale Dell’ Industria, 96 Schio (VI) - Schio",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-11-07",
-        "data_scadenza": "2026-11-07",
-        "luogo": "Junior Senior Master",
-        "livello": "Nazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=908"
-    },
-    {
-        "nome": "INTERREGIONALE PUGLIA  -  FORMULA  \"A\"  - Campionato Interregionale FORME  - KI-CA-JU-U30-U40-U50-U60 Palazzetto dello Sport \"Karol Wojtyla\" - Martina Franca",
-        "tipo": "Gara",
-        "disciplina": "Poomsae",
-        "data_evento": "2026-11-08",
-        "data_scadenza": "2026-11-08",
-        "luogo": "Martina Franca",
-        "livello": "Nazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=920"
-    },
-    {
-        "nome": "INTERREGIONALE PUGLIA  -  FORMULA  \"B\"  - Campionato Interregionale FORME  - KI-CA-JU-U21-U25-U30-U35-U40-U50-U60-OVER 60 Palazzetto dello Sport \"KAROL WOJTYLA\" - Martina Franca",
-        "tipo": "Gara",
-        "disciplina": "Poomsae",
-        "data_evento": "2026-11-08",
-        "data_scadenza": "2026-11-08",
-        "luogo": "Martina Franca",
-        "livello": "Nazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=924"
     },
     {
         "nome": "INTERREGIONALE Veneto - DOLOMITI TAEKWONDO OPEN 2026 - Beginners Children Kids Palasport ‘Livio Romare’ Viale Dell’ Industria, 96 Schio (VI) - Schio",
@@ -130,28 +108,6 @@
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
         "link": "https://tkdregistrace.cz/"
-    },
-    {
-        "nome": "KOREAN AMBASSADORS CUP 2026 KYORUGI",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-11-28",
-        "data_scadenza": "2026-11-20",
-        "luogo": "Da definire",
-        "livello": "Internazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=CSDydXf9inBw%2fFZo8Luy1Ww6byD%2b9e4V1%2bGA861%2fh%2bw%3d"
-    },
-    {
-        "nome": "KOREAN AMBASSADORS CUP 2026 POOMSAE",
-        "tipo": "Gara",
-        "disciplina": "Poomsae",
-        "data_evento": "2026-11-28",
-        "data_scadenza": "2026-11-20",
-        "luogo": "Da definire",
-        "livello": "Internazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=ZYJ1CJDFM%2fXYU3wnhr7npuRoUFpjk%2b5bvLicCzboIJM%3d"
     },
     {
         "nome": "13TH RAMUS SOFIA CUP 2026 (KYORUGI)",
@@ -416,6 +372,28 @@
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
         "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=seUxntqlovU3e590sKvXK%2f0RlNFFmkHSnc6qE04qGFg%3d"
+    },
+    {
+        "nome": "KOREAN AMBASSADORS CUP 2026 KYORUGI",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-11-28",
+        "data_scadenza": "2026-11-20",
+        "luogo": "Da definire",
+        "livello": "Internazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=CSDydXf9inBw%2fFZo8Luy1Ww6byD%2b9e4V1%2bGA861%2fh%2bw%3d"
+    },
+    {
+        "nome": "KOREAN AMBASSADORS CUP 2026 POOMSAE",
+        "tipo": "Gara",
+        "disciplina": "Poomsae",
+        "data_evento": "2026-11-28",
+        "data_scadenza": "2026-11-20",
+        "luogo": "Da definire",
+        "livello": "Internazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=ZYJ1CJDFM%2fXYU3wnhr7npuRoUFpjk%2b5bvLicCzboIJM%3d"
     },
     {
         "nome": "4. INT. ESCHWEILER JUGEND CUP",
