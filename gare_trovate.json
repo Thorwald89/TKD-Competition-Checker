@@ -1,82 +1,5 @@
 [
     {
-        "nome": "INTERREGIONALE Campania Campionato interregionale combattimento CADETS M/F Palazzetto dello sport di Giugliano in Campania\r\nVia Campopannone - Giugliano in Campania",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-11-07",
-        "data_scadenza": "2026-11-07",
-        "luogo": "Giugliano in Campania",
-        "livello": "Nazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=923"
-    },
-    {
-        "nome": "INTERREGIONALE Campania Campionato interregionale combattimento JUNIORE-SENIOR cinture colorate M/F Palazzetto dello sport di Glugliano in Campania (NA)\r\nVia Campopannone - Giugliano in Campania",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-11-07",
-        "data_scadenza": "2026-11-07",
-        "luogo": "Giugliano in Campania",
-        "livello": "Nazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=922"
-    },
-    {
-        "nome": "INTERREGIONALE PUGLIA  -  FORME - BE - CH - OVER 60  - Campionato Interregionale 2026 Palazzetto dello Sport \"Karol Wojtyla\" - Martina Franca",
-        "tipo": "Gara",
-        "disciplina": "Poomsae",
-        "data_evento": "2026-11-07",
-        "data_scadenza": "2026-11-07",
-        "luogo": "Martina Franca",
-        "livello": "Nazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=921"
-    },
-    {
-        "nome": "INTERREGIONALE PUGLIA  -  FREESTYLE  - Campionato Interregionale - KI-CA-JU-U25-U30-U50 palazzetto dello Sport \"Karol Wojtyla\" - Martina Franca",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-11-07",
-        "data_scadenza": "2026-11-07",
-        "luogo": "Martina Franca",
-        "livello": "Nazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=919"
-    },
-    {
-        "nome": "INTERREGIONALE Veneto - DOLOMITI TAEKWONDO OPEN 2026 - Cadets solo ROSSE - POOM Palasport ‘Livio Romare’ Viale Dell’ Industria, 96 Schio (VI) - Schio",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-11-07",
-        "data_scadenza": "2026-11-07",
-        "luogo": "Cadets solo ROSSE - POOM",
-        "livello": "Nazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=910"
-    },
-    {
-        "nome": "INTERREGIONALE Veneto - DOLOMITI TAEKWONDO OPEN 2026 - Beginners Children Kids Palasport ‘Livio Romare’ Viale Dell’ Industria, 96 Schio (VI) - Schio",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-11-08",
-        "data_scadenza": "2026-11-08",
-        "luogo": "Beginners Children Kids",
-        "livello": "Nazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=911"
-    },
-    {
-        "nome": "INTERREGIONALE Sicilia - Torneo Interregionale - CADETS (Cintura Rossa e Nere) Pala Serranò - Via Torre Fortunato, 19 - 98066 Case Nuove Russo Patti (ME) - Patti",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-11-15",
-        "data_scadenza": "2026-11-15",
-        "luogo": "Torneo Interregionale - CADETS",
-        "livello": "Nazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=931"
-    },
-    {
         "nome": "23RD GALEB BELGRADE TROPHY - SERBIA OPEN 2026",
         "tipo": "Gara",
         "disciplina": "Kyorugi",
@@ -92,7 +15,7 @@
         "tipo": "Gara",
         "disciplina": "Kyorugi",
         "data_evento": "2026-11-07",
-        "data_scadenza": "2026-11-05",
+        "data_scadenza": "2026-11-04",
         "luogo": "Da definire",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
@@ -108,50 +31,6 @@
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
         "link": "https://tkdregistrace.cz/"
-    },
-    {
-        "nome": "13TH RAMUS SOFIA CUP 2026 (KYORUGI)",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-10-24",
-        "data_scadenza": "2026-10-24",
-        "luogo": "Da definire",
-        "livello": "Internazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=YjUNPzzFe%2fXyuo7wCXd99b7V1pPqkXAfsVKXOvXH%2fh4%3d"
-    },
-    {
-        "nome": "13TH RAMUS SOFIA CUP 2026 (POOMSAE)",
-        "tipo": "Gara",
-        "disciplina": "Poomsae",
-        "data_evento": "2026-10-24",
-        "data_scadenza": "2026-10-24",
-        "luogo": "Da definire",
-        "livello": "Internazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=iVAwEnwSXXeyC81Mq8hGY7gQmcgAYI6I5cZSOeTk4H4%3d"
-    },
-    {
-        "nome": "JELGAVA OPEN 2026",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-10-24",
-        "data_scadenza": "2026-10-24",
-        "luogo": "Da definire",
-        "livello": "Internazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=Lx%2bl1imfCvc%2fiw2tyL4JbZehm%2bsEcpdtAE79Ke8OGvs%3d"
-    },
-    {
-        "nome": "POLISH CUP BYDGOSZCZ OPEN 2026/PUCHAR POLSKI BYDGOSZCZ 2026",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-10-24",
-        "data_scadenza": "2026-10-24",
-        "luogo": "Da definire",
-        "livello": "Internazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=vsxfDXhNhYuvRydbglITFrt%2b2ooPT8k5kim5MRBCpM8%3d"
     },
     {
         "nome": "DTU FINAL 7 HESSEN OPEN 2026",
@@ -213,7 +92,7 @@
         "tipo": "Gara",
         "disciplina": "Kyorugi",
         "data_evento": "2026-11-07",
-        "data_scadenza": "2026-10-31",
+        "data_scadenza": "2026-11-07",
         "luogo": "Da definire",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
@@ -460,6 +339,17 @@
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
         "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=h0scMDilCicjEbYk6W5nT6CsTsjjjp2fiNDKr9mD7fE%3d"
+    },
+    {
+        "nome": "NEWBIE TAEKWONDO ALPENCUP 2027",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2027-01-30",
+        "data_scadenza": "2027-01-22",
+        "luogo": "Da definire",
+        "livello": "Internazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=5FSQNcvySjlr8fH2FGy74%2f5JNyJCVW%2bjRSgLnEB%2bY98%3d"
     },
     {
         "nome": "OPEN POOMSAE 2027",
