@@ -33,50 +33,6 @@
         "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=923"
     },
     {
-        "nome": "INTERREGIONALE PUGLIA  -  FORME - BE - CH - OVER 60  - Campionato Interregionale 2026 Palazzetto dello Sport \"Karol Wojtyla\" - Martina Franca",
-        "tipo": "Gara",
-        "disciplina": "Poomsae",
-        "data_evento": "2026-11-07",
-        "data_scadenza": "2026-11-07",
-        "luogo": "Martina Franca",
-        "livello": "Nazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=921"
-    },
-    {
-        "nome": "INTERREGIONALE PUGLIA  -  FREESTYLE  - Campionato Interregionale - KI-CA-JU-U25-U30-U50 palazzetto dello Sport \"Karol Wojtyla\" - Martina Franca",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-11-07",
-        "data_scadenza": "2026-11-07",
-        "luogo": "Martina Franca",
-        "livello": "Nazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=919"
-    },
-    {
-        "nome": "INTERREGIONALE Veneto - DOLOMITI TAEKWONDO OPEN 2026 - Cadets fino a cintura blu Palasport ‘Livio Romare’ Viale Dell’ Industria, 96 Schio (VI) - Schio",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-11-07",
-        "data_scadenza": "2026-11-07",
-        "luogo": "Cadets fino a cintura blu",
-        "livello": "Nazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=909"
-    },
-    {
-        "nome": "INTERREGIONALE Veneto - DOLOMITI TAEKWONDO OPEN 2026 - Cadets solo ROSSE - POOM Palasport ‘Livio Romare’ Viale Dell’ Industria, 96 Schio (VI) - Schio",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-11-07",
-        "data_scadenza": "2026-11-07",
-        "luogo": "Cadets solo ROSSE - POOM",
-        "livello": "Nazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=910"
-    },
-    {
         "nome": "INTERREGIONALE Veneto - DOLOMITI TAEKWONDO OPEN 2026 - Junior Senior Master Palasport ‘Livio Romare’ Viale Dell’ Industria, 96 Schio (VI) - Schio",
         "tipo": "Gara",
         "disciplina": "Kyorugi",
@@ -88,15 +44,15 @@
         "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=908"
     },
     {
-        "nome": "INTERREGIONALE Sardegna - Autunno in Dobok 2026 - Torneo Interregionale Forme/Freestyle/Parataekwondo Palazzetto dello Sport \"Sa Rodia\" - Oristano",
+        "nome": "INTERREGIONALE Sicilia - Torneo Interregionale - CADETS (Cintura Rossa e Nere) Pala Serranò - Via Torre Fortunato, 19 - 98066 Case Nuove Russo Patti (ME) - Patti",
         "tipo": "Gara",
-        "disciplina": "Poomsae",
-        "data_evento": "2026-11-08",
-        "data_scadenza": "2026-11-08",
-        "luogo": "Oristano",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-11-15",
+        "data_scadenza": "2026-11-15",
+        "luogo": "Torneo Interregionale - CADETS",
         "livello": "Nazionale",
         "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=918"
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=931"
     },
     {
         "nome": "23RD GALEB BELGRADE TROPHY - SERBIA OPEN 2026",
@@ -114,7 +70,7 @@
         "tipo": "Gara",
         "disciplina": "Kyorugi",
         "data_evento": "2026-11-07",
-        "data_scadenza": "2026-11-04",
+        "data_scadenza": "2026-11-07",
         "luogo": "Da definire",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
@@ -334,7 +290,7 @@
         "tipo": "Gara",
         "disciplina": "Kyorugi",
         "data_evento": "2026-11-21",
-        "data_scadenza": "2026-11-21",
+        "data_scadenza": "2026-11-16",
         "luogo": "ANHALT CUP City TUSA",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
