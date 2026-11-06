@@ -1,16 +1,5 @@
 [
     {
-        "nome": "FITA Campionati Italiani Assoluti 2026 Palazzetto dello Sport Roma (Pala Tiziano)",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-11-20",
-        "data_scadenza": "2026-11-20",
-        "luogo": "Palazzetto dello Sport Roma (Pala Tiziano)",
-        "livello": "Nazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/calendario-eventi/event/794-campionati-italiani-assoluti-2026.html"
-    },
-    {
         "nome": "FITA Corso Nazionale UDG Forme e Freestyle Centro Preparazione Olimpica \\\"Bruno Zauli\\\"",
         "tipo": "Gara",
         "disciplina": "Poomsae",
@@ -33,15 +22,59 @@
         "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=923"
     },
     {
-        "nome": "INTERREGIONALE Veneto - DOLOMITI TAEKWONDO OPEN 2026 - Junior Senior Master Palasport ‘Livio Romare’ Viale Dell’ Industria, 96 Schio (VI) - Schio",
+        "nome": "INTERREGIONALE Campania Campionato interregionale combattimento JUNIORE-SENIOR cinture colorate M/F Palazzetto dello sport di Glugliano in Campania (NA)\r\nVia Campopannone - Giugliano in Campania",
         "tipo": "Gara",
         "disciplina": "Kyorugi",
         "data_evento": "2026-11-07",
         "data_scadenza": "2026-11-07",
-        "luogo": "Junior Senior Master",
+        "luogo": "Giugliano in Campania",
         "livello": "Nazionale",
         "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=908"
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=922"
+    },
+    {
+        "nome": "INTERREGIONALE PUGLIA  -  FORME - BE - CH - OVER 60  - Campionato Interregionale 2026 Palazzetto dello Sport \"Karol Wojtyla\" - Martina Franca",
+        "tipo": "Gara",
+        "disciplina": "Poomsae",
+        "data_evento": "2026-11-07",
+        "data_scadenza": "2026-11-07",
+        "luogo": "Martina Franca",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=921"
+    },
+    {
+        "nome": "INTERREGIONALE Veneto - DOLOMITI TAEKWONDO OPEN 2026 - Cadets fino a cintura blu Palasport ‘Livio Romare’ Viale Dell’ Industria, 96 Schio (VI) - Schio",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-11-07",
+        "data_scadenza": "2026-11-07",
+        "luogo": "Cadets fino a cintura blu",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=909"
+    },
+    {
+        "nome": "INTERREGIONALE Veneto - DOLOMITI TAEKWONDO OPEN 2026 - Cadets solo ROSSE - POOM Palasport ‘Livio Romare’ Viale Dell’ Industria, 96 Schio (VI) - Schio",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-11-07",
+        "data_scadenza": "2026-11-07",
+        "luogo": "Cadets solo ROSSE - POOM",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=910"
+    },
+    {
+        "nome": "INTERREGIONALE Veneto - DOLOMITI TAEKWONDO OPEN 2026 - Beginners Children Kids Palasport ‘Livio Romare’ Viale Dell’ Industria, 96 Schio (VI) - Schio",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-11-08",
+        "data_scadenza": "2026-11-08",
+        "luogo": "Beginners Children Kids",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=911"
     },
     {
         "nome": "INTERREGIONALE Sicilia - Torneo Interregionale - CADETS (Cintura Rossa e Nere) Pala Serranò - Via Torre Fortunato, 19 - 98066 Case Nuove Russo Patti (ME) - Patti",
@@ -162,7 +195,7 @@
         "luogo": "Da definire",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
-        "link": "https://worldtkd.simplycompete.com/eventDetails/11f1bcbe-1d58-c1ca-b354-023d1c5009dd/1"
+        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=FyhJJxV%2fbXzJUjBxDrT8RvrcMFscatt0XhYfCXCX6G8%3d"
     },
     {
         "nome": "DTU FINALS 7 INT. NRW OPEN",
@@ -180,7 +213,7 @@
         "tipo": "Gara",
         "disciplina": "Kyorugi",
         "data_evento": "2026-11-07",
-        "data_scadenza": "2026-11-06",
+        "data_scadenza": "2026-11-07",
         "luogo": "Da definire",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
@@ -330,28 +363,6 @@
         "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=seUxntqlovU3e590sKvXK%2f0RlNFFmkHSnc6qE04qGFg%3d"
     },
     {
-        "nome": "KOREAN AMBASSADORS CUP 2026 KYORUGI",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-11-28",
-        "data_scadenza": "2026-11-20",
-        "luogo": "Da definire",
-        "livello": "Internazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=CSDydXf9inBw%2fFZo8Luy1Ww6byD%2b9e4V1%2bGA861%2fh%2bw%3d"
-    },
-    {
-        "nome": "KOREAN AMBASSADORS CUP 2026 POOMSAE",
-        "tipo": "Gara",
-        "disciplina": "Poomsae",
-        "data_evento": "2026-11-28",
-        "data_scadenza": "2026-11-20",
-        "luogo": "Da definire",
-        "livello": "Internazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=ZYJ1CJDFM%2fXYU3wnhr7npuRoUFpjk%2b5bvLicCzboIJM%3d"
-    },
-    {
         "nome": "4. INT. ESCHWEILER JUGEND CUP",
         "tipo": "Gara",
         "disciplina": "Kyorugi",
@@ -372,6 +383,28 @@
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
         "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=OB3x9uQOtNMp6Rtj3%2bXwn4s6RQAHBnxulp1Z6SEFbEY%3d"
+    },
+    {
+        "nome": "KOREAN AMBASSADORS CUP 2026 KYORUGI",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-12-05",
+        "data_scadenza": "2026-11-27",
+        "luogo": "Da definire",
+        "livello": "Internazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=CSDydXf9inBw%2fFZo8Luy1Ww6byD%2b9e4V1%2bGA861%2fh%2bw%3d"
+    },
+    {
+        "nome": "KOREAN AMBASSADORS CUP 2026 POOMSAE",
+        "tipo": "Gara",
+        "disciplina": "Poomsae",
+        "data_evento": "2026-12-05",
+        "data_scadenza": "2026-11-27",
+        "luogo": "Da definire",
+        "livello": "Internazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=ZYJ1CJDFM%2fXYU3wnhr7npuRoUFpjk%2b5bvLicCzboIJM%3d"
     },
     {
         "nome": "KÄRNAN OPEN 2026",
