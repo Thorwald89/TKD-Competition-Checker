@@ -11,50 +11,6 @@
         "link": "https://www.taekwondoitalia.it/calendario/calendario-eventi/event/792-corso-nazionale-udg-forme-e-freestyle.html"
     },
     {
-        "nome": "INTERREGIONALE Campania Campionato interregionale combattimento CADETS M/F Palazzetto dello sport di Giugliano in Campania\r\nVia Campopannone - Giugliano in Campania",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-11-07",
-        "data_scadenza": "2026-11-07",
-        "luogo": "Giugliano in Campania",
-        "livello": "Nazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=923"
-    },
-    {
-        "nome": "INTERREGIONALE PUGLIA  -  FORME - BE - CH - OVER 60  - Campionato Interregionale 2026 Palazzetto dello Sport \"Karol Wojtyla\" - Martina Franca",
-        "tipo": "Gara",
-        "disciplina": "Poomsae",
-        "data_evento": "2026-11-07",
-        "data_scadenza": "2026-11-07",
-        "luogo": "Martina Franca",
-        "livello": "Nazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=921"
-    },
-    {
-        "nome": "INTERREGIONALE PUGLIA  -  FREESTYLE  - Campionato Interregionale - KI-CA-JU-U25-U30-U50 palazzetto dello Sport \"Karol Wojtyla\" - Martina Franca",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-11-07",
-        "data_scadenza": "2026-11-07",
-        "luogo": "Martina Franca",
-        "livello": "Nazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=919"
-    },
-    {
-        "nome": "INTERREGIONALE Veneto - DOLOMITI TAEKWONDO OPEN 2026 - Cadets solo ROSSE - POOM Palasport ‘Livio Romare’ Viale Dell’ Industria, 96 Schio (VI) - Schio",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-11-07",
-        "data_scadenza": "2026-11-07",
-        "luogo": "Cadets solo ROSSE - POOM",
-        "livello": "Nazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=910"
-    },
-    {
         "nome": "INTERREGIONALE PUGLIA  -  FORMULA  \"A\"  - Campionato Interregionale FORME  - KI-CA-JU-U30-U40-U50-U60 Palazzetto dello Sport \"Karol Wojtyla\" - Martina Franca",
         "tipo": "Gara",
         "disciplina": "Poomsae",
@@ -77,6 +33,17 @@
         "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=924"
     },
     {
+        "nome": "INTERREGIONALE Veneto - DOLOMITI TAEKWONDO OPEN 2026 - Beginners Children Kids Palasport ‘Livio Romare’ Viale Dell’ Industria, 96 Schio (VI) - Schio",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-11-08",
+        "data_scadenza": "2026-11-08",
+        "luogo": "Beginners Children Kids",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=911"
+    },
+    {
         "nome": "INTERREGIONALE Sicilia - Torneo Interregionale - CADETS (Cintura Rossa e Nere) Pala Serranò - Via Torre Fortunato, 19 - 98066 Case Nuove Russo Patti (ME) - Patti",
         "tipo": "Gara",
         "disciplina": "Kyorugi",
@@ -86,6 +53,28 @@
         "livello": "Nazionale",
         "categorie": "Tutte le categorie",
         "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=931"
+    },
+    {
+        "nome": "INTERREGIONALE Sicilia - Torneo Interregionale - CADETS (Gruppi A, B, C, D, escluse cinture Rosse e Nere) Pala Serranò - Via Torre Fortunato, 19 - 98066 Case Nuove Russo Patti (ME) - Patti",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-11-15",
+        "data_scadenza": "2026-11-15",
+        "luogo": "Torneo Interregionale - CADETS",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=932"
+    },
+    {
+        "nome": "REGIONALE EMILIA ROMAGNA - Raduno CADETTI-JUNIOR ultima selezione Dream Cup 2026 Palestra DON BOSCO\r\nvia Bismantova 23 \r\n42123 REGGIO NELL'EMILIA (RE) - Reggio nell'Emilia",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-11-22",
+        "data_scadenza": "2026-11-22",
+        "luogo": "Reggio nell'Emilia",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=938"
     },
     {
         "nome": "23RD GALEB BELGRADE TROPHY - SERBIA OPEN 2026",
@@ -121,6 +110,17 @@
         "link": "https://tkdregistrace.cz/"
     },
     {
+        "nome": "EUROPEAN GRAND PRIX FINAL 2026 (E10)",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-12-05",
+        "data_scadenza": "2026-12-07",
+        "luogo": "Da definire",
+        "livello": "Internazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://worldtkd.simplycompete.com/eventDetails/11f110a8-4f67-aaae-a059-063ab986362d/1"
+    },
+    {
         "nome": "JARKKO MÄKINEN MEMORIAL OPEN 2026 KYORUGI",
         "tipo": "Gara",
         "disciplina": "Kyorugi",
@@ -141,50 +141,6 @@
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
         "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=2USbYRImqTs2TBbfT830pmn65Yo%2byeL3dXdOMMhF%2fOI%3d"
-    },
-    {
-        "nome": "DTU FINAL 7 HESSEN OPEN 2026",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-10-31",
-        "data_scadenza": "2026-10-31",
-        "luogo": "Da definire",
-        "livello": "Internazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=aza6Zt8bGinKGJfZ%2bHvCoXPoqtX600GOtnqkBWfgsCI%3d"
-    },
-    {
-        "nome": "NURTZI OPEN 2026 KYORUGI",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-10-31",
-        "data_scadenza": "2026-10-31",
-        "luogo": "Da definire",
-        "livello": "Internazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=xIuViRIDFOkiV5J3oklr6EmjLAEJPuzeKvkIigqXwOk%3d"
-    },
-    {
-        "nome": "NURTZI OPEN 2026 POOMSAE",
-        "tipo": "Gara",
-        "disciplina": "Poomsae",
-        "data_evento": "2026-10-31",
-        "data_scadenza": "2026-10-31",
-        "luogo": "Da definire",
-        "livello": "Internazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=TyiNigqnKVMY5l65rsJx03x8jYIRrLiUWdnHJXhRwQc%3d"
-    },
-    {
-        "nome": "SVENSKA CUPEN 2 2026 POOMSAE",
-        "tipo": "Gara",
-        "disciplina": "Poomsae",
-        "data_evento": "2026-10-31",
-        "data_scadenza": "2026-10-31",
-        "luogo": "Da definire",
-        "livello": "Internazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=rlA3n3OTi1MaZDnd4e4seW%2b6bwDXJBipGZamAwAFgMc%3d"
     },
     {
         "nome": "GREECE OPEN 2026 G1-E1",
@@ -261,7 +217,7 @@
         "luogo": "Da definire",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
-        "link": "https://worldtkd.simplycompete.com/eventDetails/11f1b99a-b62a-3ef5-b354-023d1c5009dd/1"
+        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=l1ooKS3Xegg3SrIC2wTmzroJ%2fBrzCRQ38tZMmaaraIc%3d"
     },
     {
         "nome": "3RD INTERNATIONAL CYPRUS MED SPIRIT CUP 2026",
@@ -305,7 +261,7 @@
         "luogo": "Da definire",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
-        "link": "https://worldtkd.simplycompete.com/eventDetails/11f1b99c-18b2-6ff9-b354-023d1c5009dd/1"
+        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=PbuoLlJrgHk1wQzNpYEd9XPdAnCA0bIk77xnlPio0N0%3d"
     },
     {
         "nome": "POLISH CUP TORUŃ OPEN 2026/PUCHAR POLSKI TORUŃ 2026",
