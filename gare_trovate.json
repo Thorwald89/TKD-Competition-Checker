@@ -88,17 +88,6 @@
         "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=925"
     },
     {
-        "nome": "INTERREGIONALE Veneto - SCALIGER CUP - Poomsae Formula B - cinture nere / poom Palazzetto dello Sport\r\nVia dello Sport - Valeggio sul Mincio",
-        "tipo": "Gara",
-        "disciplina": "Poomsae",
-        "data_evento": "2026-11-29",
-        "data_scadenza": "2026-11-29",
-        "luogo": "Valeggio sul Mincio",
-        "livello": "Nazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=926"
-    },
-    {
         "nome": "REGIONALE EMILIA ROMAGNA -ATTIVITA' LUDICA - KIM&LIU' GIOCO POOMSAE - Beginners-Children Palazzetto dello Sport di MELDOLA (FC)\r\nvia IV Novembre 4 - Meldola",
         "tipo": "Gara",
         "disciplina": "Poomsae",
@@ -110,7 +99,7 @@
         "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=934"
     },
     {
-        "nome": "INTERREGIONALE Piemonte - 7° TORNEO TAEKWONDO TORINO ROYAL CUP 2026 (Beginners, Childrens, Kids, Cadets) Pala Gianni Asti -Torino\r\nViale Leonardo Bistolfi, 10, 10141 Torino (TO)\r\nGoogle Maps: https://maps.app.goo.gl/T95khJvxivbDwszZ8 - Torino",
+        "nome": "INTERREGIONALE Piemonte - 7° TORNEO TAEKWONDO TORINO ROYAL CUP 2026 (Beginners, Childrens, Kids, Cadets fino a cintura blu) Pala Gianni Asti -Torino\r\nViale Leonardo Bistolfi, 10, 10141 Torino (TO)\r\nGoogle Maps: https://maps.app.goo.gl/T95khJvxivbDwszZ8 - Torino",
         "tipo": "Gara",
         "disciplina": "Kyorugi",
         "data_evento": "2026-12-05",
@@ -119,6 +108,17 @@
         "livello": "Nazionale",
         "categorie": "Tutte le categorie",
         "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=897"
+    },
+    {
+        "nome": "INTERREGIONALE Piemonte - 7° TORNEO TAEKWONDO TORINO ROYAL CUP 2026 (Cadets Rosse/Poom) Pala Gianni Asti -Torino\r\nViale Leonardo Bistolfi, 10, 10141 Torino (TO)\r\nGoogle Maps: https://maps.app.goo.gl/T95khJvxivbDwszZ8 - Torino",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-12-05",
+        "data_scadenza": "2026-12-05",
+        "luogo": "Torino",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=942"
     },
     {
         "nome": "INTERREGIONALE EMILIA ROMAGNA - CADETS - Campionato Regionale GRADI BASSI Emilia Romagna e regioni vicine Palazzetto dello Sport di MELDOLA (FC)\r\nvia IV Novembre 4 - Meldola",
@@ -130,17 +130,6 @@
         "livello": "Nazionale",
         "categorie": "Tutte le categorie",
         "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=927"
-    },
-    {
-        "nome": "INTERREGIONALE EMILIA ROMAGNA - JUN-SEN-MASTER gradi bassi - Camp. Reg. Emilia Romagna e regioni vicine Palazzetto dello sport di MELDOLA (FC)\r\nvia IV Novembre 4 - Meldola",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-12-06",
-        "data_scadenza": "2026-12-06",
-        "luogo": "Meldola",
-        "livello": "Nazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=928"
     },
     {
         "nome": "PRAGUE OPEN 2026",
@@ -279,7 +268,7 @@
         "tipo": "Gara",
         "disciplina": "Kyorugi",
         "data_evento": "2026-11-14",
-        "data_scadenza": "2026-11-10",
+        "data_scadenza": "2026-11-14",
         "luogo": "Da definire",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
@@ -312,7 +301,7 @@
         "tipo": "Gara",
         "disciplina": "Kyorugi",
         "data_evento": "2026-11-21",
-        "data_scadenza": "2026-11-21",
+        "data_scadenza": "2026-11-16",
         "luogo": "ANHALT CUP City TUSA",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
