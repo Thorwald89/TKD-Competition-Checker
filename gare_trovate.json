@@ -77,17 +77,6 @@
         "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=938"
     },
     {
-        "nome": "INTERREGIONALE Veneto - SCALIGER CUP - Poomsae Formula A - Freestyle - Parataekwondo - Coppie Palazzetto dello Sport\r\nVia dello Sport - Valeggio sul Mincio",
-        "tipo": "Gara",
-        "disciplina": "Poomsae",
-        "data_evento": "2026-11-29",
-        "data_scadenza": "2026-11-29",
-        "luogo": "SCALIGER CUP - Poomsae Formula A - Freestyle - Parataekwondo - Coppie",
-        "livello": "Nazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=925"
-    },
-    {
         "nome": "REGIONALE EMILIA ROMAGNA -ATTIVITA' LUDICA - KIM&LIU' GIOCO POOMSAE - Beginners-Children Palazzetto dello Sport di MELDOLA (FC)\r\nvia IV Novembre 4 - Meldola",
         "tipo": "Gara",
         "disciplina": "Poomsae",
@@ -121,17 +110,6 @@
         "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=942"
     },
     {
-        "nome": "INTERREGIONALE EMILIA ROMAGNA - CADETS - Campionato Regionale GRADI BASSI Emilia Romagna e regioni vicine Palazzetto dello Sport di MELDOLA (FC)\r\nvia IV Novembre 4 - Meldola",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-12-06",
-        "data_scadenza": "2026-12-06",
-        "luogo": "CADETS - Campionato Regionale GRADI BASSI Emilia Romagna e regioni vicine",
-        "livello": "Nazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=927"
-    },
-    {
         "nome": "PRAGUE OPEN 2026",
         "tipo": "Gara",
         "disciplina": "Kyorugi",
@@ -163,6 +141,17 @@
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
         "link": "https://worldtkd.simplycompete.com/eventDetails/11f110a8-4f67-aaae-a059-063ab986362d/1"
+    },
+    {
+        "nome": "DEUTSCHER JUGENDCUP POOMSAE 2027",
+        "tipo": "Gara",
+        "disciplina": "Poomsae",
+        "data_evento": "2027-01-17",
+        "data_scadenza": "2027-01-03",
+        "luogo": "Da definire",
+        "livello": "Internazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=FfqYeLHojkr%2bs7GJSS6%2f78hp0102LHWY2gmGODUYrOo%3d"
     },
     {
         "nome": "GREECE OPEN 2026 G1-E1",
