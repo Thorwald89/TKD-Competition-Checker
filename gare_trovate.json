@@ -25,7 +25,7 @@
         "nome": "FITA Corso Nazionale UDG Forme e Freestyle Centro Preparazione Olimpica \\\"Bruno Zauli\\\"",
         "tipo": "Gara",
         "disciplina": "Poomsae",
-        "data_evento": "2026-12-11",
+        "data_evento": "2026-12-20",
         "data_scadenza": "2026-12-11",
         "luogo": "Da definire",
         "livello": "Nazionale",
@@ -66,15 +66,26 @@
         "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=930"
     },
     {
-        "nome": "REGIONALE EMILIA ROMAGNA - Raduno CADETTI-JUNIOR ultima selezione Dream Cup 2026 Palestra DON BOSCO\r\nvia Bismantova 23 \r\n42123 REGGIO NELL'EMILIA (RE) - Reggio nell'Emilia",
+        "nome": "INTERREGIONALE Veneto - SCALIGER CUP - Poomsae Formula A - Freestyle - Parataekwondo - Coppie Palazzetto dello Sport\r\nVia dello Sport - Valeggio sul Mincio",
         "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-11-22",
-        "data_scadenza": "2026-11-22",
-        "luogo": "Reggio nell'Emilia",
+        "disciplina": "Poomsae",
+        "data_evento": "2026-11-29",
+        "data_scadenza": "2026-11-29",
+        "luogo": "SCALIGER CUP - Poomsae Formula A - Freestyle - Parataekwondo - Coppie",
         "livello": "Nazionale",
         "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=938"
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=925"
+    },
+    {
+        "nome": "INTERREGIONALE Veneto - SCALIGER CUP - Poomsae Formula B - cinture nere / poom Palazzetto dello Sport\r\nVia dello Sport - Valeggio sul Mincio",
+        "tipo": "Gara",
+        "disciplina": "Poomsae",
+        "data_evento": "2026-11-29",
+        "data_scadenza": "2026-11-29",
+        "luogo": "Valeggio sul Mincio",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=926"
     },
     {
         "nome": "REGIONALE EMILIA ROMAGNA -ATTIVITA' LUDICA - KIM&LIU' GIOCO POOMSAE - Beginners-Children Palazzetto dello Sport di MELDOLA (FC)\r\nvia IV Novembre 4 - Meldola",
@@ -110,6 +121,17 @@
         "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=942"
     },
     {
+        "nome": "INTERREGIONALE EMILIA ROMAGNA - CADETS - Campionato Regionale GRADI BASSI Emilia Romagna e regioni vicine Palazzetto dello Sport di MELDOLA (FC)\r\nvia IV Novembre 4 - Meldola",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-12-06",
+        "data_scadenza": "2026-12-06",
+        "luogo": "CADETS - Campionato Regionale GRADI BASSI Emilia Romagna e regioni vicine",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=927"
+    },
+    {
         "nome": "PRAGUE OPEN 2026",
         "tipo": "Gara",
         "disciplina": "Kyorugi",
@@ -130,6 +152,17 @@
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
         "link": "https://tkdregistrace.cz/"
+    },
+    {
+        "nome": "MISTRZOSTWA WOJEWÓDZTWA LUBELSKIEGO/SONGO CUP",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-11-29",
+        "data_scadenza": "2026-11-13",
+        "luogo": "Da definire",
+        "livello": "Internazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=Jj7U%2bFJlBwCbFW89YW4Tj3qA23yybeogd8Csev7Dn1E%3d"
     },
     {
         "nome": "EUROPEAN GRAND PRIX FINAL 2026 (E10)",
