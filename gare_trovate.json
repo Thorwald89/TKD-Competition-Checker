@@ -55,17 +55,6 @@
         "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=932"
     },
     {
-        "nome": "INTERREGIONALE Sicilia - Torneo Interregionale - KIDS Pala Serranò - Via Torre Fortunato, 19 - 98066 Case Nuove Russo Patti (ME) - Patti",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-11-15",
-        "data_scadenza": "2026-11-15",
-        "luogo": "Patti",
-        "livello": "Nazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=930"
-    },
-    {
         "nome": "INTERREGIONALE Veneto - SCALIGER CUP - Poomsae Formula A - Freestyle - Parataekwondo - Coppie Palazzetto dello Sport\r\nVia dello Sport - Valeggio sul Mincio",
         "tipo": "Gara",
         "disciplina": "Poomsae",
@@ -121,26 +110,15 @@
         "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=942"
     },
     {
-        "nome": "INTERREGIONALE EMILIA ROMAGNA - CADETS - Campionato Regionale GRADI BASSI Emilia Romagna e regioni vicine Palazzetto dello Sport di MELDOLA (FC)\r\nvia IV Novembre 4 - Meldola",
+        "nome": "INTERREGIONALE Campania Trofeo autorizzato \"DICEARCHIA VIII EDIZIONE Palazzetto dello sport di Giugliano in Campania\r\nVia Campopannone - Giugliano in Campania",
         "tipo": "Gara",
         "disciplina": "Kyorugi",
         "data_evento": "2026-12-06",
         "data_scadenza": "2026-12-06",
-        "luogo": "CADETS - Campionato Regionale GRADI BASSI Emilia Romagna e regioni vicine",
+        "luogo": "Giugliano in Campania",
         "livello": "Nazionale",
         "categorie": "Tutte le categorie",
-        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=927"
-    },
-    {
-        "nome": "PRAGUE OPEN 2026",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-11-07",
-        "data_scadenza": "2026-11-07",
-        "luogo": "Da definire",
-        "livello": "Internazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=2FMp3xX7Y4BoEeCYy4BKRNbj8Pks2OhgVStwaMCSyL4%3d"
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=943"
     },
     {
         "nome": "CZECH OPEN POOMSAE 2026",
@@ -158,11 +136,22 @@
         "tipo": "Gara",
         "disciplina": "Kyorugi",
         "data_evento": "2026-11-29",
-        "data_scadenza": "2026-11-13",
+        "data_scadenza": "2026-11-29",
         "luogo": "Da definire",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
         "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=Jj7U%2bFJlBwCbFW89YW4Tj3qA23yybeogd8Csev7Dn1E%3d"
+    },
+    {
+        "nome": "5TH IMPACT OPEN TAEKWONDO CHAMPIONSHIPS",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-12-04",
+        "data_scadenza": "2026-12-05",
+        "luogo": "Da definire",
+        "livello": "Internazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=2j6hQib9X3xaM0dNTixXyDaNn2XXEfj5hszPrO4Nx5o%3d"
     },
     {
         "nome": "EUROPEAN GRAND PRIX FINAL 2026 (E10)",
@@ -229,6 +218,17 @@
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
         "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=oUJVMtTy0rWEnvUEFCDWF1I85RUJsMxGT%2f3IyywGiCE%3d"
+    },
+    {
+        "nome": "PRAGUE OPEN 2026",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-11-03",
+        "data_scadenza": "2026-12-02",
+        "luogo": "Da definire",
+        "livello": "Internazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://tkdregistrace.cz/"
     },
     {
         "nome": "SVENSKA CUPEN 3 2026",
@@ -345,7 +345,7 @@
         "tipo": "Gara",
         "disciplina": "Kyorugi",
         "data_evento": "2026-11-21",
-        "data_scadenza": "2026-11-13",
+        "data_scadenza": "2026-11-14",
         "luogo": "Da definire",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
@@ -356,7 +356,7 @@
         "tipo": "Gara",
         "disciplina": "Poomsae",
         "data_evento": "2026-11-21",
-        "data_scadenza": "2026-11-13",
+        "data_scadenza": "2026-11-14",
         "luogo": "Da definire",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
