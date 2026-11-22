@@ -44,6 +44,28 @@
         "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=938"
     },
     {
+        "nome": "INTERREGIONALE Veneto - SCALIGER CUP - Poomsae Formula A - Freestyle - Parataekwondo - (Coppie da comunicare via email) Palazzetto dello Sport\r\nVia dello Sport - Valeggio sul Mincio",
+        "tipo": "Gara",
+        "disciplina": "Poomsae",
+        "data_evento": "2026-11-29",
+        "data_scadenza": "2026-11-29",
+        "luogo": "SCALIGER CUP - Poomsae Formula A - Freestyle - Parataekwondo -",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=925"
+    },
+    {
+        "nome": "INTERREGIONALE Veneto - SCALIGER CUP - Poomsae Formula B - cinture nere / poom - Freestyle Palazzetto dello Sport\r\nVia dello Sport - Valeggio sul Mincio",
+        "tipo": "Gara",
+        "disciplina": "Poomsae",
+        "data_evento": "2026-11-29",
+        "data_scadenza": "2026-11-29",
+        "luogo": "Freestyle",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=926"
+    },
+    {
         "nome": "REGIONALE EMILIA ROMAGNA -ATTIVITA' LUDICA - KIM&LIU' GIOCO POOMSAE - Beginners-Children Palazzetto dello Sport di MELDOLA (FC)\r\nvia IV Novembre 4 - Meldola",
         "tipo": "Gara",
         "disciplina": "Poomsae",
@@ -75,6 +97,28 @@
         "livello": "Nazionale",
         "categorie": "Tutte le categorie",
         "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=942"
+    },
+    {
+        "nome": "INTERREGIONALE Campania Trofeo autorizzato \"DICEARCHIA VIII EDIZIONE Palazzetto dello sport di Giugliano in Campania\r\nVia Campopannone - Giugliano in Campania",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-12-06",
+        "data_scadenza": "2026-12-06",
+        "luogo": "Giugliano in Campania",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=943"
+    },
+    {
+        "nome": "INTERREGIONALE EMILIA ROMAGNA - JUN-SEN-MASTER gradi bassi - Camp. Reg. Emilia Romagna e regioni vicine Palazzetto dello sport di MELDOLA (FC)\r\nvia IV Novembre 4 - Meldola",
+        "tipo": "Gara",
+        "disciplina": "Kyorugi",
+        "data_evento": "2026-12-06",
+        "data_scadenza": "2026-12-06",
+        "luogo": "Meldola",
+        "livello": "Nazionale",
+        "categorie": "Tutte le categorie",
+        "link": "https://www.taekwondoitalia.it/calendario/eventi-area-riservata/dettaglio.html?id=928"
     },
     {
         "nome": "INTERREGIONALE EMILIA ROMAGNA - KIDS Campionato Regionale Emilia Romagna e regioni vicine Palazzetto dello Sport di MELDOLA (FC)\r\nvia IV Novembre 4 - Meldola",
@@ -110,15 +154,15 @@
         "link": "https://worldtkd.simplycompete.com/eventDetails/11f110a8-4f67-aaae-a059-063ab986362d/1"
     },
     {
-        "nome": "(YOUTH) 30TH ZAGREB CROATIA OPEN 2026 (E1)",
+        "nome": "14. KAISERWINKL ASKÖ OPEN",
         "tipo": "Gara",
         "disciplina": "Kyorugi",
-        "data_evento": "2026-11-14",
-        "data_scadenza": "2026-11-14",
+        "data_evento": "2026-12-05",
+        "data_scadenza": "2026-12-07",
         "luogo": "Da definire",
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
-        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=l1ooKS3Xegg3SrIC2wTmzroJ%2fBrzCRQ38tZMmaaraIc%3d"
+        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=KMneioK%2bQ40tO2uKcBByMltw%2fuwNTmJnh9PV4txaLu4%3d"
     },
     {
         "nome": "3RD INTERNATIONAL CYPRUS MED SPIRIT CUP 2026",
@@ -130,28 +174,6 @@
         "livello": "Internazionale",
         "categorie": "Tutte le categorie",
         "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=uYCAwPzjLtCWGpmWbnxhRxrKSIRPilpl88IslHrvGTc%3d"
-    },
-    {
-        "nome": "PLOVDIV OPEN 2026",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-11-14",
-        "data_scadenza": "2026-11-14",
-        "luogo": "Da definire",
-        "livello": "Internazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=KjlrZiS%2bB37m7nSPkIlQuGJJAI8dXNC22%2bQJSoC7IQc%3d"
-    },
-    {
-        "nome": "RADVILISKIS CUP 2026",
-        "tipo": "Gara",
-        "disciplina": "Kyorugi",
-        "data_evento": "2026-11-14",
-        "data_scadenza": "2026-11-14",
-        "luogo": "Da definire",
-        "livello": "Internazionale",
-        "categorie": "Tutte le categorie",
-        "link": "https://www.tpss2021.eu/CheckTournament.aspx?Code=71wckHcDm%2b2WaXKY3BAaflT6k%2bm2qZ6TKQqpCi1WSHE%3d"
     },
     {
         "nome": "(SENIORS) 30TH ZAGREB CROATIA OPEN 2026 (G1)",
